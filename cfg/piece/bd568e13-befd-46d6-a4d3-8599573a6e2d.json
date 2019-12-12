@@ -1,0 +1,70 @@
+[
+    {
+        "id": "5801f813-b789-4527-afcf-f83a56e0899a",
+        "templateID": "195a414b-8320-4919-8f65-49bfe52ba81b",
+        "name": "视频-剧情-01",
+        "type": "video-plot",
+        "lockPos": false,
+        "lockSizeRatio": false,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 1,
+        "src": "2551ec70-4b60-400d-b7d3-eb2481426044",
+        "isRemote": false,
+        "time": null,
+        "resolutionRatio": {
+            "width": 0,
+            "height": 0
+        },
+        "displayMode": "fit"
+    },
+    {
+        "id": "f30275a4-49f0-4c94-bbdc-9223b2b11f3b",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 11,
+            "y": 260
+        },
+        "size": {
+            "width": 456.89,
+            "height": 83.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 2,
+        "direction": "horizontal",
+        "string": "带事件的视频\n视频播放完毕,点击直接结束测试",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": "98511c75-ebc3-4ba1-acc3-3c49d32a9e82",
+        "templateID": null,
+        "name": "文本框",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 0,
+            "height": 0
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 1,
+        "direction": "vertical",
+        "string": "请输入文本",
+        "textFont": {
+            "size": 32,
+            "color": "#333333",
+            "family": "arial",
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "align": "center",
+            "line": 1
+        }
+    }
+]

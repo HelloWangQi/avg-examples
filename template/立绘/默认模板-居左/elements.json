@@ -1,0 +1,29 @@
+[
+    {
+        "id": "dd89f72c-2875-4823-b743-e3bf3e7c0c98",
+        "templateID": null,
+        "name": "图片-立绘",
+        "type": "image-draw",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -370,
+            "y": -70
+        },
+        "size": {
+            "width": 280.03125,
+            "height": 580
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 1,
+        "texture": "a2e13d4c-319d-4af4-8996-58689f5e5d7f",
+        "sizeMode": 0,
+        "autoFitMode": "ratio-height"
+    }
+]

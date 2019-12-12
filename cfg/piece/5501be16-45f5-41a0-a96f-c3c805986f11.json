@@ -1,0 +1,45 @@
+[
+    {
+        "id": "4158315a-7011-4d98-8b0b-76e868f23c3f",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 497.78,
+            "height": 83.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 1,
+        "direction": "horizontal",
+        "string": "该画布有剧情跳转元素\n跳过到[播放一次可跳过]的剧情开头",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "6ce3099d-c43b-49c5-b23a-fc8f76657bfa",
+        "name": "剧情跳转",
+        "type": "plot-jump",
+        "jumpPlotID": "5f944e2c-583d-46ff-bd12-1b3f318465ca",
+        "zIndex": 2
+    }
+]

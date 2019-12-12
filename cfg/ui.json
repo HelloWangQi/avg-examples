@@ -1,0 +1,39 @@
+{
+	"desc": "快速入口的配置",
+	"list": [
+		{
+			"name": "基本UI",
+			"key": "ui",
+			"list": [
+				{
+					"id": "41f5a834-fc85-4aea-ada0-5a70d83833c9",
+					"type": "ui-default",
+					"sub": "cover",
+					"name": "封面",
+					"cfg": "031256cb-cf8d-4ffe-a1f9-66d7672cc118"
+				},
+				{
+					"id": "8881681d-7550-425c-a862-e8431368cf95",
+					"type": "ui-default",
+					"sub": "file-mgr",
+					"name": "档案管理",
+					"cfg": "9b5d3c58-4096-4b16-830d-3e74e054143e"
+				},
+				{
+					"id": "c5b01765-a626-455a-8767-f631239b161c",
+					"type": "ui-default",
+					"sub": "env",
+					"name": "环境设置",
+					"cfg": "f56075d5-0578-4dd3-a577-a0cc1cbf9f41"
+				},
+				{
+					"id": "ea2b41f6-9ca0-4a3c-a1d6-aa955d60cf19",
+					"type": "ui-default",
+					"sub": "menu",
+					"name": "菜单",
+					"cfg": "2f855601-33c7-4328-9383-8528c47ac812"
+				}
+			]
+		}
+	]
+}

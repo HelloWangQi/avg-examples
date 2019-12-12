@@ -1,0 +1,29 @@
+[
+    {
+        "id": "c8c52423-f4fd-4663-b38d-8f65b54b13d1",
+        "templateID": null,
+        "name": "图片-道具",
+        "type": "image-item",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 156,
+            "height": 202
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 1,
+        "texture": "4dfb5e28-608e-4d12-ab90-700f4dcc7e6d",
+        "sizeMode": 0,
+        "autoFitMode": "texture-size"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "id": "6a82e967-c60e-4adb-b09d-29cd89c7b034",
+        "name": "数值判断器",
+        "type": "value-judge",
+        "valueID": "ddfa57d5-c9fa-46b0-8cb3-d4542e2f4825",
+        "exec": [
+            {
+                "type": "symbol",
+                "value": "-"
+            },
+            {
+                "type": "number",
+                "value": "100"
+            }
+        ],
+        "situation": {
+            "greater": {
+                "id": "07cfc34b-c44f-473d-8fe5-d3967010acae",
+                "text": "大于",
+                "emitType": "emit-event"
+            },
+            "less": {
+                "id": "e947ff77-98c9-4ae3-ae72-9192b63c560e",
+                "text": "小于",
+                "emitType": "none"
+            },
+            "equal": {
+                "id": "24167bfa-4dd9-4d0f-b029-a2d8481680ea",
+                "text": "等于",
+                "emitType": "none"
+            }
+        },
+        "zIndex": 1
+    },
+    {
+        "id": "488e6dea-5456-44f9-8cb4-6325cbfc2393",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 320,
+            "height": 83.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 2,
+        "direction": "horizontal",
+        "string": "带有数值判断器的画布\n生命值>-100 结束测试",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

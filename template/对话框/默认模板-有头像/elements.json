@@ -1,0 +1,114 @@
+[
+    {
+        "id": "aa0cabf2-66f0-46d6-ba8f-4d4b31a3b4e2",
+        "templateID": null,
+        "name": "对话框",
+        "type": "talk",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": -277.5
+        },
+        "size": {
+            "width": 1280,
+            "height": 165
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 1,
+        "head": {
+            "active": true,
+            "texture": "7e6be316-51b4-4017-a18d-48bc46ec939a",
+            "id": null,
+            "position": {
+                "x": -539,
+                "y": -2
+            },
+            "size": {
+                "width": 147,
+                "height": 141
+            },
+            "scale": {
+                "x": 1,
+                "y": 1
+            }
+        },
+        "roleName": {
+            "active": true,
+            "position": {
+                "x": 110,
+                "y": 117
+            },
+            "size": {
+                "width": 0,
+                "height": 0
+            },
+            "text": {
+                "font": {
+                    "size": 20,
+                    "color": "#ffffff",
+                    "family": "arial",
+                    "bold": false,
+                    "italic": false,
+                    "underline": false,
+                    "align": "center",
+                    "line": 1
+                },
+                "string": "名字"
+            },
+            "bg": {
+                "texture": "a3aa2af6-90f7-4980-bea9-84e84dfa3ec6",
+                "size": {
+                    "width": 206,
+                    "height": 57
+                },
+                "active": true
+            }
+        },
+        "talk": {
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "width": 1280,
+                "height": 165
+            },
+            "bg": {
+                "active": true,
+                "size": {
+                    "width": 1280,
+                    "height": 165
+                },
+                "texture": "784474e3-9fd6-4090-9012-617a1a693003"
+            },
+            "text": {
+                "position": {
+                    "x": -450,
+                    "y": 52
+                },
+                "size": {
+                    "width": 1050,
+                    "height": 0
+                },
+                "string": "对话内容",
+                "font": {
+                    "size": 20,
+                    "color": "#ffffff",
+                    "family": "arial",
+                    "bold": false,
+                    "italic": false,
+                    "underline": false,
+                    "align": "center",
+                    "line": 1
+                }
+            }
+        }
+    }
+]

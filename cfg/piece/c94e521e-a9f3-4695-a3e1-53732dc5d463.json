@@ -1,0 +1,150 @@
+[
+    {
+        "id": "d2764bfd-c022-433a-b8ee-bab381ad3548",
+        "templateID": null,
+        "name": "对话框-01",
+        "type": "talk",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": -277.5
+        },
+        "size": {
+            "width": 1280.0000000000002,
+            "height": 165
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 1,
+        "head": {
+            "active": true,
+            "texture": "4c71e9b0-f874-4890-ba99-a6fe1c254057",
+            "id": "c179c867-f64b-438a-96b4-a26689c69116",
+            "position": {
+                "x": -539,
+                "y": -2
+            },
+            "size": {
+                "height": 141,
+                "width": 147
+            },
+            "scale": {
+                "x": 1,
+                "y": 1
+            }
+        },
+        "roleName": {
+            "active": true,
+            "position": {
+                "x": 531.1538461538465,
+                "y": 116.99999999999994
+            },
+            "size": {
+                "width": 206,
+                "height": 57
+            },
+            "text": {
+                "font": {
+                    "align": "center",
+                    "bold": false,
+                    "color": "#ffffff",
+                    "family": "arial",
+                    "italic": false,
+                    "line": 1,
+                    "size": 20,
+                    "underline": false
+                },
+                "string": "cocos"
+            },
+            "bg": {
+                "active": true,
+                "size": {
+                    "width": 206,
+                    "height": 57
+                },
+                "texture": "a3aa2af6-90f7-4980-bea9-84e84dfa3ec6"
+            }
+        },
+        "talk": {
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "width": 1280,
+                "height": 165
+            },
+            "bg": {
+                "active": true,
+                "size": {
+                    "width": 1280.0000000000002,
+                    "height": 165
+                },
+                "texture": "784474e3-9fd6-4090-9012-617a1a693003"
+            },
+            "text": {
+                "position": {
+                    "x": -450,
+                    "y": 52
+                },
+                "size": {
+                    "width": 1050,
+                    "height": 56.49999999999999
+                },
+                "string": "哈喽,这是一个显示头像的对话框元素,主要在人物对话场景使用\n并且使用了站酷快乐字体",
+                "font": {
+                    "align": "left",
+                    "bold": false,
+                    "color": "#ff0000",
+                    "family": "font5",
+                    "italic": false,
+                    "line": 1,
+                    "size": 20,
+                    "underline": false
+                }
+            }
+        }
+    },
+    {
+        "id": "5b02c98c-eb2e-425b-a196-713dab47aa4b",
+        "templateID": "59f52213-3e8b-4232-baf8-a0f0ba3450d7",
+        "name": "横版文字框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -9.615384615384642,
+            "y": 311.5384615384618
+        },
+        "size": {
+            "width": 320,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 2,
+        "direction": "horizontal",
+        "string": "显示头像的对话框元素",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

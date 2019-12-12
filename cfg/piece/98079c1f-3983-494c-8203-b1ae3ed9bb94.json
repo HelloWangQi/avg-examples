@@ -1,0 +1,70 @@
+[
+    {
+        "id": "6cc78714-5b4d-4107-8eeb-39651fcd783c",
+        "templateID": "195a414b-8320-4919-8f65-49bfe52ba81b",
+        "name": "视频-剧情-01",
+        "type": "video-plot",
+        "lockPos": false,
+        "lockSizeRatio": false,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 1,
+        "src": "2551ec70-4b60-400d-b7d3-eb2481426044",
+        "isRemote": false,
+        "time": null,
+        "resolutionRatio": {
+            "width": 0,
+            "height": 0
+        },
+        "displayMode": "fit"
+    },
+    {
+        "id": "0cd78c29-83ba-4479-b476-2d373fd05102",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 3,
+            "y": 209
+        },
+        "size": {
+            "width": 128,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 2,
+        "direction": "horizontal",
+        "string": "直接播放",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

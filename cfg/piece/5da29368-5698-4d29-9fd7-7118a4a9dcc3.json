@@ -1,0 +1,134 @@
+[
+    {
+        "id": "d6c61599-12d1-46c6-b71f-7b9c5e6a86c2",
+        "name": "数值判断器",
+        "type": "value-judge",
+        "valueID": "ddfa57d5-c9fa-46b0-8cb3-d4542e2f4825",
+        "exec": [],
+        "situation": {
+            "greater": {
+                "id": "b89a5ae2-91ee-4aec-96ba-77b253233ff5",
+                "text": "大于",
+                "emitType": "none"
+            },
+            "less": {
+                "id": "ff9d83c4-31b7-48f0-b038-b94567a3e08f",
+                "text": "小于",
+                "emitType": "none"
+            },
+            "equal": {
+                "id": "46ef3df4-91bd-41a3-9e60-8a8fbc5375ad",
+                "text": "等于",
+                "emitType": "none"
+            }
+        },
+        "zIndex": 1
+    },
+    {
+        "id": "34b3d5bb-4fda-420e-92e2-5336fdaa21ef",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -142,
+            "y": 263
+        },
+        "size": {
+            "width": 817.78,
+            "height": 83.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 2,
+        "direction": "horizontal",
+        "string": "数值判断器\n在画布结束,将要跳转的时候进行数值判断,触发对应的事件",
+        "textFont": {
+            "align": "left",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "6d0e9bb3-c65b-4a58-8595-b36e3ae4dfb9",
+        "templateID": null,
+        "name": "文本框-02",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -101,
+            "y": -7
+        },
+        "size": {
+            "width": 182.28,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 3,
+        "direction": "horizontal",
+        "string": "点我生命+10",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "996f2188-4c67-436d-8e0c-b0d4fc49596f",
+        "name": "文本框-03",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 24,
+            "y": -226
+        },
+        "size": {
+            "width": 608,
+            "height": 83.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#2564ed",
+        "zIndex": 4,
+        "direction": "horizontal",
+        "string": "该画布的数值判断器设置了满足条件不触发\n所以不会触发任何事件",
+        "textFont": {
+            "align": "left",
+            "bold": false,
+            "color": "#2564ed",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

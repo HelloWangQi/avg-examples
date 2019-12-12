@@ -1,0 +1,44 @@
+[
+    {
+        "id": "468baff7-2536-4f8e-bf72-7b496762cc3e",
+        "name": "停止全局背景音乐",
+        "type": "audio-bg-stop-global",
+        "zIndex": 1
+    },
+    {
+        "id": "b9b1ee7d-42c7-4c96-9b05-748dbdd6c0ac",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 288,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 2,
+        "direction": "horizontal",
+        "string": "停止全局背景音乐的播放",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

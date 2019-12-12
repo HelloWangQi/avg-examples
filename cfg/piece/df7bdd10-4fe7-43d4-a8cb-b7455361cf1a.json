@@ -1,0 +1,47 @@
+[
+    {
+        "id": "01c537c3-a84c-4d44-9416-18d868739098",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 552.89,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 1,
+        "direction": "horizontal",
+        "string": "到这个界面,会重新播放全局的背景音乐",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "c1fae288-04e3-4f56-af04-68e33b491973",
+        "name": "背景音乐",
+        "type": "audio-bg",
+        "src": "34fbd074-2ba9-4ade-a757-e94506ef0597",
+        "globalPlay": true,
+        "templateID": null,
+        "zIndex": 2
+    }
+]

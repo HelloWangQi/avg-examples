@@ -1,0 +1,14 @@
+[
+    {
+        "id": "c4801a6f-b7d3-4dee-abf9-d720ae53cd9e",
+        "element": "2d0b65c8-efb1-44a2-afe4-ff875093fea9",
+        "action": {
+            "type": "play",
+            "volume": 100,
+            "time": 0,
+            "loop": false,
+            "isFullPlay": true
+        },
+        "moment": "afterPrevious"
+    }
+]

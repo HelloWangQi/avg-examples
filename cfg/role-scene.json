@@ -1,0 +1,71 @@
+[
+	{
+		"name": "人物",
+		"type": "role",
+		"children": [
+			{
+				"name": "默认分类",
+				"type": "role",
+				"fold": true,
+				"id": "ccfa28d8-bbbd-4452-9489-a949fd683220",
+				"children": [
+					{
+						"id": "0a1e54f4-f04b-4894-8209-d15be236d8c5",
+						"name": "cocos",
+						"type": "role",
+						"details": "cocos",
+						"fold": true,
+						"tags": [
+							{
+								"id": "c179c867-f64b-438a-96b4-a26689c69116",
+								"tag": "表情-1",
+								"image": "27497e5b-0b6d-48a4-8370-7699236b12b8",
+								"imageHead": "4c71e9b0-f874-4890-ba99-a6fe1c254057"
+							},
+							{
+								"id": "4be04464-8ea1-407a-9f8d-4b905111dcbb",
+								"tag": "表情-2",
+								"image": "66bfc63b-953a-4808-a1ff-11bed323ee46",
+								"imageHead": "61389d82-2e91-49b0-ba3e-13e7f0be8a76"
+							}
+						]
+					},
+					{
+						"id": "cd289a07-8c16-41f8-9448-d6c1ba339c0a",
+						"name": "avg",
+						"type": "role",
+						"details": "avg",
+						"fold": true,
+						"tags": [
+							{
+								"id": "8728ebec-6a9d-4964-acf3-8a692ce46022",
+								"tag": "表情-1",
+								"image": "811d9b6d-2782-496a-85e7-145eae247c16",
+								"imageHead": "75b44aec-dfb9-4699-a4db-c9b6751e3f52"
+							},
+							{
+								"id": "770a2b4b-8c21-41df-b21b-273d9b07d609",
+								"tag": "表情-2",
+								"image": "57395bb8-487f-4898-8cea-ff09f1f78aa7",
+								"imageHead": "49016bd8-e928-4b12-b11b-946c71aab592"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "场景",
+		"type": "scene",
+		"children": [
+			{
+				"name": "默认分类",
+				"type": "scene",
+				"fold": true,
+				"id": "b2d50daa-7a55-4f03-a7c3-137bc34929c7",
+				"children": []
+			}
+		]
+	}
+]

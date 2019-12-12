@@ -1,0 +1,22 @@
+[
+    {
+        "id": "ad899425-fc2b-4a31-8b4a-5b0b01e4d557",
+        "element": "9a092f55-0104-4075-8569-494f0daa911e",
+        "type": "plot",
+        "count": 1,
+        "emitType": "click",
+        "jump": null,
+        "delayTime": 0,
+        "action": "none"
+    },
+    {
+        "id": "45735614-7f81-4de7-ab10-ffc5faf3cdd1",
+        "element": "71e7254d-7793-4ecf-aa92-7727a598d024",
+        "type": "plot",
+        "count": 1,
+        "emitType": "click",
+        "jump": null,
+        "delayTime": 0,
+        "action": "none"
+    }
+]

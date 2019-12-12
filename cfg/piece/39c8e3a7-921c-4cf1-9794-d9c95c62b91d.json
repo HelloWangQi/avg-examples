@@ -1,0 +1,159 @@
+[
+    {
+        "id": "d7effde2-e601-48bb-8afa-daf7bcbd88b4",
+        "name": "背景音乐",
+        "type": "audio-bg",
+        "src": "42a5848c-512c-446e-a651-aac647451021",
+        "globalPlay": false,
+        "templateID": "2f9248d3-1e8b-4e1a-95d7-74cfdc62abd1",
+        "zIndex": 2
+    },
+    {
+        "id": "8f7e121e-22be-4123-acaf-726bb257b4f1",
+        "templateID": null,
+        "name": "对话框-01",
+        "type": "talk",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": -277.5
+        },
+        "size": {
+            "width": 1280,
+            "height": 165
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 3,
+        "head": {
+            "active": false,
+            "texture": "7e6be316-51b4-4017-a18d-48bc46ec939a",
+            "id": null,
+            "position": {
+                "x": -539,
+                "y": -2
+            },
+            "size": {
+                "height": 141,
+                "width": 147
+            },
+            "scale": {
+                "x": 1,
+                "y": 1
+            }
+        },
+        "roleName": {
+            "active": true,
+            "position": {
+                "x": -534.827586206897,
+                "y": 110.10344827586209
+            },
+            "size": {
+                "width": 206,
+                "height": 57.00000000000001
+            },
+            "text": {
+                "font": {
+                    "align": "left",
+                    "bold": false,
+                    "color": "#ffffff",
+                    "family": "arial",
+                    "italic": false,
+                    "line": 1,
+                    "size": 20,
+                    "underline": false
+                },
+                "string": "陌生人"
+            },
+            "bg": {
+                "active": true,
+                "size": {
+                    "width": 206,
+                    "height": 57.00000000000001
+                },
+                "texture": "a3aa2af6-90f7-4980-bea9-84e84dfa3ec6"
+            }
+        },
+        "talk": {
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "width": 1280,
+                "height": 165
+            },
+            "bg": {
+                "active": true,
+                "size": {
+                    "width": 1280,
+                    "height": 165
+                },
+                "texture": "784474e3-9fd6-4090-9012-617a1a693003"
+            },
+            "text": {
+                "position": {
+                    "x": -609,
+                    "y": 52
+                },
+                "size": {
+                    "width": 1210,
+                    "height": 31.5
+                },
+                "string": "哈喽,这是一个不显示头像的对话框元素,主要在人物对话场景使用",
+                "font": {
+                    "align": "left",
+                    "bold": false,
+                    "color": "#ffffff",
+                    "family": "arial",
+                    "italic": false,
+                    "line": 1,
+                    "size": 20,
+                    "underline": false
+                }
+            }
+        }
+    },
+    {
+        "id": "22c4fd26-74cb-4db7-a5b7-27c7712af8f5",
+        "templateID": null,
+        "name": "横版文字框-05",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -17.241379310345735,
+            "y": 289.655172413793
+        },
+        "size": {
+            "width": 352,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 6,
+        "direction": "horizontal",
+        "string": "不显示头像的对话框元素",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

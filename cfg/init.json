@@ -1,0 +1,11 @@
+{
+    "isTest": true,
+    "startPiece": "28924a3d-78b0-4aa6-ab35-59d1f8d89ed7",
+    "mode": "horizontal",
+    "type": "adve",
+    "size": {
+        "width": 1280,
+        "height": 720
+    },
+    "isPublish": false
+}

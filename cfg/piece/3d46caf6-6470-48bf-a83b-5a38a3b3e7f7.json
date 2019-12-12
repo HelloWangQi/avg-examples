@@ -1,0 +1,45 @@
+[
+    {
+        "id": "b7317c41-9012-4f09-98a3-0e0c45c8060a",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 419.58,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 1,
+        "direction": "horizontal",
+        "string": "连续播放2,发生剧情跳转,测试结束",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "ef430b42-86be-4ae4-98f6-09faa484f899",
+        "name": "剧情跳转",
+        "type": "plot-jump",
+        "jumpPlotID": "f89ad0ac-1fcb-4cfb-93db-f50db520ea9b",
+        "zIndex": 2
+    }
+]
