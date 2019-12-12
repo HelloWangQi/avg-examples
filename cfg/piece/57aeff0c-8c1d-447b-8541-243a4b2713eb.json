@@ -1,5 +1,33 @@
 [
     {
+        "id": "49acc3dd-a045-462e-b57d-ebccbe6c80db",
+        "templateID": "910285af-0501-4248-9b00-bf51c782ab54",
+        "name": "背景-01",
+        "type": "image-bg",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 1280,
+            "height": 719.6251952108277
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 1,
+        "linkID": null,
+        "texture": "6a588765-2ea5-41fb-9faf-141a1153367a",
+        "sizeMode": 0,
+        "autoFitMode": "ratio-width"
+    },
+    {
         "id": "15f85fca-2003-4d37-8419-7339a9e3e29b",
         "templateID": "fd431408-1f07-4113-b5dd-7367152a4af7",
         "name": "立绘-01",
@@ -21,7 +49,7 @@
         "active": true,
         "opacity": 255,
         "color": "#ffffff",
-        "zIndex": 1,
+        "zIndex": 2,
         "linkID": null,
         "texture": "811d9b6d-2782-496a-85e7-145eae247c16",
         "sizeMode": 0,
@@ -49,7 +77,7 @@
         "active": true,
         "opacity": 255,
         "color": "#ff0027",
-        "zIndex": 2,
+        "zIndex": 3,
         "direction": "horizontal",
         "string": "推出",
         "textFont": {

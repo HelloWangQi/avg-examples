@@ -2,7 +2,7 @@
 	{
 		"id": "d9a0c3da-7d66-41ac-bdfc-dda38fbe3b1c",
 		"type": "plot_chapter",
-		"fold": true,
+		"fold": false,
 		"root": false,
 		"name": "元素",
 		"children": [
@@ -265,7 +265,7 @@
 	{
 		"id": "94a94af7-694a-4fd0-a8c5-e305ae65f85d",
 		"type": "plot_chapter",
-		"fold": true,
+		"fold": false,
 		"root": false,
 		"name": "画布转场动画",
 		"children": [

@@ -1,5 +1,33 @@
 [
     {
+        "id": "a180e155-d53c-4be2-b511-9796a909c6e6",
+        "templateID": "910285af-0501-4248-9b00-bf51c782ab54",
+        "name": "背景-01",
+        "type": "image-bg",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 1280,
+            "height": 719.6251952108277
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 1,
+        "linkID": null,
+        "texture": "899f1fc0-043f-4bd2-9222-85d9f1451f5e",
+        "sizeMode": 0,
+        "autoFitMode": "ratio-width"
+    },
+    {
         "id": "38de4c83-a478-4b12-9cb4-b6c98aefff47",
         "templateID": null,
         "name": "文本框-01",
@@ -21,7 +49,7 @@
         "active": true,
         "opacity": 255,
         "color": "#ff0027",
-        "zIndex": 1,
+        "zIndex": 2,
         "direction": "horizontal",
         "string": "插入",
         "textFont": {
@@ -57,7 +85,7 @@
         "active": true,
         "opacity": 255,
         "color": "#ffffff",
-        "zIndex": 2,
+        "zIndex": 3,
         "linkID": null,
         "texture": "27497e5b-0b6d-48a4-8370-7699236b12b8",
         "sizeMode": 0,

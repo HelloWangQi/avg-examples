@@ -1029,5 +1029,13 @@
     "fcc3c1d8-3018-43ca-9d91-f25fda6ad31e": {
         "path": "cfg/piece/dd97fbb7-d21c-4842-8d75-521d42aa7382.json",
         "type": "piece"
+    },
+    "6a588765-2ea5-41fb-9faf-141a1153367a": {
+        "path": "res/image/bg/背景-1.jpg",
+        "type": "image"
+    },
+    "899f1fc0-043f-4bd2-9222-85d9f1451f5e": {
+        "path": "res/image/bg/背景-2.jpg",
+        "type": "image"
     }
 }
