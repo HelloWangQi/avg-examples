@@ -151,7 +151,7 @@
 	{
 		"id": "b193b1f4-e9de-498c-acbe-5083dea446ac",
 		"type": "plot_chapter",
-		"fold": true,
+		"fold": false,
 		"root": false,
 		"name": "事件",
 		"children": [
@@ -173,7 +173,7 @@
 	{
 		"id": "868b1136-379c-4513-8b0c-ab592689e87c",
 		"type": "plot_chapter",
-		"fold": true,
+		"fold": false,
 		"root": false,
 		"name": "设为结局",
 		"children": [
@@ -195,7 +195,7 @@
 	{
 		"id": "c5b1c7ca-5439-4bcb-9498-bfd35dcc1705",
 		"type": "plot_chapter",
-		"fold": true,
+		"fold": false,
 		"root": false,
 		"name": "章节跳过属性",
 		"children": [
@@ -285,31 +285,9 @@
 		"next": null
 	},
 	{
-		"id": "bfcdd408-6d46-445e-a86f-16a140a6cede",
-		"type": "plot_chapter",
-		"fold": true,
-		"root": false,
-		"name": "数值",
-		"children": [
-			{
-				"id": "44e55a03-b57d-4548-a1b9-e3b7d43d8a0e",
-				"type": "plot_content",
-				"fold": false,
-				"root": false,
-				"name": "剧情1",
-				"children": [],
-				"next": null,
-				"piece": "ee705a5d-f8f8-43d5-97ad-9377aa6aac6a",
-				"end": false,
-				"skip": "forbid"
-			}
-		],
-		"next": null
-	},
-	{
 		"id": "b4915bc0-c6d7-4634-8f7c-8d11fb347a8a",
 		"type": "plot_chapter",
-		"fold": true,
+		"fold": false,
 		"root": false,
 		"name": "画布连续播放",
 		"children": [
@@ -343,7 +321,7 @@
 	{
 		"id": "649fe1c7-87f9-4348-ad6a-8f856c61a05e",
 		"type": "plot_chapter",
-		"fold": true,
+		"fold": false,
 		"root": false,
 		"name": "结局",
 		"children": [
