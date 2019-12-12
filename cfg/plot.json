@@ -1,0 +1,390 @@
+[
+	{
+		"id": "d9a0c3da-7d66-41ac-bdfc-dda38fbe3b1c",
+		"type": "plot_chapter",
+		"fold": false,
+		"root": false,
+		"name": "元素",
+		"children": [
+			{
+				"id": "fa89b186-48bb-4392-ad72-0731df6d943e",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "基础元素",
+				"children": [],
+				"next": null,
+				"piece": "bb2ed712-0ca5-4f24-9656-a4e31465e891",
+				"end": false,
+				"skip": "forbid"
+			},
+			{
+				"id": "82394d77-5328-45c1-85e8-2989c6adf6ae",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "剧情选择器",
+				"children": [],
+				"next": null,
+				"end": false,
+				"piece": "ec9eaa2c-7c47-43fe-af5b-09c2c8418fa0"
+			},
+			{
+				"id": "5eeb3511-8910-4e44-9711-7906db2f9df2",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "QTE触发方式",
+				"children": [],
+				"next": null,
+				"piece": "e7b22957-c564-4c5c-b174-baba7ea5ffff",
+				"end": false,
+				"skip": "forbid"
+			},
+			{
+				"id": "23104181-0a7b-4b01-a71b-3c2da7dd6ea3",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "QTE属性未完成",
+				"children": [],
+				"next": null,
+				"end": false,
+				"piece": "9d1cad02-bff9-4765-98ec-919c6e8c7f40"
+			},
+			{
+				"id": "a6acf9d0-ac36-4b00-9e9a-20e3389e50fd",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "QTE事件",
+				"children": [],
+				"next": null,
+				"piece": "54d7fbba-13cb-4c43-a813-8ae6364d4a49",
+				"end": false,
+				"skip": "forbid"
+			},
+			{
+				"id": "f9d0be86-c4d7-437f-a2cc-f4fcf0e5f5df",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "数值判断器",
+				"children": [],
+				"next": null,
+				"piece": "21859adf-e7b1-4166-9450-eeb1a0b28bb8",
+				"end": false,
+				"skip": "forbid"
+			},
+			{
+				"id": "7e7ecf35-d929-45bf-b309-051b2ecd48be",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "数值判断器和剧情跳转共存",
+				"children": [],
+				"next": null,
+				"piece": "0eea4506-9261-41f6-bb18-9878fd07fb5c",
+				"end": false,
+				"skip": "forbid"
+			},
+			{
+				"id": "b5755b5e-930e-4262-9e7a-39fa9ce53bc2",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "特效",
+				"children": [],
+				"next": null,
+				"end": false,
+				"piece": "ddebf43b-7d6e-4e14-946f-07393386fdd0"
+			},
+			{
+				"id": "80e9f9fe-1d3e-433d-9492-bcb3bd885b49",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "音频",
+				"children": [],
+				"next": null,
+				"piece": "6cbfc8fb-562e-4135-82dd-e883e0d09a84",
+				"end": false,
+				"skip": "forbid"
+			},
+			{
+				"id": "e8d772dd-1761-4355-b28b-f08a416ba52b",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "视频",
+				"children": [],
+				"next": null,
+				"piece": "fd6f20e5-9776-4218-b571-473d3cea9afb",
+				"end": false,
+				"skip": "forbid"
+			}
+		],
+		"next": null
+	},
+	{
+		"id": "a3d603e0-dd9d-42f2-bf7e-c27029d7972e",
+		"type": "plot_chapter",
+		"fold": true,
+		"root": false,
+		"name": "动画",
+		"children": [
+			{
+				"id": "7abafd31-b3ce-4268-8f71-c21807fc9124",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "动画",
+				"children": [],
+				"next": null,
+				"piece": "6ca40686-ad85-4232-9b0a-96bdf89580c6",
+				"end": false,
+				"skip": "forbid"
+			}
+		],
+		"next": null
+	},
+	{
+		"id": "b193b1f4-e9de-498c-acbe-5083dea446ac",
+		"type": "plot_chapter",
+		"fold": false,
+		"root": false,
+		"name": "事件",
+		"children": [
+			{
+				"id": "0f5042e6-2ee1-4a0c-8ecd-72ec1ac7b4d1",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "剧情",
+				"children": [],
+				"next": null,
+				"piece": "6f838c6a-7ecb-4d3a-9c2f-628caa8f4b18",
+				"end": false,
+				"skip": "forbid"
+			}
+		],
+		"next": null
+	},
+	{
+		"id": "868b1136-379c-4513-8b0c-ab592689e87c",
+		"type": "plot_chapter",
+		"fold": false,
+		"root": false,
+		"name": "设为结局",
+		"children": [
+			{
+				"id": "9f99f93f-180c-4a02-a6e9-b63b2bcd052a",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "剧情1",
+				"children": [],
+				"next": null,
+				"piece": "20c1a596-93af-4ab5-b47d-24213fb83765",
+				"end": true,
+				"skip": "forbid"
+			}
+		],
+		"next": null
+	},
+	{
+		"id": "c5b1c7ca-5439-4bcb-9498-bfd35dcc1705",
+		"type": "plot_chapter",
+		"fold": false,
+		"root": false,
+		"name": "章节跳过属性",
+		"children": [
+			{
+				"id": "0cfd32de-be78-42dc-bc42-2bbe80b67c75",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "不可跳过",
+				"children": [],
+				"next": null,
+				"piece": "f831cb2c-d0c7-4eb9-963d-f3f0b3a4e88b",
+				"end": false,
+				"skip": "forbid"
+			},
+			{
+				"id": "7158f2f4-42f3-48b2-9890-ed06bd83dd35",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "直接跳过剧情1",
+				"children": [],
+				"next": null,
+				"piece": "b3c2d165-a76c-4311-bfd1-4daa669d7576",
+				"end": false,
+				"skip": "always"
+			},
+			{
+				"id": "0b04a792-f723-426f-978a-6092f0cc6fed",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "直接跳过剧情2",
+				"children": [],
+				"next": null,
+				"piece": "cd0ebe58-01e5-4725-b463-f33e7107ffbb",
+				"end": false,
+				"skip": "always"
+			},
+			{
+				"id": "a586996f-46d1-4462-a99b-451f2c2232b7",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "直接跳过剧情3",
+				"children": [],
+				"next": null,
+				"piece": "09586b55-2c71-4748-b28a-501a6f0fbe87",
+				"end": false,
+				"skip": "always"
+			},
+			{
+				"id": "5f944e2c-583d-46ff-bd12-1b3f318465ca",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "播放一次可跳过",
+				"children": [],
+				"next": null,
+				"piece": "c07f3c23-6d71-473f-8003-30e82498814a",
+				"end": false,
+				"skip": "once"
+			}
+		],
+		"next": null
+	},
+	{
+		"id": "94a94af7-694a-4fd0-a8c5-e305ae65f85d",
+		"type": "plot_chapter",
+		"fold": false,
+		"root": false,
+		"name": "画布转场动画",
+		"children": [
+			{
+				"id": "594b3ffe-3447-46fc-bb4e-8e5448170c21",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "剧情1",
+				"children": [],
+				"next": null,
+				"piece": "bba56b19-1f12-4fc6-8ae8-e57a11e4e726",
+				"end": false,
+				"skip": "forbid"
+			}
+		],
+		"next": null
+	},
+	{
+		"id": "b4915bc0-c6d7-4634-8f7c-8d11fb347a8a",
+		"type": "plot_chapter",
+		"fold": false,
+		"root": false,
+		"name": "画布连续播放",
+		"children": [
+			{
+				"id": "440f5c0f-a654-4dee-9752-88558b39493d",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "连续播放-剧情无跳转",
+				"children": [],
+				"next": null,
+				"piece": "d3450aee-9754-42e4-ada7-7f96661b346e",
+				"end": false,
+				"skip": "forbid"
+			},
+			{
+				"id": "c92279b4-989e-4817-a887-38acab006e50",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "连续播放-剧情有跳转",
+				"children": [],
+				"next": null,
+				"piece": "4d98a227-29d2-4f9a-9202-3de50af21f59",
+				"end": false,
+				"skip": "forbid"
+			}
+		],
+		"next": null
+	},
+	{
+		"id": "649fe1c7-87f9-4348-ad6a-8f856c61a05e",
+		"type": "plot_chapter",
+		"fold": false,
+		"root": false,
+		"name": "结局",
+		"children": [
+			{
+				"id": "ed6b34d2-3e19-4d8e-8df2-eaef3865af12",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "结局-数值>0",
+				"children": [],
+				"next": null,
+				"piece": "9245b723-21ba-4c5b-99a8-d21925676b0f",
+				"end": false,
+				"skip": "forbid"
+			},
+			{
+				"id": "a9042d26-bf51-4ba4-b406-e39f795c5574",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "结局-数值=0",
+				"children": [],
+				"next": null,
+				"end": false,
+				"piece": "ae4d55f3-99a8-4c33-830a-00f27c5c3735"
+			},
+			{
+				"id": "f5b7dbb7-9aaa-4c25-be5d-7a18e6f6c448",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "结局-数值<0",
+				"children": [],
+				"next": null,
+				"piece": "9e1600ca-9299-4870-a1d9-35ac73ee9684",
+				"end": false,
+				"skip": "forbid"
+			},
+			{
+				"id": "d6a37da6-055f-4726-bde4-a1def544d77b",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "数值判断器和剧情跳转共存",
+				"children": [],
+				"next": null,
+				"piece": "02421d84-d9b5-4428-9efe-99dace9c58b9",
+				"end": false,
+				"skip": "forbid"
+			},
+			{
+				"id": "f89ad0ac-1fcb-4cfb-93db-f50db520ea9b",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "结束测试",
+				"children": [],
+				"next": null,
+				"piece": "bb91c3c0-9c69-4b71-b486-011218bfe73b",
+				"end": false,
+				"skip": "forbid"
+			}
+		],
+		"next": null
+	}
+]

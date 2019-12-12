@@ -1,0 +1,74 @@
+[
+    {
+        "id": "5d1ad938-0776-4d03-915c-a9793a73055c",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 362.66,
+            "height": 157.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 1,
+        "direction": "horizontal",
+        "string": "播放一次可跳过剧情-开头\n\n在第一次播放时不可跳过\n在之后播放时,可以跳过",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "f93cbba9-575f-46be-9793-9c32a563d241",
+        "templateID": null,
+        "name": "文本框-02",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": -195
+        },
+        "size": {
+            "width": 689.78,
+            "height": 83.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#000000",
+        "zIndex": 2,
+        "direction": "horizontal",
+        "string": "注意:因为剧情结尾使用了剧情跳转\n当可以跳过时,跳过又到达了该位置,形成了死循环",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#000000",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

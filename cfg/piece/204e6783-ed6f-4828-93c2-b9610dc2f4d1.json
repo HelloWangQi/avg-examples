@@ -1,0 +1,38 @@
+[
+    {
+        "id": "75420947-d01f-4fef-8982-527cbd40ede2",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 160,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 1,
+        "direction": "horizontal",
+        "string": "没有事件的画布",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "id": "8e9259fb-6ef5-4910-a170-67961a4287a7",
+        "templateID": "59f52213-3e8b-4232-baf8-a0f0ba3450d7",
+        "name": "横版文字框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 67.30769230769238,
+            "y": 42.307692307692264
+        },
+        "size": {
+            "width": 320,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 1,
+        "direction": "horizontal",
+        "string": "使用了默认字体的文字",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "46b95229-0094-4062-9b54-daf3f01ea17b",
+        "name": "横版文字框-02",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -196.15384615384676,
+            "y": 1.9230769230769056
+        },
+        "size": {
+            "width": 32,
+            "height": 453.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#0029ff",
+        "zIndex": 2,
+        "direction": "vertical",
+        "string": "使用了站酷快乐字体的文本",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#0029ff",
+            "family": "font5",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "98b07a2f-8490-41b5-ad77-53824634a5cb",
+        "templateID": null,
+        "name": "横版文字框-03",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -248.07692307692344,
+            "y": 13.461538461538453
+        },
+        "size": {
+            "width": 32,
+            "height": 379.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#000000",
+        "zIndex": 3,
+        "direction": "vertical",
+        "string": "使用了默认字体的文本",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#000000",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "069a035c-77f6-4863-b121-0627fddaa21c",
+        "templateID": null,
+        "name": "横版文字框-04",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 69.23076923076928,
+            "y": -42.30769230769238
+        },
+        "size": {
+            "width": 318.75,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 4,
+        "direction": "horizontal",
+        "string": "使用了竹石字体的文字",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "font6",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": "cdb9738d-cb43-4140-ae05-c5f0df65a765",
+        "templateID": "910285af-0501-4248-9b00-bf51c782ab54",
+        "name": "背景-01",
+        "type": "image-bg",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 1280,
+            "height": 719.6251952108277
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 1,
+        "linkID": null,
+        "texture": "6a588765-2ea5-41fb-9faf-141a1153367a",
+        "sizeMode": 0,
+        "autoFitMode": "ratio-width"
+    },
+    {
+        "id": "9ca30961-2a62-4b6f-b485-09f8180fffa9",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -75.86206896552068,
+            "y": 274.1379310344812
+        },
+        "size": {
+            "width": 128,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 2,
+        "direction": "horizontal",
+        "string": "立绘元素",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "d6128792-4bd6-4dfe-9446-6e83582e507e",
+        "templateID": "fd431408-1f07-4113-b5dd-7367152a4af7",
+        "name": "立绘-01",
+        "type": "image-draw",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -31.034482758620527,
+            "y": -63.103448275862206
+        },
+        "size": {
+            "width": 336.2765957446809,
+            "height": 580
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 3,
+        "linkID": null,
+        "texture": "27497e5b-0b6d-48a4-8370-7699236b12b8",
+        "sizeMode": 0,
+        "autoFitMode": "ratio-height"
+    },
+    {
+        "id": "2d37bbc8-a2cc-42e2-8d25-13d93676ddb0",
+        "templateID": "d8bd8cde-da5f-43a0-97bc-2411e49baee8",
+        "name": "头像-01",
+        "type": "image-head",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 451.72413793102805,
+            "y": -51.724137931034534
+        },
+        "size": {
+            "width": 312,
+            "height": 390
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 4,
+        "linkID": null,
+        "texture": "75b44aec-dfb9-4699-a4db-c9b6751e3f52",
+        "sizeMode": 0,
+        "autoFitMode": "texture-size"
+    },
+    {
+        "id": "b1b99673-9223-41c6-8742-e596c3c2d968",
+        "templateID": null,
+        "name": "横版文字框-02",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 415.5172413793084,
+            "y": 205.17241379310246
+        },
+        "size": {
+            "width": 128,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 5,
+        "direction": "horizontal",
+        "string": "头像元素",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

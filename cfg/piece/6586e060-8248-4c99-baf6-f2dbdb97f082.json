@@ -1,0 +1,38 @@
+[
+    {
+        "id": "e16a19e5-8ef1-40cf-bca4-e9c2c5fb944d",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 448,
+            "height": 120.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 1,
+        "direction": "horizontal",
+        "string": "直接跳过剧情2-结尾\n如果你在之前的画布点击跳过后\n看到该画布就说明发生了异常",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "id": "230ff7e1-de9f-4381-9f30-7ebbbd279e4e",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 384,
+            "height": 83.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 1,
+        "direction": "horizontal",
+        "string": "数值判断器和剧情跳转共存\n结局",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "777af8ee-0d46-45bc-9d2d-077a5aa5ae77",
+        "templateID": null,
+        "name": "文本框-02",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 2,
+            "y": -113
+        },
+        "size": {
+            "width": 192,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 2,
+        "direction": "horizontal",
+        "string": "点击结束测试",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "a8239f1c-0fa6-4214-88f6-1645b5289c66",
+        "name": "剧情跳转",
+        "type": "plot-jump",
+        "jumpPlotID": "f89ad0ac-1fcb-4cfb-93db-f50db520ea9b",
+        "zIndex": 3
+    }
+]

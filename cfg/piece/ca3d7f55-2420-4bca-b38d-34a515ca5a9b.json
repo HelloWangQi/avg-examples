@@ -1,0 +1,94 @@
+[
+    {
+        "id": "6ca1a80f-25bf-454e-a88c-8ba2845d3a8b",
+        "templateID": "910285af-0501-4248-9b00-bf51c782ab54",
+        "name": "背景-01",
+        "type": "image-bg",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 1280,
+            "height": 719.6251952108277
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 1,
+        "linkID": null,
+        "texture": "6a588765-2ea5-41fb-9faf-141a1153367a",
+        "sizeMode": 0,
+        "autoFitMode": "ratio-width"
+    },
+    {
+        "id": "d6d8436d-3394-4375-a973-0ce4e6619a34",
+        "templateID": "fd431408-1f07-4113-b5dd-7367152a4af7",
+        "name": "立绘-01",
+        "type": "image-draw",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": -70
+        },
+        "size": {
+            "width": 320.49910873440285,
+            "height": 580
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 2,
+        "linkID": null,
+        "texture": "57395bb8-487f-4898-8cea-ff09f1f78aa7",
+        "sizeMode": 0,
+        "autoFitMode": "ratio-height"
+    },
+    {
+        "id": "36811e29-b86d-49bf-bf98-a4e38db41da2",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -42.1875,
+            "y": 306.2500000000009
+        },
+        "size": {
+            "width": 64,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 3,
+        "direction": "horizontal",
+        "string": "淡出",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

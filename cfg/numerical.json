@@ -1,0 +1,17 @@
+{
+	"common": [
+		{
+			"id": "ddfa57d5-c9fa-46b0-8cb3-d4542e2f4825",
+			"type": "common",
+			"name": "生命数值",
+			"range": {
+				"type": "int",
+				"name": "整数"
+			},
+			"default": 0,
+			"desc": "生命数值"
+		}
+	],
+	"global": [],
+	"system": []
+}

@@ -1,0 +1,37 @@
+[
+    {
+        "id": "7ee4190a-be67-4ace-8adc-346ff63ba52a",
+        "name": "横版文字框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -22.413793103450132,
+            "y": 0
+        },
+        "size": {
+            "width": 448,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 1,
+        "direction": "horizontal",
+        "string": "该剧情主要测试一些基础的元素",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "id": "a3d8897c-1a41-4b91-a962-8b5c59a4f1cd",
+        "name": "背景音乐",
+        "type": "audio-bg",
+        "src": "34fbd074-2ba9-4ade-a757-e94506ef0597",
+        "globalPlay": false,
+        "templateID": "2f9248d3-1e8b-4e1a-95d7-74cfdc62abd1",
+        "zIndex": 1
+    },
+    {
+        "id": "dfbbcd0f-0506-4535-9b6f-29b5798c58c1",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 320,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 2,
+        "direction": "horizontal",
+        "string": "播放非全局的背景音乐",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

@@ -1,0 +1,357 @@
+[
+    {
+        "id": "f9c75a7a-f69f-403d-b48d-94f9f16c94f3",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 294
+        },
+        "size": {
+            "width": 288,
+            "height": 83.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 1,
+        "direction": "horizontal",
+        "string": "目前支持的所有动画\n按照顺序依次播放",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "e73c5b0c-c1be-424c-b28f-9699de1413ef",
+        "templateID": "fd431408-1f07-4113-b5dd-7367152a4af7",
+        "name": "立绘-01",
+        "type": "image-draw",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -488,
+            "y": 61.81935483870939
+        },
+        "size": {
+            "width": 192.49910873440285,
+            "height": 348.36129032258054
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 2,
+        "linkID": null,
+        "texture": "57395bb8-487f-4898-8cea-ff09f1f78aa7",
+        "sizeMode": 0,
+        "autoFitMode": "ratio-height"
+    },
+    {
+        "id": "ce0baba5-9211-428d-96af-46037cacbc90",
+        "templateID": null,
+        "name": "文本框-02",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -484,
+            "y": -144.99999999999966
+        },
+        "size": {
+            "width": 64,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 3,
+        "direction": "horizontal",
+        "string": "淡入",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "3f08eaf5-d7f1-421b-8554-d18f6a24e360",
+        "templateID": "fd431408-1f07-4113-b5dd-7367152a4af7",
+        "name": "立绘-02",
+        "type": "image-draw",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -251.98275862068976,
+            "y": 46.56205930648116
+        },
+        "size": {
+            "width": 208.6165816008963,
+            "height": 323.7355355935474
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 4,
+        "linkID": null,
+        "texture": "811d9b6d-2782-496a-85e7-145eae247c16",
+        "sizeMode": 0,
+        "autoFitMode": "ratio-height"
+    },
+    {
+        "id": "0fa25b6b-9f16-440e-81c5-0ff45d7c1ca6",
+        "templateID": null,
+        "name": "文本框-03",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -254.0689655172414,
+            "y": -147.172413793102
+        },
+        "size": {
+            "width": 97.8,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 5,
+        "direction": "horizontal",
+        "string": "震动",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "05468c14-9d7e-409d-96f5-26dc1a5e4deb",
+        "templateID": "fd431408-1f07-4113-b5dd-7367152a4af7",
+        "name": "立绘-03",
+        "type": "image-draw",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -19.982758620689992,
+            "y": 56.183370931356876
+        },
+        "size": {
+            "width": 186.78169014084506,
+            "height": 330.50467289719654
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 6,
+        "linkID": null,
+        "texture": "66bfc63b-953a-4808-a1ff-11bed323ee46",
+        "sizeMode": 0,
+        "autoFitMode": "ratio-height"
+    },
+    {
+        "id": "f4cc7b17-2398-4f22-9cc2-62c4100778d8",
+        "templateID": null,
+        "name": "文本框-04",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -34.482758620689765,
+            "y": -147.37931034482733
+        },
+        "size": {
+            "width": 64,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 7,
+        "direction": "horizontal",
+        "string": "缩放",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "f94432b9-a9d2-4834-9db6-cf36d6776d9c",
+        "templateID": "fd431408-1f07-4113-b5dd-7367152a4af7",
+        "name": "立绘-04",
+        "type": "image-draw",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 216.37931034482654,
+            "y": 57.5387535590005
+        },
+        "size": {
+            "width": 203.51797505502563,
+            "height": 351.02182853527347
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 8,
+        "linkID": null,
+        "texture": "27497e5b-0b6d-48a4-8370-7699236b12b8",
+        "sizeMode": 0,
+        "autoFitMode": "ratio-height"
+    },
+    {
+        "id": "89fea5a3-56a2-48fd-83fd-4d18a7b96870",
+        "templateID": null,
+        "name": "文本框-05",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 212.0689655172414,
+            "y": -151.72413793103453
+        },
+        "size": {
+            "width": 64,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 9,
+        "direction": "horizontal",
+        "string": "淡出",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "7fb27979-c9a1-4666-b324-463f9208248b",
+        "name": "立绘-05",
+        "type": "image-draw",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 491,
+            "y": 60
+        },
+        "size": {
+            "width": 186.01635011371312,
+            "height": 336.62958843159026
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 10,
+        "linkID": null,
+        "texture": "57395bb8-487f-4898-8cea-ff09f1f78aa7",
+        "sizeMode": 0,
+        "autoFitMode": "ratio-height"
+    },
+    {
+        "id": "82427190-37ba-48ad-864a-573d7e79c50d",
+        "templateID": null,
+        "name": "文本框-06",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 493.3793103448272,
+            "y": -151.06896551724185
+        },
+        "size": {
+            "width": 64,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 11,
+        "direction": "horizontal",
+        "string": "移动",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

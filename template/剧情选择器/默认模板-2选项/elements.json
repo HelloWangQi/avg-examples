@@ -1,0 +1,58 @@
+[
+    {
+        "id": "6cf95993-f8bd-4403-9419-24ae1b9a8b89",
+        "templateID": null,
+        "name": "剧情选择器",
+        "type": "plot-menu",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 0,
+            "height": 0
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 1,
+        "textureNormal": "d82003cf-0196-4fe8-aadc-c1ac67a3cc1f",
+        "texturePress": "d82003cf-0196-4fe8-aadc-c1ac67a3cc1f",
+        "itemFont": {
+            "size": 32,
+            "color": "#ffffff",
+            "family": "arial",
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "align": "center",
+            "line": 1
+        },
+        "items": [
+            {
+                "id": "9a092f55-0104-4075-8569-494f0daa911e",
+                "text": "剧情选项1",
+                "jump": null,
+                "size": {
+                    "width": 274,
+                    "height": 54
+                }
+            },
+            {
+                "id": "71e7254d-7793-4ecf-aa92-7727a598d024",
+                "text": "剧情选项2",
+                "jump": null,
+                "size": {
+                    "width": 274,
+                    "height": 54
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "id": "2a32c088-27fc-48c7-9ba8-a5f790614684",
+        "templateID": "fd431408-1f07-4113-b5dd-7367152a4af7",
+        "name": "立绘-01",
+        "type": "image-draw",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": -70
+        },
+        "size": {
+            "width": 320.49910873440285,
+            "height": 580
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 1,
+        "linkID": null,
+        "texture": "57395bb8-487f-4898-8cea-ff09f1f78aa7",
+        "sizeMode": 0,
+        "autoFitMode": "ratio-height"
+    },
+    {
+        "id": "23ea7d5c-f5d8-4b6e-898d-b4dad009f2cc",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -42.1875,
+            "y": 306.2500000000009
+        },
+        "size": {
+            "width": 64,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 2,
+        "direction": "horizontal",
+        "string": "淡出",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "432ac522-09fc-43be-b001-4f9e85bcb3e9",
+        "templateID": null,
+        "name": "文本框-02",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -433,
+            "y": 283
+        },
+        "size": {
+            "width": 392.89,
+            "height": 120.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 3,
+        "direction": "horizontal",
+        "string": "测试转场动画2\n注意:第一个画布有转场动画\n务必在当前使用小节测试",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

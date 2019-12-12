@@ -1,0 +1,81 @@
+[
+    {
+        "id": "7b5d6ca2-4fda-4b63-8367-6b64c3a474a8",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 237.38,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 1,
+        "direction": "horizontal",
+        "string": "生命数值>0 结束",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "3dbcc84f-b787-4621-ab55-a1c2a2d7640d",
+        "templateID": null,
+        "name": "文本框-02",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -8,
+            "y": -56
+        },
+        "size": {
+            "width": 192,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 2,
+        "direction": "horizontal",
+        "string": "点击结束测试",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "f2316e9b-3fa1-4862-b2c0-8215965cfe28",
+        "name": "剧情跳转",
+        "type": "plot-jump",
+        "jumpPlotID": "f89ad0ac-1fcb-4cfb-93db-f50db520ea9b",
+        "zIndex": 3
+    }
+]

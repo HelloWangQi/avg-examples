@@ -1,0 +1,29 @@
+[
+    {
+        "id": "0dc91617-581b-4ba5-84e1-97827b9b4e6e",
+        "templateID": null,
+        "name": "图片-背景",
+        "type": "image-bg",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 1,
+        "texture": "e97c92b0-d78a-468c-b09b-fbc21f68a1e0",
+        "sizeMode": 0,
+        "autoFitMode": "ratio-width"
+    }
+]

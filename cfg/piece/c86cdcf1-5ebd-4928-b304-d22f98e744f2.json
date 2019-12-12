@@ -1,0 +1,166 @@
+[
+    {
+        "id": "db42a471-826f-4feb-b458-0b9ce2fead79",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -5,
+            "y": 286
+        },
+        "size": {
+            "width": 448,
+            "height": 83.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 1,
+        "direction": "horizontal",
+        "string": "画布中每个立绘元素都带有事件\n必须全部触发才能继续下个画布",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "3fe13465-a8b2-4e38-b088-f09cd07d2546",
+        "templateID": "fd431408-1f07-4113-b5dd-7367152a4af7",
+        "name": "立绘-01",
+        "type": "image-draw",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -291,
+            "y": -35.323987538940855
+        },
+        "size": {
+            "width": 191.78169014084506,
+            "height": 339.35202492211846
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 2,
+        "linkID": null,
+        "texture": "66bfc63b-953a-4808-a1ff-11bed323ee46",
+        "sizeMode": 0,
+        "autoFitMode": "ratio-height"
+    },
+    {
+        "id": "ce23b3e6-85f0-4659-bba5-50ea222d3414",
+        "templateID": null,
+        "name": "文本框-02",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -284,
+            "y": -249
+        },
+        "size": {
+            "width": 132.48,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 3,
+        "direction": "horizontal",
+        "string": "生命值+1",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "fc6b09bf-9c11-4172-96f3-c533b3e46866",
+        "templateID": null,
+        "name": "文本框-03",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 340,
+            "y": -258
+        },
+        "size": {
+            "width": 124.45,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 4,
+        "direction": "horizontal",
+        "string": "生命值-1",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "0989e6ff-da02-4585-a4fd-ff21df1fecce",
+        "templateID": "fd431408-1f07-4113-b5dd-7367152a4af7",
+        "name": "立绘-02",
+        "type": "image-draw",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 340,
+            "y": -50.73394495412845
+        },
+        "size": {
+            "width": 196.2765957446809,
+            "height": 338.53211009174305
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 5,
+        "linkID": null,
+        "texture": "27497e5b-0b6d-48a4-8370-7699236b12b8",
+        "sizeMode": 0,
+        "autoFitMode": "ratio-height"
+    }
+]

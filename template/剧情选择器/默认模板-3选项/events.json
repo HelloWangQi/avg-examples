@@ -1,0 +1,32 @@
+[
+    {
+        "id": "2b486d14-1cdf-493f-9112-bab039f4238c",
+        "element": "cd39a803-399c-4fd8-9f83-797d91d1458e",
+        "type": "plot",
+        "count": 1,
+        "emitType": "click",
+        "jump": null,
+        "delayTime": 0,
+        "action": "none"
+    },
+    {
+        "id": "3b886c32-0151-4e2a-9313-1533731a97a1",
+        "element": "e3bfbcfe-64f6-42e5-8910-4267fe16bc96",
+        "type": "plot",
+        "count": 1,
+        "emitType": "click",
+        "jump": null,
+        "delayTime": 0,
+        "action": "none"
+    },
+    {
+        "id": "701dc760-f6b4-4511-a498-aabe2171ea49",
+        "element": "8e542d2f-3f8d-4abc-8c07-d83b71847b0f",
+        "type": "plot",
+        "count": 1,
+        "emitType": "click",
+        "jump": null,
+        "delayTime": 0,
+        "action": "none"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "id": "6d0e6a84-0ae3-483c-a00a-40b72b324300",
+        "templateID": null,
+        "name": "横版文字框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 647.09,
+            "height": 120.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 1,
+        "direction": "horizontal",
+        "string": "QTE元素,该元素需要根据提示,\n在指定的时间完成相应动作\n无论成功失败,都会触发对应的(成功/失败)事件",
+        "textFont": {
+            "align": "left",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "47caae86-033f-43ab-8c76-c02c7d364045",
+        "templateID": null,
+        "name": "横版文字框-02",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -81.4285714285711,
+            "y": -110
+        },
+        "size": {
+            "width": 480,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#2500ff",
+        "zIndex": 2,
+        "direction": "horizontal",
+        "string": "本剧情主要测试未添加事件的情况",
+        "textFont": {
+            "size": 32,
+            "color": "#2500ff",
+            "family": "arial",
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "align": "center",
+            "line": 1
+        }
+    }
+]

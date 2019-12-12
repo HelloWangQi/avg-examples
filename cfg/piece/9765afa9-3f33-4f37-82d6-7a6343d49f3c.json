@@ -1,0 +1,81 @@
+[
+    {
+        "id": "32bcc906-1f5f-46a5-af11-345264664a48",
+        "templateID": null,
+        "name": "横版文字框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 544,
+            "height": 83.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#2224cf",
+        "zIndex": 1,
+        "direction": "horizontal",
+        "string": "这里有个剧情跳转元素\n该元素是一个具有强制跳转功能的元素",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#2224cf",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "7bcc7508-cad5-4386-843d-8502a07be035",
+        "name": "剧情跳转",
+        "type": "plot-jump",
+        "jumpPlotID": "82394d77-5328-45c1-85e8-2989c6adf6ae",
+        "zIndex": 2
+    },
+    {
+        "id": "c57cc1ca-5117-42c8-8db6-3c9447b26718",
+        "templateID": null,
+        "name": "横版文字框-02",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 423.07692307692344,
+            "y": -311.53846153846183
+        },
+        "size": {
+            "width": 378.67,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 3,
+        "direction": "horizontal",
+        "string": "点击前往剧情选择器的剧情...",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

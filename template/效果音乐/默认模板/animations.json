@@ -1,0 +1,13 @@
+[
+    {
+        "id": "a445f663-8029-4718-b6dd-96b7dcf7dccb",
+        "element": "8ec6fb83-c857-4be5-bbfd-0da5065dba09",
+        "action": {
+            "type": "play",
+            "volume": 100,
+            "time": 0,
+            "loop": false
+        },
+        "moment": "afterPrevious"
+    }
+]

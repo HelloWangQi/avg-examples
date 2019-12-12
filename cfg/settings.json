@@ -1,0 +1,90 @@
+{
+    "talk": {
+        "family": "arial",
+        "size": 32,
+        "style": {
+            "bold": false,
+            "italic": false,
+            "underline": false
+        },
+        "color": "#EEE2CC",
+        "align": "left",
+        "line": 1
+    },
+    "text": {
+        "family": "arial",
+        "size": 32,
+        "style": {
+            "bold": false,
+            "italic": false,
+            "underline": false
+        },
+        "color": "#333333",
+        "align": "left",
+        "line": 1
+    },
+    "page": {
+        "type": "none",
+        "speed": 0.1,
+        "wait": 0.1,
+        "sound": {
+            "type": "none",
+            "name": "无",
+            "value": ""
+        }
+    },
+    "grid": {
+        "show": false,
+        "space": 200
+    },
+    "template": [
+        {
+            "id": "a8e09628-9cc1-4a67-b432-b231bb2541f8",
+            "type": "plot-menu"
+        },
+        {
+            "id": "ea380b64-4e9b-4442-b290-b93109f90eb1",
+            "type": "talk"
+        },
+        {
+            "id": "910285af-0501-4248-9b00-bf51c782ab54",
+            "type": "image-bg"
+        },
+        {
+            "id": "fd431408-1f07-4113-b5dd-7367152a4af7",
+            "type": "image-draw"
+        },
+        {
+            "id": "d8bd8cde-da5f-43a0-97bc-2411e49baee8",
+            "type": "image-head"
+        },
+        {
+            "id": "be21ba0f-d730-4efc-9d7f-7873a5d603d0",
+            "type": "image-item"
+        },
+        {
+            "id": "59f52213-3e8b-4232-baf8-a0f0ba3450d7",
+            "type": "text"
+        },
+        {
+            "id": "195a414b-8320-4919-8f65-49bfe52ba81b",
+            "type": "video-plot"
+        },
+        {
+            "id": "2f9248d3-1e8b-4e1a-95d7-74cfdc62abd1",
+            "type": "audio-bg"
+        },
+        {
+            "id": "861f23a1-0c1f-4072-ae9e-5537b3badf2d",
+            "type": "audio-effect"
+        },
+        {
+            "id": "e0a4aeaa-b701-4f16-a8c4-6046ffefe44a",
+            "type": "audio-aside"
+        },
+        {
+            "id": "9004c132-11ab-4f6d-b421-1cfca709c135",
+            "type": "qte"
+        }
+    ]
+}

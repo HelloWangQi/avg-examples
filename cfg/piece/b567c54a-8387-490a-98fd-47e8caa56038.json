@@ -1,0 +1,46 @@
+[
+    {
+        "id": "e843c9a4-2c28-442f-939d-891f34d66601",
+        "name": "效果音乐-01",
+        "type": "audio-effect",
+        "src": "0fa5a868-eeb7-4a59-941d-f6b493a4e5f9",
+        "templateID": "861f23a1-0c1f-4072-ae9e-5537b3badf2d",
+        "zIndex": 1
+    },
+    {
+        "id": "5bb0c88a-0ea4-4d75-8490-d04fd7bd1115",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 224,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 2,
+        "direction": "horizontal",
+        "string": "播放一个短暂的音效",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]
