@@ -31,7 +31,7 @@
         "clickCount": 2,
         "timing": {
             "enabled": true,
-            "time": 1
+            "time": 4
         },
         "style": {
             "color": "#ffffff",
