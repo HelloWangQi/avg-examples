@@ -1,15 +1,15 @@
 {
 	"project": "avg",
 	"version": "0.2.0",
-	"updateTime": "2019-12-12 20:08:13",
+	"updateTime": "2019-12-12 18:33:35",
 	"createTime": "2019-12-06 16:18:52",
 	"desc": "avg功能测试工程",
 	"gameMode": "horizontal",
 	"gameType": "adve",
 	"icon": "icon.png",
 	"name": "avg-examples",
-	"path": "C:\\Users\\Administrator\\AppData\\Roaming\\Electron\\workspace\\avg-project-8e931cf0-c924-406c-b143-19ef5443a80e",
+	"path": "E:\\project\\avg-examples",
 	"status": "Creating",
 	"uuid": "8e931cf0-c924-406c-b143-19ef5443a80e",
-	"words": 15
+	"words": 2021
 }
