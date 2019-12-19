@@ -172,7 +172,6 @@
     "ba31f920-af20-4265-bf06-64f10e859199": "cfg/piece/03fb6179-cb86-4541-bda2-1fce82ea43c9.json",
     "78a3ed0d-54ee-4e29-b2d9-20d0a966dd4d": "cfg/piece/f66c50eb-9b7e-4f8e-bd63-c75c9b719be8.json",
     "3766a211-651f-4f5c-b36c-65f269214cd8": "cfg/piece/cbd1af49-3ed7-4802-aadf-b52d1328b629.json",
-    "319cad61-4bab-43e8-bc91-a0199de47ae5": "cfg/piece/28924a3d-78b0-4aa6-ab35-59d1f8d89ed7.json",
     "04c97267-67ca-4484-9ab0-5afec86995a4": "cfg/piece/ac4ef339-a768-4f23-9b7a-db4d5e12d366.json",
     "19f04ebb-d3a2-400f-8332-7e3a33aaefe9": "cfg/piece/1cd765dd-3737-4bf6-b500-7ab4001d0370.json",
     "ec744ae9-7239-48c0-9f2b-ef4464b03db5": "cfg/piece/8ec8c171-ef35-459d-be4e-252ef509f613.json",
@@ -260,5 +259,9 @@
     "3a9b3737-094a-4a8c-bef4-209557afc753": "cfg/piece/d09e1ad3-e267-4603-aa4b-0a2f816f10f0.json",
     "fcc3c1d8-3018-43ca-9d91-f25fda6ad31e": "cfg/piece/dd97fbb7-d21c-4842-8d75-521d42aa7382.json",
     "6a588765-2ea5-41fb-9faf-141a1153367a": "res/image/bg/背景-1.jpg",
-    "899f1fc0-043f-4bd2-9222-85d9f1451f5e": "res/image/bg/背景-2.jpg"
+    "899f1fc0-043f-4bd2-9222-85d9f1451f5e": "res/image/bg/背景-2.jpg",
+    "ebb3e6eb-3f2f-4fa5-8a79-ca0e08836972": "res/default/plot-menu-limit-progress1.png",
+    "73163e22-c0ca-4ac5-9939-6afdc0b0d72c": "res/default/plot-menu-limit-progress2.png",
+    "dfaf3a76-06e1-4ebe-823d-a006c3ce0a8d": "res/default/plot-menu-limit-progress1.png",
+    "6b58bb48-405d-42bc-b8ff-5a95d61bb698": "res/default/plot-menu-limit-progress2.png"
 }

@@ -69,7 +69,17 @@
       "moment": "afterPrevious"
     }
   ],
-  "f66c50eb-9b7e-4f8e-bd63-c75c9b719be8": [],
+  "f66c50eb-9b7e-4f8e-bd63-c75c9b719be8": [
+    {
+      "action": {
+        "time": 1,
+        "type": "fade-in"
+      },
+      "element": "75831bf2-5d60-4166-a20d-1b886d1ecb4a",
+      "id": "3f619cbd-dca9-43a9-9942-26c6c42a3928",
+      "moment": "afterPrevious"
+    }
+  ],
   "26728900-aca5-4f45-a8b5-5e098391ac6f": [
     {
       "action": {
