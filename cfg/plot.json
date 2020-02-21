@@ -129,7 +129,7 @@
 	{
 		"id": "a3d603e0-dd9d-42f2-bf7e-c27029d7972e",
 		"type": "plot_chapter",
-		"fold": true,
+		"fold": false,
 		"root": false,
 		"name": "动画",
 		"children": [

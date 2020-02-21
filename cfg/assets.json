@@ -2681,5 +2681,21 @@
     "654e8040-1e1c-4c3e-9622-ccaf560e7af8": {
         "path": "template/密码锁/默认模板-密码箱/events.json",
         "type": "asset"
+    },
+    "651d667e-17a3-4db5-bf37-0e61a05afbcc": {
+        "path": "res/default/pwdLockBox/box1-close.png",
+        "type": "image"
+    },
+    "aad0671e-2afb-4524-8f55-48f267e456a1": {
+        "path": "res/default/pwdLockBox/box1-open.png",
+        "type": "image"
+    },
+    "39912cde-b092-49c1-820e-c3fd96f9b14b": {
+        "path": "res/default/pwdLockBox/box2-close.png",
+        "type": "image"
+    },
+    "4ef2b766-e9e1-47ee-8db5-b90282cac285": {
+        "path": "res/default/pwdLockBox/box2-open.png",
+        "type": "image"
     }
 }
