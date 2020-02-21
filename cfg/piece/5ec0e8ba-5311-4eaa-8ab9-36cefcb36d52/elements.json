@@ -63,25 +63,6 @@
             "color": "#000000",
             "opacity": 150
         },
-        "emitType": "click",
-        "clickCount": 1,
-        "timing": {
-            "enabled": false,
-            "time": 1
-        },
-        "style": {
-            "color": "#ffffff",
-            "type": "style1"
-        },
-        "icon": {
-            "color": "#ffffff",
-            "opacity": 255
-        },
-        "timer": {
-            "colorBottom": "#777777",
-            "colorTop": "#ffffff",
-            "opacity": 255
-        },
         "tips": {
             "text": "不计时点击1次\n设置生命值=0",
             "font": {
@@ -98,7 +79,9 @@
             "position": {
                 "x": 0,
                 "y": -160
-            }
+            },
+            "id": "97928b6f-4b83-4c1b-965a-fc0c68b44768",
+            "type": "tips"
         },
         "unFinished": {
             "rePlay": false,
@@ -112,6 +95,35 @@
             "failed": {
                 "id": "22bd67ee-ab5e-472b-a9b3-d3afc81a7f87",
                 "name": "动作未完成"
+            }
+        },
+        "qte": {
+            "id": "82d13bcc-dbaf-4ffd-b20e-3958f727a1cf",
+            "type": "graphics",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "width": 235,
+                "height": 235
+            },
+            "emitType": "click",
+            "clickCount": 1,
+            "style": {
+                "color": "#ffffff",
+                "type": "style1"
+            },
+            "icon": {
+                "color": "#ffffff",
+                "opacity": 255
+            },
+            "timer": {
+                "colorBottom": "#777777",
+                "colorTop": "#ffffff",
+                "opacity": 255,
+                "enabled": false,
+                "time": 1
             }
         }
     },

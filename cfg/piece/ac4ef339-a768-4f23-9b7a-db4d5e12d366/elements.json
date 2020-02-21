@@ -26,25 +26,6 @@
             "color": "#000000",
             "opacity": 150
         },
-        "emitType": "click",
-        "clickCount": 1,
-        "timing": {
-            "enabled": true,
-            "time": 4
-        },
-        "style": {
-            "color": "#ffffff",
-            "type": "style1"
-        },
-        "icon": {
-            "color": "#ffffff",
-            "opacity": 112.2
-        },
-        "timer": {
-            "colorBottom": "#1A2C53",
-            "colorTop": "#578AFF",
-            "opacity": 178.5
-        },
         "tips": {
             "text": "4s内点击1次\n成功:生命值+1,生命值+1\n失败:生命值-1,返回该剧情起始位置",
             "font": {
@@ -61,7 +42,9 @@
             "position": {
                 "x": 5.172413793103317,
                 "y": -173.79310344827593
-            }
+            },
+            "id": "dfdbaf53-9b74-4f83-8e8f-02c5c15b7905",
+            "type": "tips"
         },
         "unFinished": {
             "rePlay": false,
@@ -75,6 +58,35 @@
             "failed": {
                 "id": "3a97b237-349e-40dd-9527-51e0508b00d7",
                 "name": "动作未完成"
+            }
+        },
+        "qte": {
+            "id": "a34d13c1-e65b-4057-a2f3-bbbac2ac1017",
+            "type": "graphics",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "width": 235,
+                "height": 235
+            },
+            "emitType": "click",
+            "clickCount": 1,
+            "style": {
+                "color": "#ffffff",
+                "type": "style1"
+            },
+            "icon": {
+                "color": "#ffffff",
+                "opacity": 112.2
+            },
+            "timer": {
+                "colorBottom": "#1A2C53",
+                "colorTop": "#578AFF",
+                "opacity": 178.5,
+                "enabled": true,
+                "time": 4
             }
         }
     },

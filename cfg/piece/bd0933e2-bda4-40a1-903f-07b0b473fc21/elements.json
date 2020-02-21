@@ -26,25 +26,6 @@
             "color": "#000000",
             "opacity": 150
         },
-        "emitType": "click",
-        "clickCount": 1,
-        "timing": {
-            "enabled": true,
-            "time": 4
-        },
-        "style": {
-            "color": "#ffffff",
-            "type": "style1"
-        },
-        "icon": {
-            "color": "#ffffff",
-            "opacity": 255
-        },
-        "timer": {
-            "colorBottom": "#1A2C53",
-            "colorTop": "#578AFF",
-            "opacity": 255
-        },
         "tips": {
             "text": "4s内点击1次",
             "font": {
@@ -61,7 +42,9 @@
             "position": {
                 "x": 0,
                 "y": -160
-            }
+            },
+            "id": "43817155-8cb5-43a6-8e32-fb6e1c1ccbe8",
+            "type": "tips"
         },
         "unFinished": {
             "rePlay": false,
@@ -75,6 +58,35 @@
             "failed": {
                 "id": "9c3f9344-fede-4715-8648-dc9a326611c8",
                 "name": "动作未完成"
+            }
+        },
+        "qte": {
+            "id": "811edc16-884b-4189-b2e3-67ad23b1fd9e",
+            "type": "graphics",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "width": 235,
+                "height": 235
+            },
+            "emitType": "click",
+            "clickCount": 1,
+            "style": {
+                "color": "#ffffff",
+                "type": "style1"
+            },
+            "icon": {
+                "color": "#ffffff",
+                "opacity": 255
+            },
+            "timer": {
+                "colorBottom": "#1A2C53",
+                "colorTop": "#578AFF",
+                "opacity": 255,
+                "enabled": true,
+                "time": 4
             }
         }
     },
@@ -106,25 +118,6 @@
             "color": "#000000",
             "opacity": 150
         },
-        "emitType": "click",
-        "clickCount": 2,
-        "timing": {
-            "enabled": true,
-            "time": 4
-        },
-        "style": {
-            "color": "#ffffff",
-            "type": "style1"
-        },
-        "icon": {
-            "color": "#ffffff",
-            "opacity": 255
-        },
-        "timer": {
-            "colorBottom": "#5e3c03",
-            "colorTop": "#e6bb76",
-            "opacity": 255
-        },
         "tips": {
             "text": "4s内点击2次",
             "font": {
@@ -141,7 +134,9 @@
             "position": {
                 "x": 0,
                 "y": -160
-            }
+            },
+            "id": "225c9189-2350-43cc-b928-69bb045bd6ea",
+            "type": "tips"
         },
         "unFinished": {
             "rePlay": false,
@@ -155,6 +150,35 @@
             "failed": {
                 "id": "cdb55617-7a2f-4c73-8dff-5455c19bc870",
                 "name": "动作未完成"
+            }
+        },
+        "qte": {
+            "id": "5df65b52-8600-4d8a-9989-08ca79686a71",
+            "type": "graphics",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "width": 235,
+                "height": 235
+            },
+            "emitType": "click",
+            "clickCount": 2,
+            "style": {
+                "color": "#ffffff",
+                "type": "style1"
+            },
+            "icon": {
+                "color": "#ffffff",
+                "opacity": 255
+            },
+            "timer": {
+                "colorBottom": "#5e3c03",
+                "colorTop": "#e6bb76",
+                "opacity": 255,
+                "enabled": true,
+                "time": 4
             }
         }
     },
@@ -186,25 +210,6 @@
             "color": "#000000",
             "opacity": 150
         },
-        "emitType": "click",
-        "clickCount": 3,
-        "timing": {
-            "enabled": false,
-            "time": 1
-        },
-        "style": {
-            "color": "#ffffff",
-            "type": "style1"
-        },
-        "icon": {
-            "color": "#ffffff",
-            "opacity": 255
-        },
-        "timer": {
-            "colorBottom": "#6d2576",
-            "colorTop": "#e868f6",
-            "opacity": 255
-        },
         "tips": {
             "text": "不计时点击3次",
             "font": {
@@ -221,7 +226,9 @@
             "position": {
                 "x": 0,
                 "y": -160
-            }
+            },
+            "id": "fd8ec000-ceb6-47e8-9afc-08b83f37b171",
+            "type": "tips"
         },
         "unFinished": {
             "rePlay": false,
@@ -235,6 +242,35 @@
             "failed": {
                 "id": "ff025a0f-79b4-489c-ae4f-3b8f6adcb938",
                 "name": "动作未完成"
+            }
+        },
+        "qte": {
+            "id": "5cfbc7e7-7d43-4fca-bc50-5fb27a392fa5",
+            "type": "graphics",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "width": 235,
+                "height": 235
+            },
+            "emitType": "click",
+            "clickCount": 3,
+            "style": {
+                "color": "#ffffff",
+                "type": "style1"
+            },
+            "icon": {
+                "color": "#ffffff",
+                "opacity": 255
+            },
+            "timer": {
+                "colorBottom": "#6d2576",
+                "colorTop": "#e868f6",
+                "opacity": 255,
+                "enabled": false,
+                "time": 1
             }
         }
     },

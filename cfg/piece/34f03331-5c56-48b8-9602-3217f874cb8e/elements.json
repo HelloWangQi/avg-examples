@@ -26,25 +26,6 @@
             "color": "#000000",
             "opacity": 150
         },
-        "emitType": "slide-up-down",
-        "clickCount": 1,
-        "timing": {
-            "enabled": true,
-            "time": 4
-        },
-        "style": {
-            "color": "#ffffff",
-            "type": "style1"
-        },
-        "icon": {
-            "color": "#ffffff",
-            "opacity": 255
-        },
-        "timer": {
-            "colorBottom": "#6d2576",
-            "colorTop": "#e868f6",
-            "opacity": 255
-        },
         "tips": {
             "text": "4s内完成1次上下滑动",
             "font": {
@@ -61,7 +42,9 @@
             "position": {
                 "x": 2,
                 "y": -84
-            }
+            },
+            "id": "891a2fd1-9f02-41ce-8825-5cf013e402fe",
+            "type": "tips"
         },
         "unFinished": {
             "rePlay": false,
@@ -75,6 +58,35 @@
             "failed": {
                 "id": "1c69f07f-4f74-42e5-8281-8bfafb138636",
                 "name": "动作未完成"
+            }
+        },
+        "qte": {
+            "id": "1f8ebfe2-f773-45a6-96a4-ac2a8f446e20",
+            "type": "graphics",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "width": 235,
+                "height": 235
+            },
+            "emitType": "slide-up-down",
+            "clickCount": 1,
+            "style": {
+                "color": "#ffffff",
+                "type": "style1"
+            },
+            "icon": {
+                "color": "#ffffff",
+                "opacity": 255
+            },
+            "timer": {
+                "colorBottom": "#6d2576",
+                "colorTop": "#e868f6",
+                "opacity": 255,
+                "enabled": true,
+                "time": 4
             }
         }
     },
@@ -106,25 +118,6 @@
             "color": "#000000",
             "opacity": 150
         },
-        "emitType": "slide-left-right",
-        "clickCount": 2,
-        "timing": {
-            "enabled": true,
-            "time": 4
-        },
-        "style": {
-            "color": "#ffffff",
-            "type": "style1"
-        },
-        "icon": {
-            "color": "#ffffff",
-            "opacity": 255
-        },
-        "timer": {
-            "colorBottom": "#5e3c03",
-            "colorTop": "#e6bb76",
-            "opacity": 255
-        },
         "tips": {
             "text": "4s内完成2次左右滑动",
             "font": {
@@ -141,7 +134,9 @@
             "position": {
                 "x": 9,
                 "y": -107
-            }
+            },
+            "id": "efb8349b-99dc-4ebb-97cf-2a0ae0cabe44",
+            "type": "tips"
         },
         "unFinished": {
             "rePlay": false,
@@ -155,6 +150,35 @@
             "failed": {
                 "id": "003e37f5-09b4-4389-8c48-d4c471e12f9b",
                 "name": "动作未完成"
+            }
+        },
+        "qte": {
+            "id": "40c55bdd-4393-46a0-954a-63ee6dcde02a",
+            "type": "graphics",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "width": 235,
+                "height": 235
+            },
+            "emitType": "slide-left-right",
+            "clickCount": 2,
+            "style": {
+                "color": "#ffffff",
+                "type": "style1"
+            },
+            "icon": {
+                "color": "#ffffff",
+                "opacity": 255
+            },
+            "timer": {
+                "colorBottom": "#5e3c03",
+                "colorTop": "#e6bb76",
+                "opacity": 255,
+                "enabled": true,
+                "time": 4
             }
         }
     },
