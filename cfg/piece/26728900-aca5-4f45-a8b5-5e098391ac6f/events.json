@@ -1,0 +1,68 @@
+[
+    {
+        "id": "e832a664-4651-4a2a-bebb-e46086151bc9",
+        "element": "ed185c83-cc99-468e-a2a9-0b0902f92a18",
+        "type": "value",
+        "count": 1,
+        "emitType": "click",
+        "valueID": "ddfa57d5-c9fa-46b0-8cb3-d4542e2f4825",
+        "exec": [
+            {
+                "type": "variable",
+                "value": "ddfa57d5-c9fa-46b0-8cb3-d4542e2f4825"
+            },
+            {
+                "type": "symbol",
+                "value": "+"
+            },
+            {
+                "type": "number",
+                "value": "1"
+            }
+        ],
+        "text": "生命=<生命数值>",
+        "font": {
+            "size": 32,
+            "color": "#00B438",
+            "family": "arial",
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "align": "center",
+            "line": 1
+        }
+    },
+    {
+        "id": "71997bde-844e-495c-9347-b832a829b22e",
+        "element": "3a97b237-349e-40dd-9527-51e0508b00d7",
+        "type": "value",
+        "count": 1,
+        "emitType": "click",
+        "valueID": "ddfa57d5-c9fa-46b0-8cb3-d4542e2f4825",
+        "exec": [
+            {
+                "type": "variable",
+                "value": "ddfa57d5-c9fa-46b0-8cb3-d4542e2f4825"
+            },
+            {
+                "type": "symbol",
+                "value": "-"
+            },
+            {
+                "type": "number",
+                "value": "1"
+            }
+        ],
+        "text": "生命=<生命数值>",
+        "font": {
+            "size": 32,
+            "color": "#FF0000",
+            "family": "arial",
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "align": "center",
+            "line": 1
+        }
+    }
+]

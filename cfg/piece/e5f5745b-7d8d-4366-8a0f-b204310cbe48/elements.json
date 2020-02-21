@@ -1,0 +1,159 @@
+[
+    {
+        "id": "a2116a1e-f0b5-47c1-af63-41a27d57e958",
+        "name": "数值判断器",
+        "type": "value-judge",
+        "valueID": "ddfa57d5-c9fa-46b0-8cb3-d4542e2f4825",
+        "exec": [
+            {
+                "type": "number",
+                "value": "0"
+            }
+        ],
+        "situation": {
+            "greater": {
+                "id": "5ce886bf-9f01-4b0c-9d3b-1a1eb6a8b725",
+                "text": "大于",
+                "emitType": "emit-event"
+            },
+            "less": {
+                "id": "02213012-3f18-41dc-83eb-fda8c46a34e5",
+                "text": "小于",
+                "emitType": "emit-event"
+            },
+            "equal": {
+                "id": "31abcedc-508e-4bad-b9de-641b8db002d9",
+                "text": "等于",
+                "emitType": "none"
+            }
+        },
+        "zIndex": 1
+    },
+    {
+        "id": "39d96005-8f09-4874-83b6-e59d9cbf26e1",
+        "name": "QTE快速反应-01",
+        "type": "qte",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -21,
+            "y": -48
+        },
+        "size": {
+            "width": 235,
+            "height": 235
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 2,
+        "mask": {
+            "active": true,
+            "color": "#000000",
+            "opacity": 150
+        },
+        "tips": {
+            "text": "5s内点击一次,生命值设置为100\n否则,生命值设置为-100",
+            "font": {
+                "align": "center",
+                "bold": false,
+                "color": "#ffffff",
+                "family": "arial",
+                "italic": false,
+                "line": 1,
+                "size": 20,
+                "underline": false
+            },
+            "opacity": 255,
+            "position": {
+                "x": 0,
+                "y": -160
+            },
+            "id": "4efd23a4-0f2c-452a-be38-1f7a7f29b520",
+            "type": "tips"
+        },
+        "unFinished": {
+            "rePlay": false,
+            "reStart": false
+        },
+        "result": {
+            "succeed": {
+                "id": "becf6bf3-faea-4ded-aa1d-edea796de6e8",
+                "name": "动作已完成"
+            },
+            "failed": {
+                "id": "fa319b6c-e663-4d69-8d3f-3d125ae69f94",
+                "name": "动作未完成"
+            }
+        },
+        "qte": {
+            "id": "a6d6021e-eaad-4ce8-9f9b-1e57061dcf29",
+            "type": "graphics",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "width": 235,
+                "height": 235
+            },
+            "emitType": "click",
+            "clickCount": 1,
+            "style": {
+                "color": "#ffffff",
+                "type": "style1"
+            },
+            "icon": {
+                "color": "#ffffff",
+                "opacity": 255
+            },
+            "timer": {
+                "colorBottom": "#777777",
+                "colorTop": "#ffffff",
+                "opacity": 255,
+                "enabled": true,
+                "time": 5
+            }
+        }
+    },
+    {
+        "id": "b20c311f-828a-4de2-8e45-dbd30290c601",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 9,
+            "y": 308
+        },
+        "size": {
+            "width": 544.08,
+            "height": 83.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 3,
+        "direction": "horizontal",
+        "string": "如果生命数值>0 , 跳转到[结局-数值>0]\n如果生命数值<0 , 跳转到[结局-数值<0]",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "action": {
+            "time": 1,
+            "type": "fade-in"
+        },
+        "element": "59d3112d-9db1-44bf-8fc0-613808d3728d",
+        "id": "f66da6a9-4c02-4bfb-89f5-bf8d3a1a8a8f",
+        "moment": "afterPrevious"
+    }
+]

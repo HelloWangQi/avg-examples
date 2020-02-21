@@ -1,0 +1,37 @@
+[
+    {
+        "id": "0bf7f115-e564-4f3e-8821-82ab4eba7290",
+        "element": "f69464e7-1f6e-4252-9ed4-27edba12e943",
+        "type": "value",
+        "count": 1,
+        "emitType": "click",
+        "valueID": "ddfa57d5-c9fa-46b0-8cb3-d4542e2f4825",
+        "exec": [
+            {
+                "type": "number",
+                "value": "0"
+            }
+        ],
+        "text": "生命数值=<生命数值>",
+        "font": {
+            "size": 20,
+            "color": "#ffffff",
+            "family": "arial",
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "align": "center",
+            "line": 1
+        }
+    },
+    {
+        "id": "0ae6a1e6-596c-47af-aac5-790bde0379bf",
+        "element": "e323f8d8-6dc7-4185-b278-236d250afef4",
+        "type": "plot",
+        "count": 1,
+        "emitType": "click",
+        "jump": "a9042d26-bf51-4ba4-b406-e39f795c5574",
+        "delayTime": 0,
+        "action": "none"
+    }
+]

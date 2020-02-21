@@ -1,0 +1,26 @@
+[
+    {
+        "action": {
+            "type": "shake",
+            "delay": 0,
+            "time": 1,
+            "strength": "normal"
+        },
+        "element": "2b6e38a7-fe8a-446d-aed6-1a3d212f078f",
+        "id": "25f11e3e-e4fb-4dfb-b2f9-f7ccd6e15683",
+        "moment": "afterPrevious"
+    },
+    {
+        "id": "3181133d-c29b-49f1-8a01-5f1134bcc14c",
+        "element": "2b6e38a7-fe8a-446d-aed6-1a3d212f078f",
+        "action": {
+            "type": "play",
+            "delay": 0,
+            "volume": 100,
+            "time": 2.04,
+            "loop": false,
+            "isFullPlay": true
+        },
+        "moment": "afterPrevious"
+    }
+]

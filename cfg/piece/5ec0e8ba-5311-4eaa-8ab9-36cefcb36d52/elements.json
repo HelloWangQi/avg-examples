@@ -1,0 +1,274 @@
+[
+    {
+        "id": "8842f6d1-30d3-435d-96df-8245c0b8a079",
+        "name": "数值判断器",
+        "type": "value-judge",
+        "valueID": "ddfa57d5-c9fa-46b0-8cb3-d4542e2f4825",
+        "exec": [
+            {
+                "type": "number",
+                "value": "0"
+            }
+        ],
+        "situation": {
+            "greater": {
+                "id": "1124ba99-8700-4da8-ad30-8b5a004a9067",
+                "text": "大于",
+                "emitType": "none"
+            },
+            "less": {
+                "id": "4146deae-85e4-4aac-8fee-edc5a4262cc7",
+                "text": "小于",
+                "emitType": "none"
+            },
+            "equal": {
+                "id": "e323f8d8-6dc7-4185-b278-236d250afef4",
+                "text": "等于",
+                "emitType": "emit-event"
+            }
+        },
+        "zIndex": 1
+    },
+    {
+        "id": "fb7f7844-fb72-4025-9445-3c667037f976",
+        "name": "剧情跳转",
+        "type": "plot-jump",
+        "jumpPlotID": "d6a37da6-055f-4726-bde4-a1def544d77b",
+        "zIndex": 2
+    },
+    {
+        "id": "59d3112d-9db1-44bf-8fc0-613808d3728d",
+        "name": "QTE快速反应-01",
+        "type": "qte",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -1,
+            "y": -117
+        },
+        "size": {
+            "width": 235,
+            "height": 235
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 3,
+        "mask": {
+            "active": true,
+            "color": "#000000",
+            "opacity": 150
+        },
+        "tips": {
+            "text": "不计时点击1次\n设置生命值=0",
+            "font": {
+                "align": "center",
+                "bold": false,
+                "color": "#ffffff",
+                "family": "arial",
+                "italic": false,
+                "line": 1,
+                "size": 20,
+                "underline": false
+            },
+            "opacity": 255,
+            "position": {
+                "x": 0,
+                "y": -160
+            },
+            "id": "97928b6f-4b83-4c1b-965a-fc0c68b44768",
+            "type": "tips"
+        },
+        "unFinished": {
+            "rePlay": false,
+            "reStart": false
+        },
+        "result": {
+            "succeed": {
+                "id": "f69464e7-1f6e-4252-9ed4-27edba12e943",
+                "name": "动作已完成"
+            },
+            "failed": {
+                "id": "22bd67ee-ab5e-472b-a9b3-d3afc81a7f87",
+                "name": "动作未完成"
+            }
+        },
+        "qte": {
+            "id": "82d13bcc-dbaf-4ffd-b20e-3958f727a1cf",
+            "type": "graphics",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "width": 235,
+                "height": 235
+            },
+            "emitType": "click",
+            "clickCount": 1,
+            "style": {
+                "color": "#ffffff",
+                "type": "style1"
+            },
+            "icon": {
+                "color": "#ffffff",
+                "opacity": 255
+            },
+            "timer": {
+                "colorBottom": "#777777",
+                "colorTop": "#ffffff",
+                "opacity": 255,
+                "enabled": false,
+                "time": 1
+            }
+        }
+    },
+    {
+        "id": "603850da-ed93-4958-b43b-97d7bb94f100",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -252,
+            "y": 308
+        },
+        "size": {
+            "width": 608,
+            "height": 83.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 4,
+        "direction": "horizontal",
+        "string": "画布中同时存在数值判断器和剧情跳转元素\n处理逻辑优先级: 数值判断器>剧情跳转",
+        "textFont": {
+            "align": "left",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "aea42df7-7294-47b0-b339-39fef3a09e83",
+        "templateID": null,
+        "name": "文本框-02",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -359,
+            "y": 215
+        },
+        "size": {
+            "width": 388.48,
+            "height": 83.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#0a2477",
+        "zIndex": 5,
+        "direction": "horizontal",
+        "string": "数值判断器设置生命值=0时\n跳转到[结局-数值=0]",
+        "textFont": {
+            "align": "left",
+            "bold": false,
+            "color": "#0a2477",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "09dc3dc7-3d4e-4acc-b107-3737f4d440b9",
+        "templateID": null,
+        "name": "文本框-03",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -285,
+            "y": 113
+        },
+        "size": {
+            "width": 549.33,
+            "height": 83.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#0a2477",
+        "zIndex": 6,
+        "direction": "horizontal",
+        "string": "剧情跳转设置\n跳转到[结局-数值判断器,剧情跳转共存]",
+        "textFont": {
+            "align": "left",
+            "bold": false,
+            "color": "#0a2477",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "74534f5b-28fd-43a1-9853-c24418d315e7",
+        "templateID": null,
+        "name": "文本框-04",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -24,
+            "y": 206
+        },
+        "size": {
+            "width": 198.2,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#118140",
+        "zIndex": 7,
+        "direction": "horizontal",
+        "string": "<---- 正确结果",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#118140",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

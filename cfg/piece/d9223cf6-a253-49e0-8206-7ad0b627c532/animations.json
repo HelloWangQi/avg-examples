@@ -1,0 +1,25 @@
+[
+    {
+        "action": {
+            "type": "fade-in",
+            "delay": 0,
+            "time": 1
+        },
+        "element": "a49af24c-a7b2-4ca2-81ac-7b7dcc65fe7e",
+        "id": "a258ec20-4780-4b8c-ab9e-614e231eca2d",
+        "moment": "afterPrevious"
+    },
+    {
+        "id": "b1a18764-a64e-4ebe-a2bf-318706378a48",
+        "element": "a49af24c-a7b2-4ca2-81ac-7b7dcc65fe7e",
+        "action": {
+            "type": "play",
+            "delay": 0,
+            "volume": 100,
+            "time": 2.04,
+            "loop": false,
+            "isFullPlay": true
+        },
+        "moment": "afterPrevious"
+    }
+]

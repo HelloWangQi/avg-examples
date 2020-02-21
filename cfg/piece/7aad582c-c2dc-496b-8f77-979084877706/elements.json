@@ -1,0 +1,130 @@
+[
+    {
+        "id": "75831bf2-5d60-4166-a20d-1b886d1ecb4a",
+        "templateID": null,
+        "name": "QTE快速反应-01",
+        "type": "qte",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 235,
+            "height": 235
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 1,
+        "mask": {
+            "active": true,
+            "color": "#000000",
+            "opacity": 150
+        },
+        "tips": {
+            "text": "4s时间内点击1次视为成功\n否则将一直重复此动作",
+            "font": {
+                "align": "center",
+                "bold": false,
+                "color": "#FFFFFF",
+                "family": "font1",
+                "italic": false,
+                "line": 1,
+                "size": 20,
+                "underline": false
+            },
+            "opacity": 255,
+            "position": {
+                "x": 0,
+                "y": -160
+            },
+            "id": "f8d7ad9d-934e-4cfc-8098-da056a47467e",
+            "type": "tips"
+        },
+        "unFinished": {
+            "rePlay": false,
+            "reStart": true
+        },
+        "result": {
+            "succeed": {
+                "id": "de7fbf0a-7434-4a65-8d15-63b51734176a",
+                "name": "动作已完成"
+            },
+            "failed": {
+                "id": "db08d8e0-da53-4445-a773-c1548f263cfb",
+                "name": "动作未完成"
+            }
+        },
+        "qte": {
+            "id": "29b22b19-730f-4d23-8dd9-bb998692f55f",
+            "type": "graphics",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "width": 235,
+                "height": 235
+            },
+            "emitType": "click",
+            "clickCount": 1,
+            "style": {
+                "color": "#ffffff",
+                "type": "style1"
+            },
+            "icon": {
+                "color": "#ffffff",
+                "opacity": 255
+            },
+            "timer": {
+                "colorBottom": "#777777",
+                "colorTop": "#ffffff",
+                "opacity": 255,
+                "enabled": true,
+                "time": 1
+            }
+        }
+    },
+    {
+        "id": "e92b1b93-d9b8-426e-ab7f-61aae28ac88f",
+        "templateID": null,
+        "name": "横版文字框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 278.5714285714307
+        },
+        "size": {
+            "width": 513.78,
+            "height": 83.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 2,
+        "direction": "horizontal",
+        "string": "QTE元素没有添加任何成功失败事件\n[未完成-重新开始]",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

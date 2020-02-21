@@ -1,0 +1,64 @@
+[
+    {
+        "id": "f743079c-05f5-4a32-b356-0acd302d38be",
+        "templateID": null,
+        "name": "下雨-01",
+        "type": "effect-rain",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -28,
+            "y": 181
+        },
+        "size": {
+            "width": 100,
+            "height": 100
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 1,
+        "state": "small",
+        "direction": "down"
+    },
+    {
+        "id": "0d464778-6876-4fd0-b570-a0810e6adad5",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 128,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 2,
+        "direction": "horizontal",
+        "string": "绵绵细雨",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

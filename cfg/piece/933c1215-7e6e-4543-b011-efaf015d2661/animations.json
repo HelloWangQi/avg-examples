@@ -1,0 +1,59 @@
+[
+    {
+        "id": "296b8ab0-0218-436d-af26-e48acfa1e486",
+        "element": "e73c5b0c-c1be-424c-b28f-9699de1413ef",
+        "action": {
+            "type": "fade-in",
+            "delay": 0,
+            "time": 1
+        },
+        "moment": "asPrevious"
+    },
+    {
+        "id": "08b90c99-0bc4-4ad1-b018-e5a70d7592dc",
+        "element": "3f08eaf5-d7f1-421b-8554-d18f6a24e360",
+        "action": {
+            "type": "shake",
+            "delay": 0,
+            "time": 2,
+            "strength": "normal"
+        },
+        "moment": "afterPrevious"
+    },
+    {
+        "id": "9731b2a4-f62a-409a-b83d-c737e1e51e09",
+        "element": "05468c14-9d7e-409d-96f5-26dc1a5e4deb",
+        "action": {
+            "type": "scale",
+            "delay": 0,
+            "time": 1,
+            "scaleFrom": 100,
+            "scaleTo": 40
+        },
+        "moment": "afterPrevious"
+    },
+    {
+        "id": "5bbe6613-ecbc-4fe7-9ae3-8bd336819292",
+        "element": "f94432b9-a9d2-4834-9db6-cf36d6776d9c",
+        "action": {
+            "type": "fade-out",
+            "delay": 0,
+            "time": 2
+        },
+        "moment": "afterPrevious"
+    },
+    {
+        "id": "7eecc1a4-0d92-473c-a679-d31e64a8dc9e",
+        "element": "7fb27979-c9a1-4666-b324-463f9208248b",
+        "action": {
+            "type": "move",
+            "time": 1,
+            "delay": 0,
+            "y2": 60,
+            "y1": 60,
+            "x2": 400,
+            "x1": 490
+        },
+        "moment": "afterPrevious"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "action": {
+            "time": 1,
+            "type": "fade-in"
+        },
+        "element": "d4a4d268-da2e-457c-a0df-90720fd02cc3",
+        "id": "4af91538-5f2e-4135-a48c-e9457f7750de",
+        "moment": "afterPrevious"
+    },
+    {
+        "action": {
+            "time": 1,
+            "type": "fade-in"
+        },
+        "element": "043f6e60-9be8-458e-8bb3-34b53e2e320b",
+        "id": "ee4de73d-f99e-4406-ac64-2e7bcf6bd43f",
+        "moment": "afterPrevious"
+    },
+    {
+        "action": {
+            "time": 1,
+            "type": "fade-in"
+        },
+        "element": "031a830d-624d-477f-8e13-942d01c2a21a",
+        "id": "5e0a5682-5fed-4dae-b9bc-ff2d48f6c589",
+        "moment": "afterPrevious"
+    }
+]

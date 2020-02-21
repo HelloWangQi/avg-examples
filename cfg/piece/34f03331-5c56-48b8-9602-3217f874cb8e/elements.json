@@ -1,0 +1,220 @@
+[
+    {
+        "id": "4444466f-8736-4d8f-bb60-5941f725f56f",
+        "name": "QTE快速反应-01",
+        "type": "qte",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -261,
+            "y": 14
+        },
+        "size": {
+            "width": 235,
+            "height": 98.37209302325581
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 1,
+        "mask": {
+            "active": true,
+            "color": "#000000",
+            "opacity": 150
+        },
+        "tips": {
+            "text": "4s内完成1次上下滑动",
+            "font": {
+                "align": "center",
+                "bold": false,
+                "color": "#ffffff",
+                "family": "arial",
+                "italic": false,
+                "line": 1,
+                "size": 20,
+                "underline": false
+            },
+            "opacity": 255,
+            "position": {
+                "x": 2,
+                "y": -84
+            },
+            "id": "891a2fd1-9f02-41ce-8825-5cf013e402fe",
+            "type": "tips"
+        },
+        "unFinished": {
+            "rePlay": false,
+            "reStart": false
+        },
+        "result": {
+            "succeed": {
+                "id": "9533af0a-5396-4324-a0a9-6f236212863c",
+                "name": "动作已完成"
+            },
+            "failed": {
+                "id": "1c69f07f-4f74-42e5-8281-8bfafb138636",
+                "name": "动作未完成"
+            }
+        },
+        "qte": {
+            "id": "1f8ebfe2-f773-45a6-96a4-ac2a8f446e20",
+            "type": "graphics",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "width": 235,
+                "height": 235
+            },
+            "emitType": "slide-up-down",
+            "clickCount": 1,
+            "style": {
+                "color": "#ffffff",
+                "type": "style1"
+            },
+            "icon": {
+                "color": "#ffffff",
+                "opacity": 255
+            },
+            "timer": {
+                "colorBottom": "#6d2576",
+                "colorTop": "#e868f6",
+                "opacity": 255,
+                "enabled": true,
+                "time": 4
+            }
+        }
+    },
+    {
+        "id": "2bfaa28a-362d-49d1-b284-faa5a6dd9920",
+        "templateID": null,
+        "name": "QTE快速反应-02",
+        "type": "qte",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 319.8333333333335,
+            "y": -9
+        },
+        "size": {
+            "width": 392.66666666666686,
+            "height": 164.3720930232559
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 2,
+        "mask": {
+            "active": true,
+            "color": "#000000",
+            "opacity": 150
+        },
+        "tips": {
+            "text": "4s内完成2次左右滑动",
+            "font": {
+                "align": "center",
+                "bold": false,
+                "color": "#ffffff",
+                "family": "arial",
+                "italic": false,
+                "line": 1,
+                "size": 20,
+                "underline": false
+            },
+            "opacity": 255,
+            "position": {
+                "x": 9,
+                "y": -107
+            },
+            "id": "efb8349b-99dc-4ebb-97cf-2a0ae0cabe44",
+            "type": "tips"
+        },
+        "unFinished": {
+            "rePlay": false,
+            "reStart": false
+        },
+        "result": {
+            "succeed": {
+                "id": "82ab826a-c900-4acc-9be5-b7ae65f097c1",
+                "name": "动作已完成"
+            },
+            "failed": {
+                "id": "003e37f5-09b4-4389-8c48-d4c471e12f9b",
+                "name": "动作未完成"
+            }
+        },
+        "qte": {
+            "id": "40c55bdd-4393-46a0-954a-63ee6dcde02a",
+            "type": "graphics",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "width": 235,
+                "height": 235
+            },
+            "emitType": "slide-left-right",
+            "clickCount": 2,
+            "style": {
+                "color": "#ffffff",
+                "type": "style1"
+            },
+            "icon": {
+                "color": "#ffffff",
+                "opacity": 255
+            },
+            "timer": {
+                "colorBottom": "#5e3c03",
+                "colorTop": "#e6bb76",
+                "opacity": 255,
+                "enabled": true,
+                "time": 4
+            }
+        }
+    },
+    {
+        "id": "6154196f-a5cd-4957-8fa3-19d81e8d7d9c",
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -9,
+            "y": 252
+        },
+        "size": {
+            "width": 136.89,
+            "height": 83.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 3,
+        "direction": "horizontal",
+        "string": "上下/左右\n滑动",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "id": "843c4ec4-423f-4b5b-b06b-9c9f1898b724",
+        "element": "0cd532ee-982c-43b1-90c3-07dbb76b094e",
+        "action": {
+            "type": "fade-in",
+            "delay": 1,
+            "time": 2
+        },
+        "moment": "afterPrevious"
+    }
+]

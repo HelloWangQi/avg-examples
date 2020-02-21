@@ -1,0 +1,76 @@
+[
+    {
+        "id": "fcfef351-d3e3-4249-9240-20264f28c9fa",
+        "element": "5ce886bf-9f01-4b0c-9d3b-1a1eb6a8b725",
+        "type": "plot",
+        "count": 1,
+        "emitType": "click",
+        "jump": "ed6b34d2-3e19-4d8e-8df2-eaef3865af12",
+        "delayTime": 0,
+        "action": "none"
+    },
+    {
+        "id": "926944fd-b05b-432f-ab22-0fd3e2edcedf",
+        "element": "becf6bf3-faea-4ded-aa1d-edea796de6e8",
+        "type": "value",
+        "count": 1,
+        "emitType": "click",
+        "valueID": "ddfa57d5-c9fa-46b0-8cb3-d4542e2f4825",
+        "exec": [
+            {
+                "type": "number",
+                "value": "100"
+            }
+        ],
+        "text": "生命值=<生命数值>",
+        "font": {
+            "size": 20,
+            "color": "#00FF02",
+            "family": "arial",
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "align": "center",
+            "line": 1
+        }
+    },
+    {
+        "id": "09d8ea31-e76a-427a-ad9d-fd131d98785f",
+        "element": "fa319b6c-e663-4d69-8d3f-3d125ae69f94",
+        "type": "value",
+        "count": 1,
+        "emitType": "click",
+        "valueID": "ddfa57d5-c9fa-46b0-8cb3-d4542e2f4825",
+        "exec": [
+            {
+                "type": "symbol",
+                "value": "-"
+            },
+            {
+                "type": "number",
+                "value": "100"
+            }
+        ],
+        "text": "生命值=<生命数值>",
+        "font": {
+            "size": 20,
+            "color": "#FF0000",
+            "family": "arial",
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "align": "center",
+            "line": 1
+        }
+    },
+    {
+        "id": "4a2aee77-ba86-4437-a0e0-7f3dd93c9743",
+        "element": "02213012-3f18-41dc-83eb-fda8c46a34e5",
+        "type": "plot",
+        "count": 1,
+        "emitType": "click",
+        "jump": "f5b7dbb7-9aaa-4c25-be5d-7a18e6f6c448",
+        "delayTime": 0,
+        "action": "none"
+    }
+]

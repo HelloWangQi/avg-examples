@@ -1,0 +1,27 @@
+[
+    {
+        "action": {
+            "type": "scale",
+            "delay": 0,
+            "time": 1,
+            "scaleFrom": 100,
+            "scaleTo": 30
+        },
+        "element": "b3a17a1b-b7b0-4b37-a635-63fcc179f149",
+        "id": "31d55169-3eab-440d-831e-ea9b8e6b2126",
+        "moment": "afterPrevious"
+    },
+    {
+        "id": "6ceb547d-160b-4cc0-a3c0-6cdd95faf577",
+        "element": "b3a17a1b-b7b0-4b37-a635-63fcc179f149",
+        "action": {
+            "type": "play",
+            "delay": 0,
+            "volume": 100,
+            "time": 2.04,
+            "loop": false,
+            "isFullPlay": true
+        },
+        "moment": "afterPrevious"
+    }
+]
