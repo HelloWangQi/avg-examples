@@ -85,6 +85,10 @@
         {
             "id": "9004c132-11ab-4f6d-b421-1cfca709c135",
             "type": "qte"
+        },
+        {
+            "id": "3d7c901d-63ab-440a-988a-05fbfc04b8c0",
+            "type": "password-lock"
         }
     ]
 }

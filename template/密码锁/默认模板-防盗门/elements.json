@@ -1,0 +1,53 @@
+[
+    {
+        "id": "6dedb9e2-3778-47ac-8899-03cfc55f1fe5",
+        "templateID": null,
+        "name": "密码锁",
+        "type": "password-lock",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 244,
+            "height": 360
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 1,
+        "isLock": true,
+        "imageLock": "651d667e-17a3-4db5-bf37-0e61a05afbcc",
+        "imageOpen": "aad0671e-2afb-4524-8f55-48f267e456a1",
+        "class": "electronic",
+        "style": "type2",
+        "password": "01234567",
+        "openTips": "密码箱已经打开",
+        "tipsFont": {
+            "size": 20,
+            "color": "#ffffff",
+            "family": "arial",
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "align": "center",
+            "line": 1
+        },
+        "result": {
+            "succeed": {
+                "id": "e4577ca8-34a7-4e99-8490-0b364f956da5",
+                "name": "开锁成功"
+            },
+            "failed": {
+                "id": "95def20e-05f7-4800-aedd-66a0f735fa4c",
+                "name": "开锁失败"
+            }
+        }
+    }
+]
