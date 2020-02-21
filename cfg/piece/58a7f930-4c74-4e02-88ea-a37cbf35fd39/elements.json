@@ -23,7 +23,7 @@
         "color": "#ffffff",
         "zIndex": 1,
         "state": "small",
-        "prefab": "prefab/snow"
+        "direction": "down"
     },
     {
         "id": "d618e155-2167-4d27-8d49-38a238a9d950",

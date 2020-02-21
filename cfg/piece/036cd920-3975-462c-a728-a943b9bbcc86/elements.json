@@ -23,7 +23,7 @@
         "color": "#ffffff",
         "zIndex": 1,
         "state": "small",
-        "prefab": "prefab/rain"
+        "direction": "down"
     },
     {
         "id": "0d464778-6876-4fd0-b570-a0810e6adad5",
