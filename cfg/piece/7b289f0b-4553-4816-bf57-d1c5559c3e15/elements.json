@@ -1,18 +1,18 @@
 [
     {
-        "id": "a1f38ec9-8b59-44bb-b54d-6e660dff48d1",
+        "id": "37b3c9ab-c565-49ed-a692-a3648be3b032",
         "templateID": null,
-        "name": "刮风-01",
-        "type": "effect-win",
+        "name": "ERROR",
+        "type": "text",
         "lockPos": false,
         "lockSizeRatio": true,
         "position": {
-            "x": 15,
-            "y": 317
+            "x": 0,
+            "y": 0
         },
         "size": {
-            "width": 100,
-            "height": 100
+            "width": 0,
+            "height": 0
         },
         "scale": {
             "x": 1,
@@ -22,8 +22,18 @@
         "opacity": 255,
         "color": "#ffffff",
         "zIndex": 1,
-        "state": "small",
-        "prefab": "prefab/win"
+        "direction": "horizontal",
+        "string": "风的特效已经删除!",
+        "textFont": {
+            "size": 20,
+            "color": "#333333",
+            "family": "arial",
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "align": "center",
+            "line": 1
+        }
     },
     {
         "id": "90b08c45-3f53-4d87-b832-d090e3749bc6",
