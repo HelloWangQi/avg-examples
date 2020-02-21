@@ -1,0 +1,111 @@
+[
+    {
+        "id": "96fd20c9-2f21-40cd-92cd-a8ed6ceb2bb6",
+        "element": "ed185c83-cc99-468e-a2a9-0b0902f92a18",
+        "type": "value",
+        "count": 1,
+        "emitType": "click",
+        "valueID": "ddfa57d5-c9fa-46b0-8cb3-d4542e2f4825",
+        "exec": [
+            {
+                "type": "variable",
+                "value": "ddfa57d5-c9fa-46b0-8cb3-d4542e2f4825"
+            },
+            {
+                "type": "symbol",
+                "value": "+"
+            },
+            {
+                "type": "number",
+                "value": "1"
+            }
+        ],
+        "text": "生命值=<生命数值>",
+        "font": {
+            "size": 32,
+            "color": "#FF0505",
+            "family": "arial",
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "align": "center",
+            "line": 1
+        }
+    },
+    {
+        "id": "2cc7a3b0-6662-485f-bad4-bb8ff33fa677",
+        "element": "ed185c83-cc99-468e-a2a9-0b0902f92a18",
+        "type": "value",
+        "count": 1,
+        "emitType": "click",
+        "valueID": "ddfa57d5-c9fa-46b0-8cb3-d4542e2f4825",
+        "exec": [
+            {
+                "type": "variable",
+                "value": "ddfa57d5-c9fa-46b0-8cb3-d4542e2f4825"
+            },
+            {
+                "type": "symbol",
+                "value": "+"
+            },
+            {
+                "type": "number",
+                "value": "1"
+            }
+        ],
+        "text": "生命值=<生命数值>",
+        "font": {
+            "size": 32,
+            "color": "#00FF49",
+            "family": "arial",
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "align": "center",
+            "line": 1
+        }
+    },
+    {
+        "id": "ef43b8e1-f4ac-47a1-bd48-2a9c293a066b",
+        "element": "3a97b237-349e-40dd-9527-51e0508b00d7",
+        "type": "value",
+        "count": 1,
+        "emitType": "click",
+        "valueID": "ddfa57d5-c9fa-46b0-8cb3-d4542e2f4825",
+        "exec": [
+            {
+                "type": "variable",
+                "value": "ddfa57d5-c9fa-46b0-8cb3-d4542e2f4825"
+            },
+            {
+                "type": "symbol",
+                "value": "-"
+            },
+            {
+                "type": "number",
+                "value": "1"
+            }
+        ],
+        "text": "生命值=<生命数值>",
+        "font": {
+            "size": 32,
+            "color": "#0144FF",
+            "family": "arial",
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "align": "center",
+            "line": 1
+        }
+    },
+    {
+        "id": "edd2e320-2757-460f-b0c7-663f9915b766",
+        "element": "3a97b237-349e-40dd-9527-51e0508b00d7",
+        "type": "plot",
+        "count": 1,
+        "emitType": "click",
+        "jump": "a6acf9d0-ac36-4b00-9e9a-20e3389e50fd",
+        "delayTime": 0,
+        "action": "none"
+    }
+]

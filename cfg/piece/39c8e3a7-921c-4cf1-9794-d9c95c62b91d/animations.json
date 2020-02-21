@@ -1,0 +1,18 @@
+[
+    {
+        "id": "184c55bf-8e5c-42cd-926b-1fb3790ee458",
+        "element": "d7effde2-e601-48bb-8afa-daf7bcbd88b4",
+        "action": {
+            "type": "play",
+            "delay": 0,
+            "volume": 100,
+            "time": 15.02,
+            "loop": true,
+            "fadeIn": false,
+            "fadeOut": true,
+            "fadeInTime": 8,
+            "fadeOutTime": 8
+        },
+        "moment": "afterPrevious"
+    }
+]

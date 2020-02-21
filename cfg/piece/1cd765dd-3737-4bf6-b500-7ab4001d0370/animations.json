@@ -1,0 +1,38 @@
+[
+    {
+        "action": {
+            "time": 1,
+            "type": "fade-in"
+        },
+        "element": "e57927ea-b8de-4e4e-a81d-7b3891e76d6e",
+        "id": "30eaccb9-9899-474e-9bf5-62bed444bd87",
+        "moment": "afterPrevious"
+    },
+    {
+        "action": {
+            "time": 1,
+            "type": "fade-in"
+        },
+        "element": "cd932c52-c318-4d44-aba6-457e57a8762e",
+        "id": "06f284d2-398e-4d2a-b2d3-b43fdc472bcf",
+        "moment": "afterPrevious"
+    },
+    {
+        "action": {
+            "time": 1,
+            "type": "fade-in"
+        },
+        "element": "cd5bd9c0-159c-4d1d-bed7-5b627b09b595",
+        "id": "7ffe4c72-ce27-4b96-9b73-a72f4adda45a",
+        "moment": "afterPrevious"
+    },
+    {
+        "action": {
+            "time": 1,
+            "type": "fade-in"
+        },
+        "element": "a666bcf8-ade6-43c3-ad96-d947e3c7d005",
+        "id": "f7ed83b3-43b7-4844-8663-5d79daa9efda",
+        "moment": "afterPrevious"
+    }
+]
