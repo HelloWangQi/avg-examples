@@ -40,6 +40,10 @@
                 "size": {
                     "height": 54,
                     "width": 274
+                },
+                "position": {
+                    "x": 0,
+                    "y": 32
                 }
             },
             {
@@ -48,8 +52,37 @@
                 "size": {
                     "height": 54,
                     "width": 274
+                },
+                "position": {
+                    "x": 0,
+                    "y": -32
                 }
             }
-        ]
+        ],
+        "limit": {
+            "id": "50c6f478-fb43-4de8-9661-6a0bee839ccc",
+            "type": "limit",
+            "enabled": false,
+            "time": 10,
+            "font": {
+                "size": 20,
+                "color": "#333333",
+                "family": "arial",
+                "bold": false,
+                "italic": false,
+                "underline": false,
+                "align": "center",
+                "line": 1
+            },
+            "bg": "dfaf3a76-06e1-4ebe-823d-a006c3ce0a8d",
+            "size": {
+                "width": 73,
+                "height": 73
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        }
     }
 ]
