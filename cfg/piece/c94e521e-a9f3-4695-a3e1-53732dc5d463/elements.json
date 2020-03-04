@@ -37,7 +37,9 @@
             "scale": {
                 "x": 1,
                 "y": 1
-            }
+            },
+            "type": "head",
+            "linkID": null
         },
         "roleName": {
             "active": true,
