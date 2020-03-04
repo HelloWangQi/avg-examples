@@ -1,0 +1,63 @@
+[
+    {
+        "id": "84edb87f-a305-4804-ac6b-8973fd8ddcf4",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 128,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 1,
+        "direction": "horizontal",
+        "string": "星桥火树",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "6f2bf526-fac1-4202-8d78-5fb4749d3451",
+        "templateID": null,
+        "name": "火星-01",
+        "type": "effect-spot-fire",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -20.689655172413893,
+            "y": -360.1724137931037
+        },
+        "size": {
+            "width": 99.99999999999993,
+            "height": 99.99999999999993
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 2,
+        "state": "more"
+    }
+]
