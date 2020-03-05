@@ -11,7 +11,7 @@
             "y": 0
         },
         "size": {
-            "width": 64,
+            "width": 128,
             "height": 46.62
         },
         "scale": {
@@ -23,7 +23,7 @@
         "color": "#ff0027",
         "zIndex": 1,
         "direction": "horizontal",
-        "string": "小到中雨",
+        "string": "中雨向下",
         "textFont": {
             "align": "center",
             "bold": false,

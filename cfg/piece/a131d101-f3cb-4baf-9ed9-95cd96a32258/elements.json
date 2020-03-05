@@ -1,0 +1,76 @@
+[
+    {
+        "id": "fc9d2058-306a-4f2e-a594-5417a7ff7b5f",
+        "name": "快速插入场景",
+        "type": "helper-insert-scene",
+        "zIndex": 1
+    },
+    {
+        "id": "8a62c839-b2e6-4863-8a8a-910d30106d56",
+        "name": "快速插入人物",
+        "type": "helper-insert-role",
+        "zIndex": 2
+    },
+    {
+        "id": "3c2e074d-e589-4296-941d-c0bb4c0b223e",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 128,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 3,
+        "direction": "horizontal",
+        "string": "暴雪向右",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "376d976e-58fc-4ab4-bb96-4bc76d2159f1",
+        "templateID": null,
+        "name": "下雪-01",
+        "type": "effect-snow",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 100,
+            "height": 100
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 4,
+        "state": "big",
+        "direction": "right"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": "5cc1ebbf-1480-42b2-8654-398ac0ed8db4",
+        "name": "快速插入场景",
+        "type": "helper-insert-scene",
+        "zIndex": 1
+    },
+    {
+        "id": "91ba02bc-ba7c-456c-8643-cc60267956d9",
+        "name": "快速插入人物",
+        "type": "helper-insert-role",
+        "zIndex": 2
+    },
+    {
+        "id": "8abcc62a-63c9-4a50-a95e-8df19084abf2",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 288,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 3,
+        "direction": "horizontal",
+        "string": "视频与其他元素叠加",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

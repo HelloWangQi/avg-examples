@@ -122,6 +122,30 @@
 				"piece": "fd6f20e5-9776-4218-b571-473d3cea9afb",
 				"end": false,
 				"skip": "forbid"
+			},
+			{
+				"id": "c17ee7f8-78cc-4de6-9d5b-5a774878a66d",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "密码锁",
+				"children": [],
+				"next": null,
+				"piece": "4bbb8325-474c-4276-8efe-a1bccd7117f8",
+				"end": false,
+				"skip": "forbid"
+			},
+			{
+				"id": "bc69026b-79ed-49e9-b455-8a349481fde3",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "密码锁开锁",
+				"children": [],
+				"next": null,
+				"piece": "cebc810a-0f0a-4fc6-b4c7-f8a9f9afe734",
+				"end": false,
+				"skip": "forbid"
 			}
 		],
 		"next": null

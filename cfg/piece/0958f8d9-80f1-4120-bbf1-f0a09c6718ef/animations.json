@@ -1,0 +1,25 @@
+[
+    {
+        "action": {
+            "isFullPlay": true,
+            "loop": false,
+            "time": 2.042,
+            "type": "play",
+            "volume": 100
+        },
+        "element": "c70cf177-d570-429f-85dc-f9d286484d50",
+        "id": "1d361cd3-fac7-4a5e-8fda-18062e2b469b",
+        "moment": "afterPrevious"
+    },
+    {
+        "id": "1ec1decd-4444-4c92-8fb8-9ce2db8bf6e6",
+        "element": "3c2641ef-554d-403f-8e9a-ed5f330ce92b",
+        "action": {
+            "type": "shake",
+            "delay": 0,
+            "time": 1,
+            "strength": "normal"
+        },
+        "moment": "asPrevious"
+    }
+]

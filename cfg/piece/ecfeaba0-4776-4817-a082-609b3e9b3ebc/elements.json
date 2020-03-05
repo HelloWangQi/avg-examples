@@ -1,9 +1,45 @@
 [
     {
-        "id": "3a8f6ef4-a90f-49d7-96c6-9e397ffe0135",
+        "id": "f868a19b-b95e-4dcd-8218-0525789c7fb0",
         "templateID": null,
-        "name": "下雪-01",
-        "type": "effect-snow",
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 128,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 2,
+        "direction": "horizontal",
+        "string": "中雨向右",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "f4c4fe8e-7151-49e4-a8f7-010e2a863c1d",
+        "templateID": null,
+        "name": "下雨-01",
+        "type": "effect-rain",
         "lockPos": false,
         "lockSizeRatio": true,
         "position": {
@@ -21,44 +57,8 @@
         "active": true,
         "opacity": 255,
         "color": "#ffffff",
-        "zIndex": 1,
-        "state": "middle",
-        "direction": "down"
-    },
-    {
-        "id": "f868a19b-b95e-4dcd-8218-0525789c7fb0",
-        "templateID": null,
-        "name": "文本框-01",
-        "type": "text",
-        "lockPos": false,
-        "lockSizeRatio": true,
-        "position": {
-            "x": 0,
-            "y": 0
-        },
-        "size": {
-            "width": 64,
-            "height": 46.62
-        },
-        "scale": {
-            "x": 1,
-            "y": 1
-        },
-        "active": true,
-        "opacity": 255,
-        "color": "#ff0027",
         "zIndex": 2,
-        "direction": "horizontal",
-        "string": "雪花纷飞",
-        "textFont": {
-            "align": "center",
-            "bold": false,
-            "color": "#ff0027",
-            "family": "arial",
-            "italic": false,
-            "line": 1,
-            "size": 32,
-            "underline": false
-        }
+        "state": "middle",
+        "direction": "right"
     }
 ]

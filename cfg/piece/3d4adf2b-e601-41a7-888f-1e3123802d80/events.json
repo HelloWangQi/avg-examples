@@ -18,5 +18,15 @@
         "jump": "23104181-0a7b-4b01-a71b-3c2da7dd6ea3",
         "delayTime": 0,
         "action": "none"
+    },
+    {
+        "id": "7ba2f43b-7e02-47c6-8295-19a8e060609c",
+        "element": "50c6f478-fb43-4de8-9661-6a0bee839ccc",
+        "type": "plot",
+        "count": 1,
+        "emitType": "click",
+        "jump": "82394d77-5328-45c1-85e8-2989c6adf6ae",
+        "delayTime": 0,
+        "action": "none"
     }
 ]

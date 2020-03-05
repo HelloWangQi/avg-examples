@@ -33,11 +33,11 @@
         "lockPos": false,
         "lockSizeRatio": true,
         "position": {
-            "x": 0,
-            "y": 0
+            "x": -22,
+            "y": 13
         },
         "size": {
-            "width": 128,
+            "width": 138.66,
             "height": 46.62
         },
         "scale": {
@@ -49,7 +49,7 @@
         "color": "#ff0027",
         "zIndex": 2,
         "direction": "horizontal",
-        "string": "绵绵细雨",
+        "string": "小雨-向下",
         "textFont": {
             "align": "center",
             "bold": false,

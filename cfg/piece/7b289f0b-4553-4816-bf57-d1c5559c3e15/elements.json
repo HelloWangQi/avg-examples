@@ -1,41 +1,5 @@
 [
     {
-        "id": "37b3c9ab-c565-49ed-a692-a3648be3b032",
-        "templateID": null,
-        "name": "ERROR",
-        "type": "text",
-        "lockPos": false,
-        "lockSizeRatio": true,
-        "position": {
-            "x": 0,
-            "y": 0
-        },
-        "size": {
-            "width": 0,
-            "height": 0
-        },
-        "scale": {
-            "x": 1,
-            "y": 1
-        },
-        "active": true,
-        "opacity": 255,
-        "color": "#ffffff",
-        "zIndex": 1,
-        "direction": "horizontal",
-        "string": "风的特效已经删除!",
-        "textFont": {
-            "size": 20,
-            "color": "#333333",
-            "family": "arial",
-            "bold": false,
-            "italic": false,
-            "underline": false,
-            "align": "center",
-            "line": 1
-        }
-    },
-    {
         "id": "90b08c45-3f53-4d87-b832-d090e3749bc6",
         "templateID": null,
         "name": "文本框-01",
@@ -59,7 +23,7 @@
         "color": "#ff0027",
         "zIndex": 2,
         "direction": "horizontal",
-        "string": "微风席面",
+        "string": "小雨向左",
         "textFont": {
             "align": "center",
             "bold": false,
@@ -70,5 +34,31 @@
             "size": 32,
             "underline": false
         }
+    },
+    {
+        "id": "dfef6d6b-e331-4c57-a6f6-9238e524d022",
+        "templateID": null,
+        "name": "下雨-01",
+        "type": "effect-rain",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 100,
+            "height": 100
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 2,
+        "state": "small",
+        "direction": "left"
     }
 ]

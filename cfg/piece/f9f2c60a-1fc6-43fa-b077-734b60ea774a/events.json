@@ -1,0 +1,27 @@
+[
+    {
+        "id": "2dd694c7-3d55-4793-abdc-f7dc06efd6c2",
+        "element": "4956f07e-e42a-406a-8817-c8aad36f82ec",
+        "type": "value",
+        "count": 1,
+        "emitType": "click",
+        "valueID": "ddfa57d5-c9fa-46b0-8cb3-d4542e2f4825",
+        "exec": [
+            {
+                "type": "variable",
+                "value": "ddfa57d5-c9fa-46b0-8cb3-d4542e2f4825"
+            }
+        ],
+        "text": "qte成功",
+        "font": {
+            "size": 20,
+            "color": "#F60707",
+            "family": "arial",
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "align": "center",
+            "line": 1
+        }
+    }
+]

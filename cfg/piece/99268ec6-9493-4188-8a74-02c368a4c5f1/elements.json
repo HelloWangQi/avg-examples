@@ -1,0 +1,46 @@
+[
+    {
+        "id": "900d7f5b-6b20-457c-b2ac-87ea08cf5a9b",
+        "name": "快速插入场景",
+        "type": "helper-insert-scene",
+        "zIndex": 1
+    },
+    {
+        "id": "b8984291-c201-489a-82a6-87f46ba87e4c",
+        "name": "快速插入人物",
+        "type": "helper-insert-role",
+        "zIndex": 2
+    },
+    {
+        "id": "f7759822-3422-4bb2-9807-41f2dc58b40a",
+        "templateID": "195a414b-8320-4919-8f65-49bfe52ba81b",
+        "name": "视频-剧情-01",
+        "type": "video-plot",
+        "lockPos": false,
+        "lockSizeRatio": false,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 3,
+        "src": "2551ec70-4b60-400d-b7d3-eb2481426044",
+        "isRemote": false,
+        "time": 2.042,
+        "resolutionRatio": {
+            "width": 0,
+            "height": 0
+        },
+        "displayMode": "fit"
+    }
+]

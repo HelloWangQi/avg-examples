@@ -1,0 +1,152 @@
+[
+    {
+        "id": "edac3585-a504-43a5-89b7-8df6bec7d39c",
+        "name": "快速插入场景",
+        "type": "helper-insert-scene",
+        "zIndex": 1
+    },
+    {
+        "id": "06e9b732-e978-4b73-b8cd-feeab9fe0f32",
+        "name": "快速插入人物",
+        "type": "helper-insert-role",
+        "zIndex": 2
+    },
+    {
+        "id": "d1678c75-f894-4967-bc8e-c25ed86d39f7",
+        "templateID": "195a414b-8320-4919-8f65-49bfe52ba81b",
+        "name": "视频-剧情-01",
+        "type": "video-plot",
+        "lockPos": false,
+        "lockSizeRatio": false,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 3,
+        "src": "2551ec70-4b60-400d-b7d3-eb2481426044",
+        "isRemote": false,
+        "time": 2.042,
+        "resolutionRatio": {
+            "width": 0,
+            "height": 0
+        },
+        "displayMode": "fit"
+    },
+    {
+        "id": "adbd7d13-b95f-4a10-9f8d-dfb5e8780c92",
+        "templateID": null,
+        "name": "QTE快速反应-01",
+        "type": "qte",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 582.9375,
+            "y": 321.625
+        },
+        "size": {
+            "width": 1468.125,
+            "height": 994.75
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 4,
+        "mask": {
+            "active": true,
+            "color": "#000000",
+            "opacity": 150
+        },
+        "qte": {
+            "id": "b1a22ec9-6241-43b0-a363-7dd7ce875175",
+            "type": "graphics",
+            "position": {
+                "x": -582.9375,
+                "y": -321.625
+            },
+            "size": {
+                "width": 235,
+                "height": 235
+            },
+            "emitType": "click",
+            "clickCount": 3,
+            "style": {
+                "color": "#ffffff",
+                "type": "style1"
+            },
+            "icon": {
+                "color": "#ffffff",
+                "opacity": 255
+            },
+            "timer": {
+                "enabled": true,
+                "time": 2,
+                "colorTop": "#578AFF",
+                "colorBottom": "#1A2C53",
+                "opacity": 255
+            }
+        },
+        "tips": {
+            "id": "d7bb5fd6-3785-4858-88ea-0a3b33645831",
+            "type": "tips",
+            "text": "2秒内点击3次，成功有是数值事件",
+            "font": {
+                "align": "center",
+                "bold": false,
+                "color": "#F50303",
+                "family": "arial",
+                "italic": false,
+                "line": 1,
+                "size": 20,
+                "underline": false
+            },
+            "opacity": 255,
+            "position": {
+                "x": -582.9375,
+                "y": -481.625
+            }
+        },
+        "unFinished": {
+            "rePlay": false,
+            "reStart": false
+        },
+        "result": {
+            "succeed": {
+                "id": "4956f07e-e42a-406a-8817-c8aad36f82ec",
+                "name": "动作已完成"
+            },
+            "failed": {
+                "id": "1478bd2f-8234-4092-bec1-3ef476ff03ce",
+                "name": "动作未完成"
+            }
+        },
+        "style": {
+            "color": "#ffffff",
+            "type": "style1"
+        },
+        "icon": {
+            "color": "#ffffff",
+            "opacity": 255
+        },
+        "timer": {
+            "colorBottom": "#777777",
+            "colorTop": "#ffffff",
+            "opacity": 255
+        },
+        "emitType": "click"
+    }
+]

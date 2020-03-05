@@ -6,12 +6,12 @@
         "lockPos": false,
         "lockSizeRatio": true,
         "position": {
-            "x": -38.29670329670347,
-            "y": 18.736263736263595
+            "x": 7.953296703296473,
+            "y": -218.2637362637364
         },
         "size": {
-            "width": 274,
-            "height": 128
+            "width": 788.5,
+            "height": 73
         },
         "scale": {
             "x": 1,
@@ -42,8 +42,8 @@
                     "width": 274
                 },
                 "position": {
-                    "x": 0,
-                    "y": 32
+                    "x": -257.25,
+                    "y": -3
                 }
             },
             {
@@ -54,15 +54,15 @@
                     "width": 274
                 },
                 "position": {
-                    "x": 0,
-                    "y": -32
+                    "x": 121.75,
+                    "y": -4
                 }
             }
         ],
         "limit": {
             "id": "50c6f478-fb43-4de8-9661-6a0bee839ccc",
             "type": "limit",
-            "enabled": false,
+            "enabled": true,
             "time": 10,
             "font": {
                 "size": 20,
@@ -80,9 +80,45 @@
                 "height": 73
             },
             "position": {
-                "x": 0,
+                "x": 357.75,
                 "y": 0
             }
+        }
+    },
+    {
+        "id": "9795c8e8-9c68-49c5-a7cb-528d4940fbce",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -33,
+            "y": 130
+        },
+        "size": {
+            "width": 672,
+            "height": 157.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 2,
+        "direction": "horizontal",
+        "string": "新版剧情选择器，增加限时功能，\n在限定时间内容未选择，则会跳转到指定的剧情\n本页如果10秒内未作出选择，\n则跳转到剧情选择器",
+        "textFont": {
+            "align": "left",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
         }
     }
 ]
