@@ -703,57 +703,9 @@
             "wait": 0.1
         },
         {
-            "id": "7b289f0b-4553-4816-bf57-d1c5559c3e15",
-            "type": "piece-content",
-            "name": "画布4",
-            "cfg": "2b884d7e-90a2-4a10-bac2-8b95782b4656",
-            "effect": {
-                "sound": {
-                    "name": "无",
-                    "type": "none",
-                    "value": ""
-                },
-                "speed": 0.1,
-                "type": "none"
-            },
-            "wait": 0.1
-        },
-        {
-            "id": "892d1588-66c0-4575-8fa9-f06d5fa99a1a",
-            "type": "piece-content",
-            "name": "画布5",
-            "cfg": "cb7a49fa-8381-4b1c-b31f-a5a981657a8a",
-            "effect": {
-                "sound": {
-                    "name": "无",
-                    "type": "none",
-                    "value": ""
-                },
-                "speed": 0.1,
-                "type": "none"
-            },
-            "wait": 0.1
-        },
-        {
-            "id": "f08832c7-73a9-4973-9827-05df315350ce",
-            "type": "piece-content",
-            "name": "画布6",
-            "cfg": "ee649f73-4bea-41f5-a6a2-423edb96c32a",
-            "effect": {
-                "sound": {
-                    "name": "无",
-                    "type": "none",
-                    "value": ""
-                },
-                "speed": 0.1,
-                "type": "none"
-            },
-            "wait": 0.1
-        },
-        {
             "id": "58a7f930-4c74-4e02-88ea-a37cbf35fd39",
             "type": "piece-content",
-            "name": "画布7",
+            "name": "画布4",
             "cfg": "49619bc2-0d6c-4c56-a3b7-9188adbf4bb8",
             "effect": {
                 "sound": {
@@ -769,7 +721,7 @@
         {
             "id": "ecfeaba0-4776-4817-a082-609b3e9b3ebc",
             "type": "piece-content",
-            "name": "画布8",
+            "name": "画布5",
             "cfg": "6fa5aa35-a30d-4c60-9364-4a2924196b5b",
             "effect": {
                 "sound": {
@@ -785,7 +737,7 @@
         {
             "id": "2b66fa57-89fe-4c4a-94bf-1a52e2103777",
             "type": "piece-content",
-            "name": "画布9",
+            "name": "画布6",
             "cfg": "43ce8de7-1b94-4f32-82ea-00408eaef896",
             "effect": {
                 "sound": {
@@ -797,6 +749,57 @@
                 "type": "none"
             },
             "wait": 0.1
+        },
+        {
+            "id": "8d1461a2-c9e0-4113-b379-4d5e60907f37",
+            "type": "piece-content",
+            "name": "画布7",
+            "cfg": "d99498a2-32c6-440d-b3e1-e2ebb43b66c6",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "ee7fd467-31c1-4b54-ad5e-319944b45bbd",
+            "type": "piece-content",
+            "name": "画布8",
+            "cfg": "4a21b8fd-7645-481d-98c8-ad078be4013c",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "f5e59e9e-40b3-4fe4-98d9-8ed689dffe3e",
+            "type": "piece-content",
+            "name": "画布9",
+            "cfg": "ebf1dac2-8ec6-4ed4-ba1e-69e7692d72fe",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
         },
         {
             "id": "24e34ca3-1162-4740-b1da-3084cca4e878",

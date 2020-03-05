@@ -3581,5 +3581,69 @@
     "a0facfef-15d4-440e-992d-45651c473353": {
         "path": "cfg/piece/4f8195b7-8312-40be-8855-bee85986f6d4",
         "type": "folder"
+    },
+    "e3993180-b3c0-4a6f-a4db-5a3fa69be968": {
+        "path": "cfg/piece",
+        "type": "folder"
+    },
+    "5bf3b513-ec30-4226-992d-ddf2d44950a7": {
+        "path": "cfg/piece/8d1461a2-c9e0-4113-b379-4d5e60907f37/animations.json",
+        "type": "piece"
+    },
+    "f3f64e20-51a9-4ab8-ae02-6323fbef555c": {
+        "path": "cfg/piece/8d1461a2-c9e0-4113-b379-4d5e60907f37/elements.json",
+        "type": "piece"
+    },
+    "9cf96718-8d22-4935-94cf-369cfbfe6198": {
+        "path": "cfg/piece/8d1461a2-c9e0-4113-b379-4d5e60907f37/events.json",
+        "type": "piece"
+    },
+    "e471b62b-ede2-42d6-8009-be0681335b34": {
+        "path": "cfg/piece/8d1461a2-c9e0-4113-b379-4d5e60907f37/timeline.json",
+        "type": "piece"
+    },
+    "d99498a2-32c6-440d-b3e1-e2ebb43b66c6": {
+        "path": "cfg/piece/8d1461a2-c9e0-4113-b379-4d5e60907f37",
+        "type": "folder"
+    },
+    "f2642e97-84bb-449c-9ddc-65b2eba5b2a8": {
+        "path": "cfg/piece/ee7fd467-31c1-4b54-ad5e-319944b45bbd/animations.json",
+        "type": "piece"
+    },
+    "a91bfc9a-c76b-42f7-b101-90e492c692fd": {
+        "path": "cfg/piece/ee7fd467-31c1-4b54-ad5e-319944b45bbd/elements.json",
+        "type": "piece"
+    },
+    "5a7c5ec0-9de4-4bbf-a37e-29715873c6a0": {
+        "path": "cfg/piece/ee7fd467-31c1-4b54-ad5e-319944b45bbd/events.json",
+        "type": "piece"
+    },
+    "4887fe54-a2ba-4805-abd1-38eba8c11b90": {
+        "path": "cfg/piece/ee7fd467-31c1-4b54-ad5e-319944b45bbd/timeline.json",
+        "type": "piece"
+    },
+    "4a21b8fd-7645-481d-98c8-ad078be4013c": {
+        "path": "cfg/piece/ee7fd467-31c1-4b54-ad5e-319944b45bbd",
+        "type": "folder"
+    },
+    "60ab0dd8-a89f-42f8-8b24-ae2def62835e": {
+        "path": "cfg/piece/f5e59e9e-40b3-4fe4-98d9-8ed689dffe3e/animations.json",
+        "type": "piece"
+    },
+    "bd0dc1cb-1fa2-478a-ac97-3aedd585d3c6": {
+        "path": "cfg/piece/f5e59e9e-40b3-4fe4-98d9-8ed689dffe3e/elements.json",
+        "type": "piece"
+    },
+    "fa09175a-dc18-44e2-a2fb-79c700217638": {
+        "path": "cfg/piece/f5e59e9e-40b3-4fe4-98d9-8ed689dffe3e/events.json",
+        "type": "piece"
+    },
+    "03253ab1-5a20-470c-b6d6-38db87958265": {
+        "path": "cfg/piece/f5e59e9e-40b3-4fe4-98d9-8ed689dffe3e/timeline.json",
+        "type": "piece"
+    },
+    "ebf1dac2-8ec6-4ed4-ba1e-69e7692d72fe": {
+        "path": "cfg/piece/f5e59e9e-40b3-4fe4-98d9-8ed689dffe3e",
+        "type": "folder"
     }
 }
