@@ -18,5 +18,25 @@
         "jump": null,
         "delayTime": 0,
         "action": "none"
+    },
+    {
+        "id": "bd7665db-8d7a-489b-8271-20b40aef5dfd",
+        "element": "9a092f55-0104-4075-8569-494f0daa911e",
+        "type": "plot",
+        "count": 1,
+        "emitType": "click",
+        "jump": null,
+        "delayTime": 0,
+        "action": "none"
+    },
+    {
+        "id": "c0840cad-cd78-49e4-b1de-c0f0a0d6023f",
+        "element": "71e7254d-7793-4ecf-aa92-7727a598d024",
+        "type": "plot",
+        "count": 1,
+        "emitType": "click",
+        "jump": null,
+        "delayTime": 0,
+        "action": "none"
     }
 ]

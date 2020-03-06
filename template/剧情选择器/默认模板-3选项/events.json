@@ -28,5 +28,35 @@
         "jump": null,
         "delayTime": 0,
         "action": "none"
+    },
+    {
+        "id": "58b1d43c-25d9-43d8-92bd-2f56817538fa",
+        "element": "cd39a803-399c-4fd8-9f83-797d91d1458e",
+        "type": "plot",
+        "count": 1,
+        "emitType": "click",
+        "jump": null,
+        "delayTime": 0,
+        "action": "none"
+    },
+    {
+        "id": "5baeabf6-2ab2-456a-ba07-21bd40cdebcb",
+        "element": "e3bfbcfe-64f6-42e5-8910-4267fe16bc96",
+        "type": "plot",
+        "count": 1,
+        "emitType": "click",
+        "jump": null,
+        "delayTime": 0,
+        "action": "none"
+    },
+    {
+        "id": "40f2a671-bd00-4e1d-bd1b-95cbd46aac12",
+        "element": "8e542d2f-3f8d-4abc-8c07-d83b71847b0f",
+        "type": "plot",
+        "count": 1,
+        "emitType": "click",
+        "jump": null,
+        "delayTime": 0,
+        "action": "none"
     }
 ]
