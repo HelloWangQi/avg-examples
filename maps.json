@@ -3707,5 +3707,53 @@
     "8956f2d3-27fb-4d35-857f-08932aabb9d1": {
         "path": "cfg/goods.json",
         "type": "config"
+    },
+    "196272d8-4eaf-43ef-8d4d-bd00b8e31c87": {
+        "path": "cfg/piece/8d1461a2-c9e0-4113-b379-4d5e60907f37/animations.json",
+        "type": "piece"
+    },
+    "2a9b6007-7ac4-48e9-9a3a-7e18d4e7ad12": {
+        "path": "cfg/piece/8d1461a2-c9e0-4113-b379-4d5e60907f37/elements.json",
+        "type": "piece"
+    },
+    "1c209c6f-d64f-44ba-b103-5934bff3459e": {
+        "path": "cfg/piece/8d1461a2-c9e0-4113-b379-4d5e60907f37/events.json",
+        "type": "piece"
+    },
+    "a19a422a-e812-439c-9484-6bf5b7eb7a46": {
+        "path": "cfg/piece/8d1461a2-c9e0-4113-b379-4d5e60907f37/timeline.json",
+        "type": "piece"
+    },
+    "06d85996-9ff5-4073-90b5-47bf1e10c361": {
+        "path": "cfg/piece/ee7fd467-31c1-4b54-ad5e-319944b45bbd/animations.json",
+        "type": "piece"
+    },
+    "9b38a19d-ff2a-4e29-bf58-8889c1db2a2a": {
+        "path": "cfg/piece/ee7fd467-31c1-4b54-ad5e-319944b45bbd/elements.json",
+        "type": "piece"
+    },
+    "a6e72ef5-87a8-4116-b674-2c18bd53fc6d": {
+        "path": "cfg/piece/ee7fd467-31c1-4b54-ad5e-319944b45bbd/events.json",
+        "type": "piece"
+    },
+    "42b3053f-2f95-4417-aca5-b7ab13013a89": {
+        "path": "cfg/piece/ee7fd467-31c1-4b54-ad5e-319944b45bbd/timeline.json",
+        "type": "piece"
+    },
+    "f32c8bb4-c670-427b-ba8d-531c76c5946e": {
+        "path": "cfg/piece/f5e59e9e-40b3-4fe4-98d9-8ed689dffe3e/animations.json",
+        "type": "piece"
+    },
+    "e5548b8f-b465-40c6-8494-a32481182cc9": {
+        "path": "cfg/piece/f5e59e9e-40b3-4fe4-98d9-8ed689dffe3e/elements.json",
+        "type": "piece"
+    },
+    "f1c5e8be-a328-4285-8d66-ec78f744038d": {
+        "path": "cfg/piece/f5e59e9e-40b3-4fe4-98d9-8ed689dffe3e/events.json",
+        "type": "piece"
+    },
+    "f6bebfef-c9f5-4df2-b64e-c35ad634db94": {
+        "path": "cfg/piece/f5e59e9e-40b3-4fe4-98d9-8ed689dffe3e/timeline.json",
+        "type": "piece"
     }
 }
