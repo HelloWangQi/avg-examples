@@ -45,7 +45,7 @@
             "y": 0
         },
         "size": {
-            "width": 320,
+            "width": 379.63,
             "height": 83.62
         },
         "scale": {
@@ -57,7 +57,7 @@
         "color": "#ff0027",
         "zIndex": 2,
         "direction": "horizontal",
-        "string": "带有数值判断器的画布\n生命值>-100 结束测试",
+        "string": "带有数值判断器的画布\n生命值>-100 跳到下一剧情",
         "textFont": {
             "align": "center",
             "bold": false,

@@ -7,8 +7,8 @@
         "lockPos": false,
         "lockSizeRatio": true,
         "position": {
-            "x": 0,
-            "y": 0
+            "x": 3,
+            "y": 124
         },
         "size": {
             "width": 284.45,
@@ -24,6 +24,51 @@
         "zIndex": 1,
         "direction": "horizontal",
         "string": "直接跳过剧情1-结尾",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "942fa2dd-5762-41bc-aafb-e73bdd80c546",
+        "name": "背景音乐",
+        "type": "audio-bg",
+        "src": "34fbd074-2ba9-4ade-a757-e94506ef0597",
+        "globalPlay": false,
+        "templateID": "2f9248d3-1e8b-4e1a-95d7-74cfdc62abd1",
+        "zIndex": 2
+    },
+    {
+        "id": "1b4d78f2-68ae-4120-a2e8-f0e4fa07e0e8",
+        "templateID": null,
+        "name": "文本框-02",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -12,
+            "y": -88
+        },
+        "size": {
+            "width": 544,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 3,
+        "direction": "horizontal",
+        "string": "不跳过会播放完音乐才能进入下一画布",
         "textFont": {
             "align": "center",
             "bold": false,

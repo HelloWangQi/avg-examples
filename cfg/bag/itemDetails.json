@@ -1,0 +1,72 @@
+[
+	{
+		"id": "3e336a6f-ccbe-4aee-8a7b-1afdc6580c4a",
+		"templateID": null,
+		"name": "物品详情",
+		"type": "avg-bag-item-details",
+		"lockPos": false,
+		"lockSizeRatio": true,
+		"position": {
+			"x": 0,
+			"y": 0
+		},
+		"size": {
+			"width": 0,
+			"height": 0
+		},
+		"scale": {
+			"x": 1,
+			"y": 1
+		},
+		"active": true,
+		"opacity": 255,
+		"color": "#ffffff",
+		"zIndex": 1,
+		"bg": null,
+		"popUp": {
+			"type": "popup-default",
+			"direction": "left",
+			"time": 1
+		},
+		"takeBack": {
+			"type": "take-back-default",
+			"direction": "left",
+			"time": 1
+		},
+		"itemNameFont": {
+			"size": 20,
+			"color": "#ffffff",
+			"family": "arial",
+			"bold": false,
+			"italic": false,
+			"underline": false,
+			"align": "center",
+			"line": 1
+		},
+		"itemDescFont": {
+			"size": 20,
+			"color": "#ffffff",
+			"family": "arial",
+			"bold": false,
+			"italic": false,
+			"underline": false,
+			"align": "center",
+			"line": 1
+		},
+		"itemCountFont": {
+			"size": 20,
+			"color": "#ffffff",
+			"family": "arial",
+			"bold": false,
+			"italic": false,
+			"underline": false,
+			"align": "center",
+			"line": 1
+		},
+		"itemCountBgColor": "#333",
+		"playBtnTextureNormal": null,
+		"playBtnTexturePress": null,
+		"useBtnTextureNormal": null,
+		"useBtnTexturePress": null
+	}
+]

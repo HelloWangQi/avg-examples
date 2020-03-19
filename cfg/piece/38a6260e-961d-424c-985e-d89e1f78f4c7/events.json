@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "id": "4365a004-3309-4872-b63a-2a55cb69760b",
+        "element": "7ed2a751-a1f7-4d8e-b42b-5e4955afd8e9",
+        "type": "plot",
+        "count": 1,
+        "emitType": "click",
+        "jump": "f9d0be86-c4d7-437f-a2cc-f4fcf0e5f5df",
+        "delayTime": 0,
+        "action": "none"
+    },
+    {
+        "id": "4a05ad26-0905-421b-a3bd-6369063b175c",
+        "element": "6cf1598f-bda5-4893-9163-9c7fdacf91bf",
+        "type": "plot",
+        "count": 1,
+        "emitType": "click",
+        "jump": "7e7ecf35-d929-45bf-b309-051b2ecd48be",
+        "delayTime": 0,
+        "action": "none"
+    }
+]

@@ -7,11 +7,11 @@
         "lockPos": false,
         "lockSizeRatio": true,
         "position": {
-            "x": 0,
-            "y": 0
+            "x": -6,
+            "y": -69
         },
         "size": {
-            "width": 584.89,
+            "width": 616.89,
             "height": 83.62
         },
         "scale": {
@@ -24,6 +24,42 @@
         "zIndex": 1,
         "direction": "horizontal",
         "string": "在进阶元素剧情中\n将展示一些稍微复杂,会影响剧情发展的元素",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "679a11ef-eb3a-4fc0-9e80-3c2411034f9d",
+        "templateID": null,
+        "name": "文本框-02",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 2,
+            "y": 241
+        },
+        "size": {
+            "width": 160,
+            "height": 83.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 2,
+        "direction": "horizontal",
+        "string": "剧情选择器\n",
         "textFont": {
             "align": "center",
             "bold": false,

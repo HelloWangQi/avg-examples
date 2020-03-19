@@ -43,7 +43,7 @@
             "y": 260
         },
         "size": {
-            "width": 456.89,
+            "width": 488.89,
             "height": 83.62
         },
         "scale": {
@@ -55,7 +55,7 @@
         "color": "#ff0027",
         "zIndex": 2,
         "direction": "horizontal",
-        "string": "带事件的视频\n视频播放完毕,点击直接结束测试",
+        "string": "带事件的视频\n视频播放完毕,点击直接跳到密码锁",
         "textFont": {
             "align": "center",
             "bold": false,

@@ -43,11 +43,11 @@
         "lockPos": false,
         "lockSizeRatio": true,
         "position": {
-            "x": -3,
-            "y": -51
+            "x": -319,
+            "y": -204
         },
         "size": {
-            "width": 192,
+            "width": 128,
             "height": 46.62
         },
         "scale": {
@@ -59,7 +59,7 @@
         "color": "#ff0027",
         "zIndex": 2,
         "direction": "horizontal",
-        "string": "点击结束测试",
+        "string": "点击返回",
         "textFont": {
             "align": "center",
             "bold": false,
@@ -77,5 +77,41 @@
         "type": "plot-jump",
         "jumpPlotID": "f89ad0ac-1fcb-4cfb-93db-f50db520ea9b",
         "zIndex": 3
+    },
+    {
+        "id": "e98e5916-a086-4ccf-8979-7035ed3a3934",
+        "templateID": null,
+        "name": "文本框-03",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 233,
+            "y": -189
+        },
+        "size": {
+            "width": 192,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 4,
+        "direction": "horizontal",
+        "string": "点击进入特效",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
     }
 ]

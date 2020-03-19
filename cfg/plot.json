@@ -195,28 +195,6 @@
 		"next": null
 	},
 	{
-		"id": "868b1136-379c-4513-8b0c-ab592689e87c",
-		"type": "plot_chapter",
-		"fold": false,
-		"root": false,
-		"name": "设为结局",
-		"children": [
-			{
-				"id": "9f99f93f-180c-4a02-a6e9-b63b2bcd052a",
-				"type": "plot_content",
-				"fold": false,
-				"root": false,
-				"name": "剧情1",
-				"children": [],
-				"next": null,
-				"piece": "20c1a596-93af-4ab5-b47d-24213fb83765",
-				"end": true,
-				"skip": "forbid"
-			}
-		],
-		"next": null
-	},
-	{
 		"id": "c5b1c7ca-5439-4bcb-9498-bfd35dcc1705",
 		"type": "plot_chapter",
 		"fold": false,
@@ -343,6 +321,28 @@
 		"next": null
 	},
 	{
+		"id": "868b1136-379c-4513-8b0c-ab592689e87c",
+		"type": "plot_chapter",
+		"fold": false,
+		"root": false,
+		"name": "设为结局",
+		"children": [
+			{
+				"id": "9f99f93f-180c-4a02-a6e9-b63b2bcd052a",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "剧情1",
+				"children": [],
+				"next": null,
+				"piece": "20c1a596-93af-4ab5-b47d-24213fb83765",
+				"end": true,
+				"skip": "forbid"
+			}
+		],
+		"next": null
+	},
+	{
 		"id": "649fe1c7-87f9-4348-ad6a-8f856c61a05e",
 		"type": "plot_chapter",
 		"fold": false,
@@ -405,6 +405,30 @@
 				"children": [],
 				"next": null,
 				"piece": "bb91c3c0-9c69-4b71-b486-011218bfe73b",
+				"end": false,
+				"skip": "forbid"
+			},
+			{
+				"id": "ce86cae8-2173-44c9-9915-24138154d448",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "跳转指定章节",
+				"children": [],
+				"next": null,
+				"piece": "6601462f-b312-465c-9aa9-798121aac944",
+				"end": false,
+				"skip": "forbid"
+			},
+			{
+				"id": "f66dfc77-7224-484f-a68b-2719e329de3c",
+				"type": "plot_content",
+				"fold": false,
+				"root": false,
+				"name": "另一个指定章节",
+				"children": [],
+				"next": null,
+				"piece": "b1f67155-18ae-4345-b730-227d7374aaaa",
 				"end": false,
 				"skip": "forbid"
 			}

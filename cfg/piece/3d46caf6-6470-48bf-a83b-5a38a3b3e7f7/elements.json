@@ -11,7 +11,7 @@
             "y": 0
         },
         "size": {
-            "width": 419.58,
+            "width": 483.58,
             "height": 46.62
         },
         "scale": {
@@ -39,7 +39,8 @@
         "id": "ef430b42-86be-4ae4-98f6-09faa484f899",
         "name": "剧情跳转",
         "type": "plot-jump",
-        "jumpPlotID": "f89ad0ac-1fcb-4cfb-93db-f50db520ea9b",
-        "zIndex": 2
+        "jumpPlotID": "9f99f93f-180c-4a02-a6e9-b63b2bcd052a",
+        "zIndex": 2,
+        "templateID": null
     }
 ]

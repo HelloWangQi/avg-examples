@@ -1,5 +1,33 @@
 [
     {
+        "id": "8f46e8b7-7504-45dd-b6d6-17291f3c77bc",
+        "templateID": "910285af-0501-4248-9b00-bf51c782ab54",
+        "name": "背景-01",
+        "type": "image-bg",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 1280,
+            "height": 719.6251952108277
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 1,
+        "linkID": null,
+        "texture": "899f1fc0-043f-4bd2-9222-85d9f1451f5e",
+        "sizeMode": 0,
+        "autoFitMode": "ratio-width"
+    },
+    {
         "id": "d4a4d268-da2e-457c-a0df-90720fd02cc3",
         "name": "QTE快速反应-01",
         "type": "qte",
@@ -20,7 +48,7 @@
         "active": true,
         "opacity": 255,
         "color": "#ffffff",
-        "zIndex": 1,
+        "zIndex": 2,
         "mask": {
             "active": true,
             "color": "#000000",
@@ -98,12 +126,12 @@
         "lockPos": false,
         "lockSizeRatio": true,
         "position": {
-            "x": 46,
-            "y": -1
+            "x": 0,
+            "y": 0
         },
         "size": {
-            "width": 235,
-            "height": 235
+            "width": 1280,
+            "height": 720
         },
         "scale": {
             "x": 1,
@@ -112,7 +140,7 @@
         "active": true,
         "opacity": 255,
         "color": "#ffffff",
-        "zIndex": 2,
+        "zIndex": 3,
         "mask": {
             "active": true,
             "color": "#000000",
@@ -132,8 +160,8 @@
             },
             "opacity": 255,
             "position": {
-                "x": 0,
-                "y": -160
+                "x": 4,
+                "y": -149
             },
             "id": "225c9189-2350-43cc-b928-69bb045bd6ea",
             "type": "tips"
@@ -156,8 +184,8 @@
             "id": "5df65b52-8600-4d8a-9989-08ca79686a71",
             "type": "graphics",
             "position": {
-                "x": 0,
-                "y": 0
+                "x": 4,
+                "y": 11
             },
             "size": {
                 "width": 235,
@@ -190,12 +218,12 @@
         "lockPos": false,
         "lockSizeRatio": true,
         "position": {
-            "x": 370,
-            "y": -11
+            "x": 0,
+            "y": 0
         },
         "size": {
-            "width": 235,
-            "height": 235
+            "width": 1280,
+            "height": 720
         },
         "scale": {
             "x": 1,
@@ -204,7 +232,7 @@
         "active": true,
         "opacity": 255,
         "color": "#ffffff",
-        "zIndex": 3,
+        "zIndex": 4,
         "mask": {
             "active": true,
             "color": "#000000",
@@ -224,8 +252,8 @@
             },
             "opacity": 255,
             "position": {
-                "x": 0,
-                "y": -160
+                "x": 374,
+                "y": -148
             },
             "id": "fd8ec000-ceb6-47e8-9afc-08b83f37b171",
             "type": "tips"
@@ -248,8 +276,8 @@
             "id": "5cfbc7e7-7d43-4fca-bc50-5fb27a392fa5",
             "type": "graphics",
             "position": {
-                "x": 0,
-                "y": 0
+                "x": 374,
+                "y": 12
             },
             "size": {
                 "width": 235,
@@ -296,7 +324,7 @@
         "active": true,
         "opacity": 255,
         "color": "#ff0027",
-        "zIndex": 4,
+        "zIndex": 5,
         "direction": "horizontal",
         "string": "点击触发方式",
         "textFont": {

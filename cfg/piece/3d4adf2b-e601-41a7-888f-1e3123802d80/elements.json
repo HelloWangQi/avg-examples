@@ -1,5 +1,33 @@
 [
     {
+        "id": "239798e5-ad49-4958-bb89-22c4a330f0b4",
+        "templateID": "910285af-0501-4248-9b00-bf51c782ab54",
+        "name": "背景-01",
+        "type": "image-bg",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 1280,
+            "height": 719.6251952108277
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 1,
+        "linkID": null,
+        "texture": "899f1fc0-043f-4bd2-9222-85d9f1451f5e",
+        "sizeMode": 0,
+        "autoFitMode": "ratio-width"
+    },
+    {
         "id": "215b6936-1b29-470e-9cc5-f3e6c74d44e5",
         "name": "剧情选择器",
         "type": "plot-menu",
@@ -20,14 +48,14 @@
         "active": true,
         "opacity": 255,
         "color": "#ffffff",
-        "zIndex": 1,
+        "zIndex": 2,
         "textureNormal": "d82003cf-0196-4fe8-aadc-c1ac67a3cc1f",
         "texturePress": "d82003cf-0196-4fe8-aadc-c1ac67a3cc1f",
         "itemFont": {
             "align": "center",
             "bold": false,
             "color": "#FF0000",
-            "family": "97268147-1d14-4f5f-a257-277bd94d3ada",
+            "family": "font6",
             "italic": false,
             "line": 1,
             "size": 32,
@@ -107,7 +135,7 @@
         "active": true,
         "opacity": 255,
         "color": "#ff0027",
-        "zIndex": 2,
+        "zIndex": 3,
         "direction": "horizontal",
         "string": "新版剧情选择器，增加限时功能，\n在限定时间内容未选择，则会跳转到指定的剧情\n本页如果10秒内未作出选择，\n则跳转到剧情选择器",
         "textFont": {
@@ -118,6 +146,114 @@
             "italic": false,
             "line": 1,
             "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "7fe0b713-e121-44d9-8d32-1e5f43d5e3fc",
+        "templateID": null,
+        "name": "文本框-02",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -248,
+            "y": -287
+        },
+        "size": {
+            "width": 120,
+            "height": 31.5
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 4,
+        "direction": "horizontal",
+        "string": "回到上一剧情",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 20,
+            "underline": false
+        }
+    },
+    {
+        "id": "79ba8168-48b4-4006-8902-f6fa3da7c6b5",
+        "templateID": null,
+        "name": "文本框-03",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 134,
+            "y": -288
+        },
+        "size": {
+            "width": 120,
+            "height": 31.5
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 5,
+        "direction": "horizontal",
+        "string": "进入下一剧情",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 20,
+            "underline": false
+        }
+    },
+    {
+        "id": "32c0a6d4-9c93-4cff-94f5-7bb8653b4b65",
+        "templateID": null,
+        "name": "文本框-04",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 369,
+            "y": -288
+        },
+        "size": {
+            "width": 120,
+            "height": 31.5
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 6,
+        "direction": "horizontal",
+        "string": "回到上一画布",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 20,
             "underline": false
         }
     }

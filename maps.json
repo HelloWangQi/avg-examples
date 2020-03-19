@@ -3582,68 +3582,130 @@
         "path": "cfg/piece/4f8195b7-8312-40be-8855-bee85986f6d4",
         "type": "folder"
     },
-    "e3993180-b3c0-4a6f-a4db-5a3fa69be968": {
-        "path": "cfg/piece",
+    "35c9047e-64ce-4c3d-8d61-5681d5b28761": {
+        "path": "cfg/piece/2aa387c7-de30-41f1-a38e-e9396ce8207a/animations.json",
+        "type": "piece"
+    },
+    "91c655f1-b50c-40c4-a4b0-301d5963643f": {
+        "path": "cfg/piece/2aa387c7-de30-41f1-a38e-e9396ce8207a/elements.json",
+        "type": "piece"
+    },
+    "2ea621ec-f58c-433f-a2e5-27548c88e391": {
+        "path": "cfg/piece/2aa387c7-de30-41f1-a38e-e9396ce8207a/events.json",
+        "type": "piece"
+    },
+    "2e43a382-0ffc-47e8-9b23-1081a2953df7": {
+        "path": "cfg/piece/2aa387c7-de30-41f1-a38e-e9396ce8207a/timeline.json",
+        "type": "piece"
+    },
+    "09f76d24-7041-4155-9380-9048d3163d3f": {
+        "path": "cfg/piece/2aa387c7-de30-41f1-a38e-e9396ce8207a",
         "type": "folder"
     },
-    "5bf3b513-ec30-4226-992d-ddf2d44950a7": {
-        "path": "cfg/piece/8d1461a2-c9e0-4113-b379-4d5e60907f37/animations.json",
+    "0fe7ce33-7c15-4f00-8ed7-52406ad1b148": {
+        "path": "cfg/piece/20f500ba-be47-4c97-b0c4-56ad19161421/animations.json",
         "type": "piece"
     },
-    "f3f64e20-51a9-4ab8-ae02-6323fbef555c": {
-        "path": "cfg/piece/8d1461a2-c9e0-4113-b379-4d5e60907f37/elements.json",
+    "5f822f76-2185-47e4-93d7-0fc65c3c018c": {
+        "path": "cfg/piece/20f500ba-be47-4c97-b0c4-56ad19161421/elements.json",
         "type": "piece"
     },
-    "9cf96718-8d22-4935-94cf-369cfbfe6198": {
-        "path": "cfg/piece/8d1461a2-c9e0-4113-b379-4d5e60907f37/events.json",
+    "fc3e8c52-334f-4d84-a449-00b63c9e85e3": {
+        "path": "cfg/piece/20f500ba-be47-4c97-b0c4-56ad19161421/events.json",
         "type": "piece"
     },
-    "e471b62b-ede2-42d6-8009-be0681335b34": {
-        "path": "cfg/piece/8d1461a2-c9e0-4113-b379-4d5e60907f37/timeline.json",
+    "b0e93c86-a498-4d50-8e45-f6546c68e8ee": {
+        "path": "cfg/piece/20f500ba-be47-4c97-b0c4-56ad19161421/timeline.json",
         "type": "piece"
     },
-    "d99498a2-32c6-440d-b3e1-e2ebb43b66c6": {
-        "path": "cfg/piece/8d1461a2-c9e0-4113-b379-4d5e60907f37",
+    "e98e2f96-a728-461f-a019-39e8ecb4598a": {
+        "path": "cfg/piece/20f500ba-be47-4c97-b0c4-56ad19161421",
         "type": "folder"
     },
-    "f2642e97-84bb-449c-9ddc-65b2eba5b2a8": {
-        "path": "cfg/piece/ee7fd467-31c1-4b54-ad5e-319944b45bbd/animations.json",
+    "c30f8144-1a2c-4fa7-945d-fec5f3f4e687": {
+        "path": "cfg/piece/214a7f14-0d88-494e-935f-68134818b3eb/animations.json",
         "type": "piece"
     },
-    "a91bfc9a-c76b-42f7-b101-90e492c692fd": {
-        "path": "cfg/piece/ee7fd467-31c1-4b54-ad5e-319944b45bbd/elements.json",
+    "145b4f75-c973-4564-bc90-afe024b938c9": {
+        "path": "cfg/piece/214a7f14-0d88-494e-935f-68134818b3eb/elements.json",
         "type": "piece"
     },
-    "5a7c5ec0-9de4-4bbf-a37e-29715873c6a0": {
-        "path": "cfg/piece/ee7fd467-31c1-4b54-ad5e-319944b45bbd/events.json",
+    "39543b70-304b-49c5-8482-dcdc264b9637": {
+        "path": "cfg/piece/214a7f14-0d88-494e-935f-68134818b3eb/events.json",
         "type": "piece"
     },
-    "4887fe54-a2ba-4805-abd1-38eba8c11b90": {
-        "path": "cfg/piece/ee7fd467-31c1-4b54-ad5e-319944b45bbd/timeline.json",
+    "e09dc1f3-cb1f-489b-b183-0363c812df88": {
+        "path": "cfg/piece/214a7f14-0d88-494e-935f-68134818b3eb/timeline.json",
         "type": "piece"
     },
-    "4a21b8fd-7645-481d-98c8-ad078be4013c": {
-        "path": "cfg/piece/ee7fd467-31c1-4b54-ad5e-319944b45bbd",
+    "d3198275-cadc-4b33-9223-4422caa766f3": {
+        "path": "cfg/piece/214a7f14-0d88-494e-935f-68134818b3eb",
         "type": "folder"
     },
-    "60ab0dd8-a89f-42f8-8b24-ae2def62835e": {
-        "path": "cfg/piece/f5e59e9e-40b3-4fe4-98d9-8ed689dffe3e/animations.json",
+    "aece0005-5857-4ff5-9d57-64e03e054720": {
+        "path": "cfg/piece/3bda5d13-fae7-496e-8689-85f14ab7f0ab/animations.json",
         "type": "piece"
     },
-    "bd0dc1cb-1fa2-478a-ac97-3aedd585d3c6": {
-        "path": "cfg/piece/f5e59e9e-40b3-4fe4-98d9-8ed689dffe3e/elements.json",
+    "9c6ae156-4800-430b-9cd9-61479d1f1371": {
+        "path": "cfg/piece/3bda5d13-fae7-496e-8689-85f14ab7f0ab/elements.json",
         "type": "piece"
     },
-    "fa09175a-dc18-44e2-a2fb-79c700217638": {
-        "path": "cfg/piece/f5e59e9e-40b3-4fe4-98d9-8ed689dffe3e/events.json",
+    "32bdfc5b-8dbd-454b-aa2b-38e7315dadf9": {
+        "path": "cfg/piece/3bda5d13-fae7-496e-8689-85f14ab7f0ab/events.json",
         "type": "piece"
     },
-    "03253ab1-5a20-470c-b6d6-38db87958265": {
-        "path": "cfg/piece/f5e59e9e-40b3-4fe4-98d9-8ed689dffe3e/timeline.json",
+    "bdef0e70-8a5b-49da-aecd-c23d1c94398d": {
+        "path": "cfg/piece/3bda5d13-fae7-496e-8689-85f14ab7f0ab/timeline.json",
         "type": "piece"
     },
-    "ebf1dac2-8ec6-4ed4-ba1e-69e7692d72fe": {
-        "path": "cfg/piece/f5e59e9e-40b3-4fe4-98d9-8ed689dffe3e",
+    "0368e7a0-18e9-4fd0-b791-476b675bd841": {
+        "path": "cfg/piece/3bda5d13-fae7-496e-8689-85f14ab7f0ab",
         "type": "folder"
+    },
+    "36077b4d-9915-43ce-8d44-e66f840fc3b1": {
+        "path": "res/default/font/font7.ttf"
+    },
+    "26055a7c-4f63-4be4-bf58-56094cb595ed": {
+        "path": "res/default/font/font8.ttf"
+    },
+    "7765d11f-9a69-4420-baf1-b72435a5a39d": {
+        "path": "res/default/bag/avg-bag.png",
+        "type": "image"
+    },
+    "326cc327-6137-47db-ad2f-5d4db14fcc34": {
+        "path": "res/default/bag/back.png",
+        "type": "image"
+    },
+    "ae97375b-12bb-4b5c-8492-62319eea6b53": {
+        "path": "res/default/bag/bg.png",
+        "type": "image"
+    },
+    "72e384bf-a61b-4b39-996f-2a5427ff1652": {
+        "path": "cfg/ui/entry-set.json",
+        "type": "config"
+    },
+    "e4e3a64e-fdef-4ce3-aa3a-f4e1d0f211f0": {
+        "path": "cfg/bag/itemList.json",
+        "type": "config"
+    },
+    "8a7eaf4f-6957-40fe-bd23-369482d58ba1": {
+        "path": "cfg/bag/itemDetails.json",
+        "type": "config"
+    },
+    "f37d095c-af33-4325-b614-25fe0b0669ad": {
+        "path": "cfg/bag/getItems1.json",
+        "type": "config"
+    },
+    "9d5940d9-feb9-493d-a1ec-73fa7184101b": {
+        "path": "cfg/bag/getItems2.json",
+        "type": "config"
+    },
+    "6c30ecf6-9c88-4c59-94f8-e4f9f779d044": {
+        "path": "cfg/bag/getItems3.json",
+        "type": "config"
+    },
+    "8956f2d3-27fb-4d35-857f-08932aabb9d1": {
+        "path": "cfg/goods.json",
+        "type": "config"
     }
 }

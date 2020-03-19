@@ -23,7 +23,52 @@
         "color": "#ff0027",
         "zIndex": 1,
         "direction": "horizontal",
-        "string": "播放一次可跳过\n测试内容",
+        "string": "播放一次可跳过\n测试内容1",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "aecd6538-f9bd-4c02-8b3d-bca16981f6ee",
+        "name": "背景音乐",
+        "type": "audio-bg",
+        "src": "34fbd074-2ba9-4ade-a757-e94506ef0597",
+        "globalPlay": false,
+        "templateID": "2f9248d3-1e8b-4e1a-95d7-74cfdc62abd1",
+        "zIndex": 2
+    },
+    {
+        "id": "bc02fb49-38a2-4e42-b43a-9ab316564064",
+        "templateID": null,
+        "name": "文本框-02",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -8,
+            "y": -189
+        },
+        "size": {
+            "width": 1091.59,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 3,
+        "direction": "horizontal",
+        "string": "该画布有音乐，正常播放时长为30秒，点击跳过可直接跳到下有事件的画布啊",
         "textFont": {
             "align": "center",
             "bold": false,

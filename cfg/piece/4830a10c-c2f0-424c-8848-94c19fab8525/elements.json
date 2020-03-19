@@ -43,8 +43,8 @@
         "lockPos": false,
         "lockSizeRatio": true,
         "position": {
-            "x": 2,
-            "y": -113
+            "x": 20,
+            "y": -169
         },
         "size": {
             "width": 192,
@@ -59,7 +59,7 @@
         "color": "#ff0027",
         "zIndex": 2,
         "direction": "horizontal",
-        "string": "点击结束测试",
+        "string": "点击进入特效",
         "textFont": {
             "align": "center",
             "bold": false,
