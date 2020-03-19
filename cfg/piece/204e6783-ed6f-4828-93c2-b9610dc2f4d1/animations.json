@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "id": "4a92daa3-f00b-4d26-b536-797f076eb88e",
+        "element": "56d4e9b7-1a5a-454b-ab92-afc4527dcaa2",
+        "action": {
+            "type": "fade-in",
+            "delay": 0,
+            "time": 5
+        },
+        "moment": "afterPrevious"
+    }
+]

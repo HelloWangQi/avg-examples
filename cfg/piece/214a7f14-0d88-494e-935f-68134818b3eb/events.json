@@ -1,0 +1,12 @@
+[
+    {
+        "id": "07da631e-43f5-4988-a9bb-05f968906b67",
+        "element": "fd753d86-a47f-4ee4-9696-38bd0cbbf313",
+        "type": "plot",
+        "count": 1,
+        "emitType": "click",
+        "jump": "a586996f-46d1-4462-a99b-451f2c2232b7",
+        "delayTime": 0,
+        "action": "none"
+    }
+]

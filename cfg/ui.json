@@ -36,6 +36,66 @@
 					"name": "菜单",
 					"cfg": "2f855601-33c7-4328-9383-8528c47ac812",
 					"enabled": true
+				},
+				{
+					"id": "f540baef-e73e-4995-98f7-c1611fc92f75",
+					"type": "ui-default",
+					"sub": "entry-set",
+					"name": "入口设置",
+					"enabled": true,
+					"cfg": "72e384bf-a61b-4b39-996f-2a5427ff1652"
+				}
+			]
+		},
+		{
+			"name": "高级UI",
+			"key": "ui-advanced-root",
+			"list": [
+				{
+					"name": "背包",
+					"key": "bag",
+					"list": [
+						{
+							"id": "03952700-417b-4616-8da4-c5d9d5ed31ab",
+							"type": "ui-advanced",
+							"sub": "bagItemList",
+							"name": "物品列表",
+							"enabled": true,
+							"cfg": "e4e3a64e-fdef-4ce3-aa3a-f4e1d0f211f0"
+						},
+						{
+							"id": "03952700-417b-4616-8da4-c5d9d5ed31ab",
+							"type": "ui-advanced",
+							"sub": "bagItemDetails",
+							"name": "物品详情",
+							"enabled": true,
+							"cfg": "8a7eaf4f-6957-40fe-bd23-369482d58ba1"
+						},
+						{
+							"id": "03952700-417b-4616-8da4-c5d9d5ed31ab",
+							"type": "ui-advanced",
+							"sub": "bagGetItems",
+							"name": "获得物品(1个)",
+							"enabled": true,
+							"cfg": "f37d095c-af33-4325-b614-25fe0b0669ad"
+						},
+						{
+							"id": "03952700-417b-4616-8da4-c5d9d5ed31ab",
+							"type": "ui-advanced",
+							"sub": "bagGetItems",
+							"name": "获得物品(2个)",
+							"enabled": true,
+							"cfg": "9d5940d9-feb9-493d-a1ec-73fa7184101b"
+						},
+						{
+							"id": "03952700-417b-4616-8da4-c5d9d5ed31ab",
+							"type": "ui-advanced",
+							"sub": "bagGetItems",
+							"name": "获得物品(3个)",
+							"enabled": true,
+							"cfg": "6c30ecf6-9c88-4c59-94f8-e4f9f779d044"
+						}
+					]
 				}
 			]
 		}

@@ -63,12 +63,13 @@
             "align": "center",
             "bold": false,
             "color": "#0029ff",
-            "family": "font5",
+            "family": "e44ba5ae-e59f-447c-bc25-f2fc354a6e0c",
             "italic": false,
             "line": 1,
             "size": 32,
             "underline": false
-        }
+        },
+        "templateID": null
     },
     {
         "id": "98b07a2f-8490-41b5-ad77-53824634a5cb",
@@ -135,7 +136,7 @@
             "align": "center",
             "bold": false,
             "color": "#ff0027",
-            "family": "font6",
+            "family": "97268147-1d14-4f5f-a257-277bd94d3ada",
             "italic": false,
             "line": 1,
             "size": 32,

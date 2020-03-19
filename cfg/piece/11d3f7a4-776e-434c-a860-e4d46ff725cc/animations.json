@@ -1,1 +1,13 @@
-[]
+[
+    {
+        "action": {
+            "loop": false,
+            "time": 30,
+            "type": "play",
+            "volume": 100
+        },
+        "element": "aecd6538-f9bd-4c02-8b3d-bca16981f6ee",
+        "id": "3ed55c48-83a1-4c0e-9b9a-20142bfc3700",
+        "moment": "afterPrevious"
+    }
+]

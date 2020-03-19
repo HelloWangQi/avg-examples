@@ -19,7 +19,7 @@
             "y": 0
         },
         "size": {
-            "width": 224,
+            "width": 288,
             "height": 46.62
         },
         "scale": {
@@ -32,6 +32,42 @@
         "zIndex": 2,
         "direction": "horizontal",
         "string": "播放一个短暂的音效",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "bc3e87a8-5bb6-4934-91a6-5da62e926fb9",
+        "templateID": null,
+        "name": "文本框-02",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 3,
+            "y": -125
+        },
+        "size": {
+            "width": 416,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 3,
+        "direction": "horizontal",
+        "string": "此时全局背景乐应该还在播放",
         "textFont": {
             "align": "center",
             "bold": false,

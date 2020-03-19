@@ -1,0 +1,14 @@
+[
+    {
+        "action": {
+            "isFullPlay": true,
+            "loop": false,
+            "time": 2.042,
+            "type": "play",
+            "volume": 100
+        },
+        "element": "f7759822-3422-4bb2-9807-41f2dc58b40a",
+        "id": "cf4cd2fe-d40c-4e62-89e8-b2c5910f3203",
+        "moment": "afterPrevious"
+    }
+]

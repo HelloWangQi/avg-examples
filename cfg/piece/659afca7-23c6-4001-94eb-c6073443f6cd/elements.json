@@ -1,0 +1,100 @@
+[
+    {
+        "id": "8c3db4e6-3cf9-4084-89ba-7084cd63e633",
+        "name": "快速插入场景",
+        "type": "helper-insert-scene",
+        "zIndex": 1
+    },
+    {
+        "id": "517548a5-17cf-4c3d-896d-b25fcf3b7f6d",
+        "name": "快速插入人物",
+        "type": "helper-insert-role",
+        "zIndex": 2
+    },
+    {
+        "id": "1eaf1e6c-31d6-4088-8902-2a5a038b22ef",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 202.66,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 3,
+        "direction": "horizontal",
+        "string": "落叶-稀疏几片",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "ad64d486-3630-4293-a568-a715f394d2f2",
+        "templateID": null,
+        "name": "落叶-01",
+        "type": "effect-leafFall",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 100,
+            "height": 100
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 4,
+        "state": "small"
+    },
+    {
+        "id": "1acd77e1-74ce-41f7-94e7-77b4d9acde72",
+        "templateID": null,
+        "name": "落叶-02",
+        "type": "effect-leafFall",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -55,
+            "y": 285
+        },
+        "size": {
+            "width": 100,
+            "height": 100
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 5,
+        "state": "small"
+    }
+]

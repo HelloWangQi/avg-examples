@@ -1,0 +1,129 @@
+[
+    {
+        "id": "288af938-60bc-4843-b07e-11b4f9d97a4d",
+        "name": "快速插入场景",
+        "type": "helper-insert-scene",
+        "zIndex": 1
+    },
+    {
+        "id": "6d8fb56a-b44f-4eec-91d4-191108bf117a",
+        "name": "快速插入人物",
+        "type": "helper-insert-role",
+        "zIndex": 2
+    },
+    {
+        "id": "7501c7cf-510d-4e5a-bccc-f0ac9303e492",
+        "templateID": "910285af-0501-4248-9b00-bf51c782ab54",
+        "name": "背景-01",
+        "type": "image-bg",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 1280,
+            "height": 719.6251952108277
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 3,
+        "linkID": null,
+        "texture": "6a588765-2ea5-41fb-9faf-141a1153367a",
+        "sizeMode": 0,
+        "autoFitMode": "ratio-width"
+    },
+    {
+        "id": "b62936e8-f8d0-41a9-9805-1d3ad15ed8bb",
+        "templateID": null,
+        "name": "密码锁-01",
+        "type": "password-lock",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -290,
+            "y": -6
+        },
+        "size": {
+            "width": 244,
+            "height": 360
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 4,
+        "isLock": false,
+        "imageLock": "651d667e-17a3-4db5-bf37-0e61a05afbcc",
+        "imageOpen": "aad0671e-2afb-4524-8f55-48f267e456a1",
+        "class": "electronic",
+        "style": "type1",
+        "password": "01234567",
+        "openTips": "密码箱已经打开",
+        "tipsFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#F80F0F",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 20,
+            "underline": false
+        },
+        "result": {
+            "succeed": {
+                "id": "4917367d-6d9a-4b9f-9a54-5ee45c7397af",
+                "name": "开锁成功"
+            },
+            "failed": {
+                "id": "c3e07fe7-4418-4940-88c4-76c6af1adfe0",
+                "name": "开锁失败"
+            }
+        }
+    },
+    {
+        "id": "010aad7e-46ac-4d69-afd0-fe55611d9b3a",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 150,
+            "y": 10
+        },
+        "size": {
+            "width": 224,
+            "height": 83.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 5,
+        "direction": "horizontal",
+        "string": "点击左侧密码箱\n有文字",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

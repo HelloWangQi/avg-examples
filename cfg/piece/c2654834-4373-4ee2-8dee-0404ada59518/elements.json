@@ -1,0 +1,135 @@
+[
+    {
+        "id": "f8e357e8-335e-40cd-bae2-414a24adea8b",
+        "name": "快速插入场景",
+        "type": "helper-insert-scene",
+        "zIndex": 1
+    },
+    {
+        "id": "192a87e1-5dfc-46a8-a64c-73fa7be24b1d",
+        "name": "快速插入人物",
+        "type": "helper-insert-role",
+        "zIndex": 2
+    },
+    {
+        "id": "2c49234e-faa6-4f59-bec9-a44d50fe93e7",
+        "templateID": "195a414b-8320-4919-8f65-49bfe52ba81b",
+        "name": "视频-剧情-01",
+        "type": "video-plot",
+        "lockPos": false,
+        "lockSizeRatio": false,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 3,
+        "src": "2551ec70-4b60-400d-b7d3-eb2481426044",
+        "isRemote": false,
+        "time": 2.042,
+        "resolutionRatio": {
+            "width": 0,
+            "height": 0
+        },
+        "displayMode": "fit"
+    },
+    {
+        "id": "7af62ae9-095b-4dbc-a269-26bf73f1dc42",
+        "templateID": "a8e09628-9cc1-4a67-b432-b231bb2541f8",
+        "name": "剧情选择器",
+        "type": "plot-menu",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -16,
+            "y": -232
+        },
+        "size": {
+            "width": 674,
+            "height": 58
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 4,
+        "textureNormal": "d82003cf-0196-4fe8-aadc-c1ac67a3cc1f",
+        "texturePress": "d82003cf-0196-4fe8-aadc-c1ac67a3cc1f",
+        "itemFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ffffff",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        },
+        "limit": {
+            "id": "2193dc43-9c93-4bac-985b-ec21362194af",
+            "type": "limit",
+            "enabled": false,
+            "time": 10,
+            "font": {
+                "size": 20,
+                "color": "#333333",
+                "family": "arial",
+                "bold": false,
+                "italic": false,
+                "underline": false,
+                "align": "center",
+                "line": 1
+            },
+            "bg": "dfaf3a76-06e1-4ebe-823d-a006c3ce0a8d",
+            "size": {
+                "width": 73,
+                "height": 73
+            },
+            "position": {
+                "x": -139,
+                "y": 11
+            }
+        },
+        "items": [
+            {
+                "id": "0ee60a0c-81f3-48d1-9d71-f46c4f61cb9b",
+                "type": "menu",
+                "text": "剧情选项1",
+                "size": {
+                    "height": 54,
+                    "width": 274
+                },
+                "position": {
+                    "x": -200,
+                    "y": -2
+                }
+            },
+            {
+                "id": "eccbdd0d-cf94-473d-a770-32c7b28a5950",
+                "type": "menu",
+                "text": "剧情选项2",
+                "size": {
+                    "height": 54,
+                    "width": 274
+                },
+                "position": {
+                    "x": 200,
+                    "y": 2
+                }
+            }
+        ]
+    }
+]

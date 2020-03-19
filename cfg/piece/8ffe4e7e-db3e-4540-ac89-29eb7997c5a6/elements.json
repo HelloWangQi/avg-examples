@@ -1,0 +1,75 @@
+[
+    {
+        "id": "98c310d4-8f22-43fb-abb3-6a9f0dac4869",
+        "name": "快速插入场景",
+        "type": "helper-insert-scene",
+        "zIndex": 1
+    },
+    {
+        "id": "52ad8d95-10c1-4ae7-b874-e75977b2aa21",
+        "name": "快速插入人物",
+        "type": "helper-insert-role",
+        "zIndex": 2
+    },
+    {
+        "id": "09039426-c2f9-4dd8-bfc8-3c869ee6f57d",
+        "templateID": null,
+        "name": "爆炸-01",
+        "type": "effect-boom",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -250,
+            "y": 191.66666666666674
+        },
+        "size": {
+            "width": 100,
+            "height": 100
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 3,
+        "state": "more"
+    },
+    {
+        "id": "b5dbfc5c-56ea-44cb-a0d7-53cff7e64657",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 202.66,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 4,
+        "direction": "horizontal",
+        "string": "爆炸-连环爆炸",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

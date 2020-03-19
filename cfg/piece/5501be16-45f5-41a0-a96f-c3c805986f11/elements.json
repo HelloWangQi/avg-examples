@@ -1,18 +1,25 @@
 [
     {
-        "id": "4158315a-7011-4d98-8b0b-76e868f23c3f",
+        "id": "6ce3099d-c43b-49c5-b23a-fc8f76657bfa",
+        "name": "剧情跳转",
+        "type": "plot-jump",
+        "jumpPlotID": "5f944e2c-583d-46ff-bd12-1b3f318465ca",
+        "zIndex": 2
+    },
+    {
+        "id": "db3cfc10-9732-4b4f-8514-8b3d670cdae7",
         "templateID": null,
-        "name": "文本框-01",
+        "name": "文本框-02",
         "type": "text",
         "lockPos": false,
         "lockSizeRatio": true,
         "position": {
-            "x": 0,
-            "y": 0
+            "x": -253,
+            "y": -155
         },
         "size": {
-            "width": 497.78,
-            "height": 83.62
+            "width": 352,
+            "height": 46.62
         },
         "scale": {
             "x": 1,
@@ -21,9 +28,9 @@
         "active": true,
         "opacity": 255,
         "color": "#ff0027",
-        "zIndex": 1,
+        "zIndex": 3,
         "direction": "horizontal",
-        "string": "该画布有剧情跳转元素\n跳过到[播放一次可跳过]的剧情开头",
+        "string": "点击返回播放一次可跳过",
         "textFont": {
             "align": "center",
             "bold": false,
@@ -36,10 +43,39 @@
         }
     },
     {
-        "id": "6ce3099d-c43b-49c5-b23a-fc8f76657bfa",
-        "name": "剧情跳转",
-        "type": "plot-jump",
-        "jumpPlotID": "5f944e2c-583d-46ff-bd12-1b3f318465ca",
-        "zIndex": 2
+        "id": "3d948657-1dc1-4c56-aabb-6030b8d957c8",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 175,
+            "y": -151
+        },
+        "size": {
+            "width": 256,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 3,
+        "direction": "horizontal",
+        "string": "点击进入下一剧情",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
     }
 ]

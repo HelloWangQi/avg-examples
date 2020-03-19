@@ -1,0 +1,22 @@
+[
+    {
+        "id": "720efdf3-5444-42cc-8f17-29b1d2635028",
+        "element": "48f6bee0-a4be-4a01-b9be-0d6382fe1a08",
+        "type": "plot",
+        "count": 1,
+        "emitType": "click",
+        "jump": "bc69026b-79ed-49e9-b455-8a349481fde3",
+        "delayTime": 0,
+        "action": "none"
+    },
+    {
+        "id": "f8c37f1b-a06b-4923-a651-4ad5ceb8e386",
+        "element": "69fee136-bbb0-455a-8192-6ed5915f53ea",
+        "type": "plot",
+        "count": 1,
+        "emitType": "click",
+        "jump": "c17ee7f8-78cc-4de6-9d5b-5a774878a66d",
+        "delayTime": 0,
+        "action": "none"
+    }
+]

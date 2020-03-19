@@ -1,0 +1,75 @@
+[
+    {
+        "id": "0285aef5-fa0c-4a77-858b-6f6d8cf6bc60",
+        "name": "快速插入场景",
+        "type": "helper-insert-scene",
+        "zIndex": 1
+    },
+    {
+        "id": "cdd0f426-0b71-4c8c-bca5-d221f98f8bd9",
+        "name": "快速插入人物",
+        "type": "helper-insert-role",
+        "zIndex": 2
+    },
+    {
+        "id": "8c3f2b16-f5ae-4d3b-a65b-bc5e7ded8851",
+        "templateID": null,
+        "name": "流血-01",
+        "type": "effect-blood-down",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 6.6666666666667425,
+            "y": 358.33333333333337
+        },
+        "size": {
+            "width": 100,
+            "height": 100
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 3,
+        "state": "less"
+    },
+    {
+        "id": "6c22ca00-e1b3-41d7-988f-05d7a91bcb35",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 160,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 4,
+        "direction": "horizontal",
+        "string": "流血，少量",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

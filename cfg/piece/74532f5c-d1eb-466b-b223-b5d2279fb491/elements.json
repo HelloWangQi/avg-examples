@@ -3,8 +3,9 @@
         "id": "caf10c49-e484-4e70-89a2-18e49a8196f2",
         "name": "剧情跳转",
         "type": "plot-jump",
-        "jumpPlotID": "f89ad0ac-1fcb-4cfb-93db-f50db520ea9b",
-        "zIndex": 1
+        "jumpPlotID": "ce86cae8-2173-44c9-9915-24138154d448",
+        "zIndex": 1,
+        "templateID": null
     },
     {
         "id": "4362b59f-dc6b-4b43-b5b0-887d089c1599",
@@ -30,7 +31,7 @@
         "color": "#ff0027",
         "zIndex": 2,
         "direction": "horizontal",
-        "string": "带有剧情跳转的画布\n跳转到结束测试",
+        "string": "带有剧情跳转的画布\n跳转到指定章节",
         "textFont": {
             "align": "center",
             "bold": false,

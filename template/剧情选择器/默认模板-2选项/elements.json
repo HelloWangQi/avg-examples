@@ -38,21 +38,52 @@
             {
                 "id": "9a092f55-0104-4075-8569-494f0daa911e",
                 "text": "剧情选项1",
-                "jump": null,
                 "size": {
                     "width": 274,
                     "height": 54
+                },
+                "position": {
+                    "x": 0,
+                    "y": 32
                 }
             },
             {
                 "id": "71e7254d-7793-4ecf-aa92-7727a598d024",
                 "text": "剧情选项2",
-                "jump": null,
                 "size": {
                     "width": 274,
                     "height": 54
+                },
+                "position": {
+                    "x": 0,
+                    "y": -32
                 }
             }
-        ]
+        ],
+        "limit": {
+            "id": "ff03a1f9-2577-40d0-b289-622b3a30c69f",
+            "type": "limit",
+            "enabled": false,
+            "time": 10,
+            "font": {
+                "size": 20,
+                "color": "#333333",
+                "family": "arial",
+                "bold": false,
+                "italic": false,
+                "underline": false,
+                "align": "center",
+                "line": 1
+            },
+            "bg": "dfaf3a76-06e1-4ebe-823d-a006c3ce0a8d",
+            "size": {
+                "width": 73,
+                "height": 73
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        }
     }
 ]

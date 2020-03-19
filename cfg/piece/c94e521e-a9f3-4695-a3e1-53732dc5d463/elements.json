@@ -37,9 +37,7 @@
             "scale": {
                 "x": 1,
                 "y": 1
-            },
-            "type": "head",
-            "linkID": null
+            }
         },
         "roleName": {
             "active": true,
@@ -85,7 +83,7 @@
             "bg": {
                 "active": true,
                 "size": {
-                    "width": 1280.0000000000002,
+                    "width": 1280,
                     "height": 165
                 },
                 "texture": "784474e3-9fd6-4090-9012-617a1a693003"
@@ -104,7 +102,7 @@
                     "align": "left",
                     "bold": false,
                     "color": "#ff0000",
-                    "family": "font5",
+                    "family": "e44ba5ae-e59f-447c-bc25-f2fc354a6e0c",
                     "italic": false,
                     "line": 1,
                     "size": 20,
@@ -121,8 +119,8 @@
         "lockPos": false,
         "lockSizeRatio": true,
         "position": {
-            "x": -9.615384615384642,
-            "y": 311.5384615384618
+            "x": -19.61538461538464,
+            "y": 70.53846153846177
         },
         "size": {
             "width": 320,

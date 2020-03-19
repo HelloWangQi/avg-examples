@@ -1,0 +1,75 @@
+[
+    {
+        "id": "be8ec6b4-4030-4185-bd94-4ecb8bee62ea",
+        "name": "快速插入场景",
+        "type": "helper-insert-scene",
+        "zIndex": 1
+    },
+    {
+        "id": "63b9e97a-4908-4ff6-ad43-c209bab1b3a0",
+        "name": "快速插入人物",
+        "type": "helper-insert-role",
+        "zIndex": 2
+    },
+    {
+        "id": "a79ebd04-f7fd-42b6-aea4-d2205bcd2cd4",
+        "templateID": null,
+        "name": "光束-01",
+        "type": "effect-light",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -24,
+            "y": 354
+        },
+        "size": {
+            "width": 100,
+            "height": 100
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 3,
+        "state": "middle"
+    },
+    {
+        "id": "bdd58299-c051-48d3-b5d3-4ef2b0add5a2",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 54
+        },
+        "size": {
+            "width": 160,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 4,
+        "direction": "horizontal",
+        "string": "光束，柔和",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

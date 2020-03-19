@@ -1,0 +1,75 @@
+[
+    {
+        "id": "053baa23-8a5c-4d36-be41-297f76cf3707",
+        "name": "快速插入场景",
+        "type": "helper-insert-scene",
+        "zIndex": 1
+    },
+    {
+        "id": "66095ac5-bb56-49e5-9298-5f1fa87e41cc",
+        "name": "快速插入人物",
+        "type": "helper-insert-role",
+        "zIndex": 2
+    },
+    {
+        "id": "e490b0ea-70da-4bb7-8ef3-7f60a9c212e9",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 138.66,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 4,
+        "direction": "horizontal",
+        "string": "光束-微光",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    },
+    {
+        "id": "da2fc762-f8ac-4b6e-8773-3d285da6f80a",
+        "templateID": null,
+        "name": "光束-02",
+        "type": "effect-light",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -8,
+            "y": 362
+        },
+        "size": {
+            "width": 100,
+            "height": 100
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 5,
+        "state": "small"
+    }
+]

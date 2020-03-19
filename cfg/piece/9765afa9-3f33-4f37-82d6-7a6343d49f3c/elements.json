@@ -50,12 +50,12 @@
         "lockPos": false,
         "lockSizeRatio": true,
         "position": {
-            "x": 423.07692307692344,
-            "y": -311.53846153846183
+            "x": 339.0769230769233,
+            "y": -258.5384615384619
         },
         "size": {
-            "width": 378.67,
-            "height": 46.62
+            "width": 512,
+            "height": 83.62
         },
         "scale": {
             "x": 1,
@@ -66,7 +66,7 @@
         "color": "#ff0027",
         "zIndex": 3,
         "direction": "horizontal",
-        "string": "点击前往剧情选择器的剧情...",
+        "string": "正常的话会跳到剧情选择器\n如果跳转失败会看到跳转失败的字样",
         "textFont": {
             "align": "center",
             "bold": false,

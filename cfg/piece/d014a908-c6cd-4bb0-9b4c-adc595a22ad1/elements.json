@@ -47,7 +47,7 @@
             "y": -205
         },
         "size": {
-            "width": 480,
+            "width": 608,
             "height": 120.62
         },
         "scale": {
@@ -59,7 +59,7 @@
         "color": "#ff0027",
         "zIndex": 2,
         "direction": "horizontal",
-        "string": "下个画布包含数值判断器\n生命值>-100\n当前界面点击跳过后直接结束测试",
+        "string": "下个画布包含数值判断器\n生命值>-100\n当前界面点击跳过后跳转到另一个指定章节",
         "textFont": {
             "align": "center",
             "bold": false,

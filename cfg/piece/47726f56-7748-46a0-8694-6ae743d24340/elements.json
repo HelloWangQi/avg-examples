@@ -1,0 +1,75 @@
+[
+    {
+        "id": "64c178f0-e0a4-4238-ae82-e3bde0906bc5",
+        "name": "快速插入场景",
+        "type": "helper-insert-scene",
+        "zIndex": 1
+    },
+    {
+        "id": "d28f591c-75e2-4711-8220-f9256ee944b4",
+        "name": "快速插入人物",
+        "type": "helper-insert-role",
+        "zIndex": 2
+    },
+    {
+        "id": "1f2a9e5e-d006-4541-9427-16b6ac998e8c",
+        "templateID": null,
+        "name": "火星-01",
+        "type": "effect-spot-fire",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -10,
+            "y": -233
+        },
+        "size": {
+            "width": 100,
+            "height": 100
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 3,
+        "state": "mid"
+    },
+    {
+        "id": "e4474b74-29c2-4cb2-81a3-9de88dd5e0ab",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 202.66,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 4,
+        "direction": "horizontal",
+        "string": "火星-劈啪作响",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

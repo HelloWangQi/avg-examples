@@ -1,0 +1,75 @@
+[
+    {
+        "id": "6be6ed26-653a-4dde-94e5-b94e7eacb98c",
+        "name": "快速插入场景",
+        "type": "helper-insert-scene",
+        "zIndex": 1
+    },
+    {
+        "id": "7125aecb-fe79-4ff8-941e-4a8c73a3af6e",
+        "name": "快速插入人物",
+        "type": "helper-insert-role",
+        "zIndex": 2
+    },
+    {
+        "id": "2d34fa36-e2db-4d90-8291-08b928488599",
+        "templateID": null,
+        "name": "火星-01",
+        "type": "effect-spot-fire",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 6,
+            "y": -356
+        },
+        "size": {
+            "width": 100.00000000000001,
+            "height": 100.00000000000001
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 3,
+        "state": "more"
+    },
+    {
+        "id": "d06ef386-9b8d-4df0-8c40-7946e6f4dde4",
+        "templateID": null,
+        "name": "文本框-01",
+        "type": "text",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": -4,
+            "y": -22.66666666666663
+        },
+        "size": {
+            "width": 202.66,
+            "height": 46.62
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ff0027",
+        "zIndex": 4,
+        "direction": "horizontal",
+        "string": "火星-星桥火树",
+        "textFont": {
+            "align": "center",
+            "bold": false,
+            "color": "#ff0027",
+            "family": "arial",
+            "italic": false,
+            "line": 1,
+            "size": 32,
+            "underline": false
+        }
+    }
+]

@@ -96,6 +96,23 @@
                 "type": "none"
             },
             "wait": 0.1
+        },
+        {
+            "id": "2aa387c7-de30-41f1-a38e-e9396ce8207a",
+            "type": "piece-content",
+            "name": "画布7",
+            "cfg": "09f76d24-7041-4155-9380-9048d3163d3f",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
         }
     ],
     "ec9eaa2c-7c47-43fe-af5b-09c2c8418fa0": [
@@ -130,6 +147,23 @@
                 "type": "none"
             },
             "wait": 0.1
+        },
+        {
+            "id": "9ca09bd7-842a-46d8-8d69-4ffa29b77979",
+            "type": "piece-content",
+            "name": "画布3",
+            "cfg": "eddbe3ce-8e13-495d-97ca-1eb673190783",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
         }
     ],
     "9d1cad02-bff9-4765-98ec-919c6e8c7f40": [
@@ -377,7 +411,7 @@
                 "speed": 0.1,
                 "type": "none"
             },
-            "wait": 0.1
+            "wait": 1
         },
         {
             "id": "d5fd543d-9467-4721-8bf7-458808f23531",
@@ -393,7 +427,7 @@
                 "speed": 0.1,
                 "type": "none"
             },
-            "wait": 0.1
+            "wait": 1
         },
         {
             "id": "b82e5b9d-a85b-45d8-88d1-213ee917e827",
@@ -409,7 +443,7 @@
                 "speed": 0.1,
                 "type": "none"
             },
-            "wait": 0.1
+            "wait": 1
         },
         {
             "id": "5f21aa3c-47b3-4131-9e60-e71b03ba8eef",
@@ -686,9 +720,57 @@
             "wait": 0.1
         },
         {
-            "id": "58a7f930-4c74-4e02-88ea-a37cbf35fd39",
+            "id": "7b289f0b-4553-4816-bf57-d1c5559c3e15",
             "type": "piece-content",
             "name": "画布4",
+            "cfg": "2b884d7e-90a2-4a10-bac2-8b95782b4656",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1
+        },
+        {
+            "id": "892d1588-66c0-4575-8fa9-f06d5fa99a1a",
+            "type": "piece-content",
+            "name": "画布5",
+            "cfg": "cb7a49fa-8381-4b1c-b31f-a5a981657a8a",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1
+        },
+        {
+            "id": "f08832c7-73a9-4973-9827-05df315350ce",
+            "type": "piece-content",
+            "name": "画布6",
+            "cfg": "ee649f73-4bea-41f5-a6a2-423edb96c32a",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1
+        },
+        {
+            "id": "58a7f930-4c74-4e02-88ea-a37cbf35fd39",
+            "type": "piece-content",
+            "name": "画布7",
             "cfg": "49619bc2-0d6c-4c56-a3b7-9188adbf4bb8",
             "effect": {
                 "sound": {
@@ -704,7 +786,7 @@
         {
             "id": "ecfeaba0-4776-4817-a082-609b3e9b3ebc",
             "type": "piece-content",
-            "name": "画布5",
+            "name": "画布8",
             "cfg": "6fa5aa35-a30d-4c60-9364-4a2924196b5b",
             "effect": {
                 "sound": {
@@ -720,7 +802,7 @@
         {
             "id": "2b66fa57-89fe-4c4a-94bf-1a52e2103777",
             "type": "piece-content",
-            "name": "画布6",
+            "name": "画布9",
             "cfg": "43ce8de7-1b94-4f32-82ea-00408eaef896",
             "effect": {
                 "sound": {
@@ -734,10 +816,10 @@
             "wait": 0.1
         },
         {
-            "id": "8d1461a2-c9e0-4113-b379-4d5e60907f37",
+            "id": "24e34ca3-1162-4740-b1da-3084cca4e878",
             "type": "piece-content",
-            "name": "画布7",
-            "cfg": "d99498a2-32c6-440d-b3e1-e2ebb43b66c6",
+            "name": "画布10",
+            "cfg": "a274557f-9e5c-4765-9bf8-50cb5d1ed876",
             "effect": {
                 "sound": {
                     "name": "无",
@@ -751,10 +833,10 @@
             "continue": false
         },
         {
-            "id": "ee7fd467-31c1-4b54-ad5e-319944b45bbd",
+            "id": "40140cb1-fa87-4d0e-bed3-1e2f0f8b1982",
             "type": "piece-content",
-            "name": "画布8",
-            "cfg": "4a21b8fd-7645-481d-98c8-ad078be4013c",
+            "name": "画布11",
+            "cfg": "f00b4e04-eef2-40dd-ae32-297bce4d5e41",
             "effect": {
                 "sound": {
                     "name": "无",
@@ -768,10 +850,503 @@
             "continue": false
         },
         {
-            "id": "f5e59e9e-40b3-4fe4-98d9-8ed689dffe3e",
+            "id": "ea44495d-c233-4b58-ac31-8fac03cf53c9",
             "type": "piece-content",
-            "name": "画布9",
-            "cfg": "ebf1dac2-8ec6-4ed4-ba1e-69e7692d72fe",
+            "name": "画布12",
+            "cfg": "21ae6597-f024-4b78-b1ca-9406a639bfb4",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "c10fe486-6fe8-406a-81de-23530f979d57",
+            "type": "piece-content",
+            "name": "画布13",
+            "cfg": "6d92a79e-6e5b-42c9-810d-cdd30e392398",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "5f113d1f-a320-41c9-8ddc-44576f15f49e",
+            "type": "piece-content",
+            "name": "画布14",
+            "cfg": "4352da1e-c704-44f6-bcb6-b498a180c374",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "9b0acc01-ff94-4c9f-97ad-86cf3688d410",
+            "type": "piece-content",
+            "name": "画布15",
+            "cfg": "d242b207-5d0f-4ba2-a3f8-f969dfe83982",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "f11480ff-da04-4469-868d-94c340e397b7",
+            "type": "piece-content",
+            "name": "画布16",
+            "cfg": "8ff0354c-01d6-4ffd-bc5c-f67420c4e50e",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "86a9f736-bb25-4765-878f-98624c2068ed",
+            "type": "piece-content",
+            "name": "画布17",
+            "cfg": "8869941e-022b-458f-b054-e3fb478c9d69",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "a131d101-f3cb-4baf-9ed9-95cd96a32258",
+            "type": "piece-content",
+            "name": "画布18",
+            "cfg": "1e04bfa8-f278-4ca9-8069-1f24241e0c6f",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "659afca7-23c6-4001-94eb-c6073443f6cd",
+            "type": "piece-content",
+            "name": "画布19",
+            "cfg": "fd86a2c0-f616-4bca-bfe0-061d6daaa5e5",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "dbaab1b9-b790-4b1c-a550-93c4be563e1e",
+            "type": "piece-content",
+            "name": "画布20",
+            "cfg": "4bc638d6-ff9b-46f1-80ee-4d1b4b56509f",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "572ce83d-e777-4c9e-9887-ab5f58f1b96a",
+            "type": "piece-content",
+            "name": "画布21",
+            "cfg": "740aa956-2ddd-475e-ae61-791f290f1250",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "03a31af6-c891-4758-b835-fc41103b50df",
+            "type": "piece-content",
+            "name": "画布22",
+            "cfg": "d3c21374-3273-418e-a309-398d7c749b6c",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "cd5f0300-5287-4d56-b022-624c3f255766",
+            "type": "piece-content",
+            "name": "画布23",
+            "cfg": "279d5512-dffe-4c5d-9e60-fe51f707e0fd",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "56ae57f1-4bd0-4f6f-a8a3-1ea0fb4f662d",
+            "type": "piece-content",
+            "name": "画布24",
+            "cfg": "16b9a305-7dd8-455f-a76f-36f35ab2ef92",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "934ccbfb-5707-4865-958d-6a7735398ce9",
+            "type": "piece-content",
+            "name": "画布25",
+            "cfg": "ab0e4205-3794-445b-a5e3-f9cc4aeb8e9e",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "2874cb33-056c-4ca5-a068-a271b27c3765",
+            "type": "piece-content",
+            "name": "画布26",
+            "cfg": "14fc38f9-ccbe-4dc4-8ac9-982c655423ce",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "988b6c8b-6442-459f-88c7-15a96662ae03",
+            "type": "piece-content",
+            "name": "画布27",
+            "cfg": "020b88b4-bf9e-41bd-bf86-551afdcc6074",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "8c0a77bc-dfa3-4b5c-b569-1e83ba8461c4",
+            "type": "piece-content",
+            "name": "画布28",
+            "cfg": "3295b48a-2aed-45ab-a5d7-bb9cae940006",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "342ad574-2a77-4277-9745-6db037a4dd70",
+            "type": "piece-content",
+            "name": "画布29",
+            "cfg": "8fadba9e-a2fb-40ed-8aa6-843b90ad0c1d",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "5278dc60-f0a4-4455-bc00-ce850087a65b",
+            "type": "piece-content",
+            "name": "画布30",
+            "cfg": "54ddf0b1-b115-4c8a-856d-6ebb1943f8df",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "8a65c343-bd11-443c-91f1-3f0992cb214a",
+            "type": "piece-content",
+            "name": "画布31",
+            "cfg": "f63d16ff-920e-4e9f-9e0f-1e4d564aeb98",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "47726f56-7748-46a0-8694-6ae743d24340",
+            "type": "piece-content",
+            "name": "画布32",
+            "cfg": "3c85317a-1135-4b4d-b8c2-84d3776993b7",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "496dbb01-bde3-41f4-ac0f-5adcedb77a47",
+            "type": "piece-content",
+            "name": "画布33",
+            "cfg": "126fd44d-4a5b-4b4a-ba58-543b885426c8",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "42d1b495-9f96-49c1-b9fd-8869ed554e17",
+            "type": "piece-content",
+            "name": "画布34",
+            "cfg": "62745b9e-f746-4ebb-aed3-fdcb2aec8889",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "8ffe4e7e-db3e-4540-ac89-29eb7997c5a6",
+            "type": "piece-content",
+            "name": "画布35",
+            "cfg": "9c682e27-a4c2-4c0e-8948-50e354a5d5d3",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "acf9cbb1-8d32-4d33-af2b-e10a63289bc5",
+            "type": "piece-content",
+            "name": "画布36",
+            "cfg": "6ba61981-94cb-4e87-a9f9-d6d3359b5487",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "3bc92f16-ce83-4ee7-bb7c-392152bcf45f",
+            "type": "piece-content",
+            "name": "画布37",
+            "cfg": "eab959e4-575b-4a3a-9e3b-22a2e5b992fb",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "4d2b4a29-a946-4f10-9cf4-8864dc935a01",
+            "type": "piece-content",
+            "name": "画布38",
+            "cfg": "51be9d34-3739-472f-80e7-892be349ddc0",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "18609e92-c9ab-4fca-b418-405909f7e20d",
+            "type": "piece-content",
+            "name": "画布39",
+            "cfg": "8b8e823d-3b0e-467c-add5-891eb9ab612e",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "b70f2a30-1d5a-4a42-ae21-d7086ffbf1cb",
+            "type": "piece-content",
+            "name": "画布40",
+            "cfg": "fa2df739-7fb9-459c-b469-d318ad4539a4",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "3cfaa2f0-2e1a-4e52-87fb-d01e54404594",
+            "type": "piece-content",
+            "name": "画布41",
+            "cfg": "42e41d50-74c2-4a3b-81b7-b171fe1abbc2",
             "effect": {
                 "sound": {
                     "name": "无",
@@ -901,10 +1476,163 @@
             "wait": 0.1
         },
         {
-            "id": "a62f3656-5d23-41ea-aea9-85f6d00c4902",
+            "id": "50943e95-7d54-4a2d-9005-05c30566a547",
             "type": "piece-content",
             "name": "画布4",
-            "cfg": "5f9748d6-d986-461d-8818-4517ad761912",
+            "cfg": "e263a568-336d-4593-bfba-634eb50ca3e7",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "99268ec6-9493-4188-8a74-02c368a4c5f1",
+            "type": "piece-content",
+            "name": "画布5",
+            "cfg": "88064057-8200-4e3e-afc6-fbcad658b4b4",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "d9c1de15-7cf0-403d-9d4a-b37941528b0f",
+            "type": "piece-content",
+            "name": "画布6",
+            "cfg": "724fc7fe-8ddd-405f-9d25-07e86ba3c421",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 3,
+            "continue": false
+        },
+        {
+            "id": "fe50a8fb-a544-46bb-a0b1-6677342f706f",
+            "type": "piece-content",
+            "name": "画布7",
+            "cfg": "ac5e99be-79fd-4afe-bd1b-e0c5b06fe91f",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "dab19128-f667-4c73-aac7-1dd967870fcb",
+            "type": "piece-content",
+            "name": "画布8",
+            "cfg": "d7821b3a-19f6-44e5-9be3-4b6eaf49da70",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "0958f8d9-80f1-4120-bbf1-f0a09c6718ef",
+            "type": "piece-content",
+            "name": "画布9",
+            "cfg": "e2af9e83-273b-4560-bd4c-6f743cf9cca8",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "c2654834-4373-4ee2-8dee-0404ada59518",
+            "type": "piece-content",
+            "name": "画布10",
+            "cfg": "4fbf9905-01fb-4f3f-acfa-838fe230f88d",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "b58fa3e9-90ee-4621-9f98-728ab5123e46",
+            "type": "piece-content",
+            "name": "画布11",
+            "cfg": "298bdba0-bf3a-4e15-96fb-dfb2c61df2ea",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "f9f2c60a-1fc6-43fa-b077-734b60ea774a",
+            "type": "piece-content",
+            "name": "画布12",
+            "cfg": "97d77722-a9a9-43af-b884-c97a70b79692",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        },
+        {
+            "id": "bd568e13-befd-46d6-a4d3-8599573a6e2d",
+            "type": "piece-content",
+            "name": "画布13",
+            "cfg": "663b2ad2-a44c-495b-ae8a-6746cc6d467c",
             "effect": {
                 "sound": {
                     "name": "无",
@@ -917,10 +1645,10 @@
             "wait": 0.1
         },
         {
-            "id": "bd568e13-befd-46d6-a4d3-8599573a6e2d",
+            "id": "20f500ba-be47-4c97-b0c4-56ad19161421",
             "type": "piece-content",
-            "name": "画布5",
-            "cfg": "663b2ad2-a44c-495b-ae8a-6746cc6d467c",
+            "name": "画布14",
+            "cfg": "e98e2f96-a728-461f-a019-39e8ecb4598a",
             "effect": {
                 "sound": {
                     "name": "无",
@@ -930,7 +1658,8 @@
                 "speed": 0.1,
                 "type": "none"
             },
-            "wait": 0.1
+            "wait": 0.1,
+            "continue": false
         }
     ],
     "6f838c6a-7ecb-4d3a-9c2f-628caa8f4b18": [
@@ -1666,6 +2395,82 @@
             "type": "piece-content",
             "name": "画布5",
             "cfg": "fcc3c1d8-3018-43ca-9d91-f25fda6ad31e",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        }
+    ],
+    "4bbb8325-474c-4276-8efe-a1bccd7117f8": [
+        {
+            "id": "7d2dc818-c373-4de1-85ca-8dc794427b07",
+            "type": "piece-content",
+            "name": "画布1",
+            "cfg": "a7365b4f-f956-49af-b22d-7c0d5c86af84",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        }
+    ],
+    "cebc810a-0f0a-4fc6-b4c7-f8a9f9afe734": [
+        {
+            "id": "4f8195b7-8312-40be-8855-bee85986f6d4",
+            "type": "piece-content",
+            "name": "画布1",
+            "cfg": "a0facfef-15d4-440e-992d-45651c473353",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 3,
+            "continue": false
+        }
+    ],
+    "6601462f-b312-465c-9aa9-798121aac944": [
+        {
+            "id": "214a7f14-0d88-494e-935f-68134818b3eb",
+            "type": "piece-content",
+            "name": "画布1",
+            "cfg": "d3198275-cadc-4b33-9223-4422caa766f3",
+            "effect": {
+                "sound": {
+                    "name": "无",
+                    "type": "none",
+                    "value": ""
+                },
+                "speed": 0.1,
+                "type": "none"
+            },
+            "wait": 0.1,
+            "continue": false
+        }
+    ],
+    "b1f67155-18ae-4345-b730-227d7374aaaa": [
+        {
+            "id": "3bda5d13-fae7-496e-8689-85f14ab7f0ab",
+            "type": "piece-content",
+            "name": "画布1",
+            "cfg": "0368e7a0-18e9-4fd0-b791-476b675bd841",
             "effect": {
                 "sound": {
                     "name": "无",

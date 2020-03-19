@@ -1,0 +1,52 @@
+[
+    {
+        "id": "4cf02cbe-e8a9-4b99-b1c5-d80687ca6bbd",
+        "element": "0ee60a0c-81f3-48d1-9d71-f46c4f61cb9b",
+        "type": "value",
+        "count": 1,
+        "emitType": "click",
+        "valueID": "ddfa57d5-c9fa-46b0-8cb3-d4542e2f4825",
+        "exec": [
+            {
+                "type": "variable",
+                "value": "ddfa57d5-c9fa-46b0-8cb3-d4542e2f4825"
+            }
+        ],
+        "text": "选项1成功",
+        "font": {
+            "size": 20,
+            "color": "#F50404",
+            "family": "arial",
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "align": "center",
+            "line": 1
+        }
+    },
+    {
+        "id": "f5edc903-8004-439a-8137-ce2b128ac46d",
+        "element": "eccbdd0d-cf94-473d-a770-32c7b28a5950",
+        "type": "value",
+        "count": 1,
+        "emitType": "click",
+        "valueID": "ddfa57d5-c9fa-46b0-8cb3-d4542e2f4825",
+        "exec": [
+            {
+                "type": "variable",
+                "value": "ddfa57d5-c9fa-46b0-8cb3-d4542e2f4825"
+            }
+        ],
+        "text": "选项2成功",
+        "font": {
+            "size": 20,
+            "color": "#ffffff",
+            "family": "arial",
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "align": "center",
+            "line": 1
+        }
+    }
+]
