@@ -1,6 +1,6 @@
 [
 	{
-		"id": "9fcd88c9-a32f-4e1a-a5d0-9f9a0a865312",
+		"id": "8dfd76a2-7571-4237-95c7-d992236229f6",
 		"templateID": null,
 		"name": "物品列表",
 		"type": "avg-bag-item-list",
@@ -23,17 +23,18 @@
 		"color": "#ffffff",
 		"zIndex": 1,
 		"popUp": {
-			"type": "popup-default",
+			"type": "fade-in",
 			"direction": "left",
-			"time": 1
+			"time": 0.3
 		},
 		"takeBack": {
-			"type": "take-back-default",
+			"type": "fade-out",
 			"direction": "left",
-			"time": 1
+			"time": 0.3
 		},
 		"bg": {
-			"id": "14403aef-6cd6-456e-be7a-b66f7e8b2dc4",
+			"id": "4e906ba2-1cb8-4a7b-9522-6e6709254321",
+			"active": true,
 			"comp": "avg-image",
 			"type": "avg-bag-item-list-bg",
 			"position": {
@@ -47,16 +48,17 @@
 			"texture": "ae97375b-12bb-4b5c-8492-62319eea6b53"
 		},
 		"list": {
-			"id": "2549bdef-c2fa-48af-8e15-426e3f7a594a",
+			"id": "3f362127-0895-48e9-9a38-39235437ff45",
+			"active": true,
 			"comp": "avg-element",
 			"type": "avg-bag-item-list-list",
 			"position": {
-				"x": 0,
-				"y": -28
+				"x": 10,
+				"y": 0
 			},
 			"size": {
 				"width": 320,
-				"height": 640
+				"height": 710
 			},
 			"layout": "column2",
 			"itemCfg": {
@@ -80,20 +82,21 @@
 					"align": "center",
 					"line": 1
 				},
-				"countBgColor": "#ffff00"
+				"countBgColor": "#eebf39"
 			}
 		},
 		"back": {
-			"id": "682156ec-c566-4411-832e-dfe886cf7d75",
+			"id": "e40292e9-08ec-43e5-8192-c74b507db171",
+			"active": true,
 			"comp": "avg-button",
 			"type": "avg-bag-item-list-back",
 			"position": {
-				"x": -142,
-				"y": 330
+				"x": -165.5,
+				"y": 0
 			},
 			"size": {
-				"width": 40,
-				"height": 36
+				"width": 19,
+				"height": 96
 			},
 			"textureNormal": "326cc327-6137-47db-ad2f-5d4db14fcc34",
 			"texturePress": "326cc327-6137-47db-ad2f-5d4db14fcc34"

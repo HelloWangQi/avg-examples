@@ -43,9 +43,10 @@
 					"sub": "entry-set",
 					"name": "入口设置",
 					"enabled": true,
-					"cfg": "72e384bf-a61b-4b39-996f-2a5427ff1652"
+					"cfg": "11d2f81f-d554-41da-b566-13bfa057688e"
 				}
-			]
+			],
+			"enabled": true
 		},
 		{
 			"name": "高级UI",
@@ -61,7 +62,7 @@
 							"sub": "bagItemList",
 							"name": "物品列表",
 							"enabled": true,
-							"cfg": "e4e3a64e-fdef-4ce3-aa3a-f4e1d0f211f0"
+							"cfg": "4cc3e143-34ca-4adb-9e85-ab5ec60dd248"
 						},
 						{
 							"id": "03952700-417b-4616-8da4-c5d9d5ed31ab",
@@ -69,7 +70,7 @@
 							"sub": "bagItemDetails",
 							"name": "物品详情",
 							"enabled": true,
-							"cfg": "8a7eaf4f-6957-40fe-bd23-369482d58ba1"
+							"cfg": "062f34ec-105f-4098-91f0-983292422cf5"
 						},
 						{
 							"id": "03952700-417b-4616-8da4-c5d9d5ed31ab",
@@ -77,7 +78,7 @@
 							"sub": "bagGetItems",
 							"name": "获得物品(1个)",
 							"enabled": true,
-							"cfg": "f37d095c-af33-4325-b614-25fe0b0669ad"
+							"cfg": "143ab97d-a734-4a60-89a0-921a92155a7f"
 						},
 						{
 							"id": "03952700-417b-4616-8da4-c5d9d5ed31ab",
@@ -85,7 +86,7 @@
 							"sub": "bagGetItems",
 							"name": "获得物品(2个)",
 							"enabled": true,
-							"cfg": "9d5940d9-feb9-493d-a1ec-73fa7184101b"
+							"cfg": "0448988f-de2f-4a7f-be6a-9e41ba7c3e34"
 						},
 						{
 							"id": "03952700-417b-4616-8da4-c5d9d5ed31ab",
@@ -93,11 +94,12 @@
 							"sub": "bagGetItems",
 							"name": "获得物品(3个)",
 							"enabled": true,
-							"cfg": "6c30ecf6-9c88-4c59-94f8-e4f9f779d044"
+							"cfg": "4e7d732d-6221-438d-9bad-65adcb5fd4ef"
 						}
 					]
 				}
-			]
+			],
+			"enabled": true
 		}
 	]
 }

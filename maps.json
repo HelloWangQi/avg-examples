@@ -85,7 +85,7 @@
     },
     "67ebbde4-93c5-4485-93a3-dd6cbe8241f2": {
         "path": "res/default/font",
-        "type": "image"
+        "type": "folder"
     },
     "5150d6ee-fc8e-4e9a-ab3a-8921fad37411": {
         "path": "res/default/font/font1.ttf"
@@ -107,7 +107,7 @@
     },
     "1da87747-c24c-4802-a92c-b3a1ef966c72": {
         "path": "res/default/particle",
-        "type": "image"
+        "type": "folder"
     },
     "1b1d1506-ccd7-4187-b8dc-6117daea863c": {
         "path": "res/default/particle/rain.plist"
@@ -126,11 +126,11 @@
     },
     "a54ee010-8d6a-4adc-ac90-3e18c9affb56": {
         "path": "res/default/ui-env",
-        "type": "image"
+        "type": "folder"
     },
     "7a0b61e7-b830-4ff7-af26-0d9c69339880": {
         "path": "res/default/ui-file-mgr",
-        "type": "image"
+        "type": "folder"
     },
     "71705896-527a-42bb-8e6b-6883ce2cc53a": {
         "path": "res/default/videoPlayFlag.png",
@@ -577,7 +577,8 @@
     },
     "441866ff-fc3e-420e-ada8-8ef6cda51a81": {
         "path": "res/audio/bg/音效.mp3",
-        "type": "audio"
+        "type": "audio",
+        "duration": 1.88
     },
     "9ff375a7-55e1-4d3d-9180-3c6f16847626": {
         "path": "cfg/piece/39c8e3a7-921c-4cf1-9794-d9c95c62b91d",
@@ -789,7 +790,8 @@
     },
     "34fbd074-2ba9-4ade-a757-e94506ef0597": {
         "path": "res/audio/bg/alisi.mp3",
-        "type": "audio"
+        "type": "audio",
+        "duration": 194.04
     },
     "2ab5f78a-6d50-441b-b1c1-375e8f458d80": {
         "path": "cfg/piece/df7bdd10-4fe7-43d4-a8cb-b7455361cf1a",
@@ -801,7 +803,8 @@
     },
     "0fa5a868-eeb7-4a59-941d-f6b493a4e5f9": {
         "path": "res/audio/effect/音效.mp3",
-        "type": "audio"
+        "type": "audio",
+        "duration": 1.88
     },
     "4ae70951-3609-47c6-a8f3-2deda6c73047": {
         "path": "cfg/piece/57a10f30-b69b-4868-8193-b6fa23a9b906",
@@ -812,7 +815,10 @@
         "type": "piece"
     },
     "2551ec70-4b60-400d-b7d3-eb2481426044": {
-        "path": "res/video/plot/video-horizontal.mp4"
+        "path": "res/video/plot/video-horizontal.mp4",
+        "type": "video",
+        "duration": 2.04,
+        "start": 0
     },
     "5f9748d6-d986-461d-8818-4517ad761912": {
         "path": "cfg/piece/a62f3656-5d23-41ea-aea9-85f6d00c4902",
@@ -3680,30 +3686,6 @@
         "path": "res/default/bag/bg.png",
         "type": "image"
     },
-    "72e384bf-a61b-4b39-996f-2a5427ff1652": {
-        "path": "cfg/ui/entry-set.json",
-        "type": "config"
-    },
-    "e4e3a64e-fdef-4ce3-aa3a-f4e1d0f211f0": {
-        "path": "cfg/bag/itemList.json",
-        "type": "config"
-    },
-    "8a7eaf4f-6957-40fe-bd23-369482d58ba1": {
-        "path": "cfg/bag/itemDetails.json",
-        "type": "config"
-    },
-    "f37d095c-af33-4325-b614-25fe0b0669ad": {
-        "path": "cfg/bag/getItems1.json",
-        "type": "config"
-    },
-    "9d5940d9-feb9-493d-a1ec-73fa7184101b": {
-        "path": "cfg/bag/getItems2.json",
-        "type": "config"
-    },
-    "6c30ecf6-9c88-4c59-94f8-e4f9f779d044": {
-        "path": "cfg/bag/getItems3.json",
-        "type": "config"
-    },
     "8956f2d3-27fb-4d35-857f-08932aabb9d1": {
         "path": "cfg/goods.json",
         "type": "config"
@@ -3755,5 +3737,181 @@
     "f6bebfef-c9f5-4df2-b64e-c35ad634db94": {
         "path": "cfg/piece/f5e59e9e-40b3-4fe4-98d9-8ed689dffe3e/timeline.json",
         "type": "piece"
+    },
+    "c0132a43-b3c2-44b8-ab0c-c15dd62fcd0a": {
+        "path": "res/default/bagItemDetails/bg.png",
+        "type": "image"
+    },
+    "b9cff4c9-8c17-496f-aab6-fa1892315909": {
+        "path": "res/default/bagItemDetails/btnAudio.png",
+        "type": "image"
+    },
+    "1647054e-703f-439a-9784-6a5454059ddd": {
+        "path": "res/default/bagItemDetails/btnUse.png",
+        "type": "image"
+    },
+    "b802969f-b2c4-430b-95fd-5342e803a304": {
+        "path": "res/default/bagItemDetails/btnVideo.png",
+        "type": "image"
+    },
+    "78d2a00e-8b8b-4636-beae-f226f82dee32": {
+        "path": "res/default/bagItemGet/bg1.png",
+        "type": "image"
+    },
+    "f429074e-40dc-4b61-9c3c-346d3aa0103c": {
+        "path": "res/default/bagItemGet/bg2.png",
+        "type": "image"
+    },
+    "37995577-8786-44ca-ba4d-23d5e74822e3": {
+        "path": "res/default/bagItemGet/bg3.png",
+        "type": "image"
+    },
+    "7e26068c-d470-4282-9265-937eff160aba": {
+        "path": "res/default/bagItemGet/btnJump.png",
+        "type": "image"
+    },
+    "08c1ccfe-9c02-4d05-95fe-39717960b1ac": {
+        "path": "res/audio",
+        "type": "folder"
+    },
+    "21581230-8207-4134-967a-c70ea6573d3d": {
+        "path": "res/audio/aside",
+        "type": "folder"
+    },
+    "2cb0034a-56e5-467c-a323-09c41a815630": {
+        "path": "res/audio/bg",
+        "type": "folder"
+    },
+    "62c24366-ef8c-4e19-8839-c39d4c06bba0": {
+        "path": "res/audio/effect",
+        "type": "folder"
+    },
+    "cff73675-b52a-41b7-b028-ec95019c1cde": {
+        "path": "res/default",
+        "type": "folder"
+    },
+    "cdd892e9-56af-4b60-a57a-fa61939ec00b": {
+        "path": "res/default/bag",
+        "type": "folder"
+    },
+    "1efed8f3-d474-4400-b7f8-186262eaf852": {
+        "path": "res/default/bagItemDetails",
+        "type": "folder"
+    },
+    "ebf0d419-aaab-41ca-9069-eb4c9c3622bf": {
+        "path": "res/default/bagItemGet",
+        "type": "folder"
+    },
+    "380d6edf-fdb0-4da9-99ba-9ca14c24c06a": {
+        "path": "res/default/pwdLockBox",
+        "type": "folder"
+    },
+    "40d6d8c4-bc25-470d-a663-77d40552f655": {
+        "path": "res/default/template",
+        "type": "folder"
+    },
+    "ed4a3b29-3f72-40f6-a07b-5964d3e2480e": {
+        "path": "res/default/template/plotMenu",
+        "type": "folder"
+    },
+    "8e8d451a-75f1-45b3-ada3-791f8ff70bee": {
+        "path": "res/default/template/plotMenu/横版-pic",
+        "type": "folder"
+    },
+    "7dd7a698-d1bf-46a2-bd11-ddaaa89a4fc5": {
+        "path": "res/default/template/plotMenu/竖版-pic",
+        "type": "folder"
+    },
+    "9f4d2b25-2b3a-4556-803b-02325965b7fa": {
+        "path": "res/image",
+        "type": "folder"
+    },
+    "df7899f3-0738-47cf-8251-d9c49b1e09da": {
+        "path": "res/image/bg",
+        "type": "folder"
+    },
+    "bb041b59-54d0-410f-86ca-ef2dd81daeae": {
+        "path": "res/image/draw",
+        "type": "folder"
+    },
+    "261a632b-3cfa-4ab8-b7bf-78289883abff": {
+        "path": "res/image/head",
+        "type": "folder"
+    },
+    "39327094-7732-4052-a310-77fad78929a1": {
+        "path": "res/image/item",
+        "type": "folder"
+    },
+    "fd72e48e-3060-4e48-8949-549938444254": {
+        "path": "res/text",
+        "type": "folder"
+    },
+    "237fdffa-d4f7-4fd8-9e13-1bf83a616234": {
+        "path": "res/text/bg",
+        "type": "folder"
+    },
+    "98dac954-16e5-441c-8f09-72df706ffc74": {
+        "path": "res/text/horizontal",
+        "type": "folder"
+    },
+    "2f25d268-d3d0-45d6-b2d1-9c0ef9810013": {
+        "path": "res/text/text",
+        "type": "folder"
+    },
+    "1b0cfe62-f001-4b8a-a0de-21d4b591c9f7": {
+        "path": "res/text/vertical",
+        "type": "folder"
+    },
+    "cb365af3-8afd-4776-9681-19c3fb675275": {
+        "path": "res/ui",
+        "type": "folder"
+    },
+    "2ba4ccdf-30b5-4473-9912-a7f19631e91e": {
+        "path": "res/ui/plot_jump",
+        "type": "folder"
+    },
+    "5a142335-a641-45ed-bb6d-aba2f09afcb3": {
+        "path": "res/ui/plot_select",
+        "type": "folder"
+    },
+    "79b2b2af-149b-4164-9fb0-8bda287f9134": {
+        "path": "res/ui/quick_talk",
+        "type": "folder"
+    },
+    "730b5fb7-8fd5-4d18-aa9b-94dad8fa4073": {
+        "path": "res/ui/stop_global_music",
+        "type": "folder"
+    },
+    "4eb3a5b9-a332-4267-ae4a-e796c2487576": {
+        "path": "res/video",
+        "type": "folder"
+    },
+    "d22d13f3-4694-4b21-9de8-e7fc401631bb": {
+        "path": "res/video/plot",
+        "type": "folder"
+    },
+    "11d2f81f-d554-41da-b566-13bfa057688e": {
+        "path": "cfg/ui/entry-set.json",
+        "type": "config"
+    },
+    "4cc3e143-34ca-4adb-9e85-ab5ec60dd248": {
+        "path": "cfg/bag/itemList.json",
+        "type": "config"
+    },
+    "062f34ec-105f-4098-91f0-983292422cf5": {
+        "path": "cfg/bag/itemDetails.json",
+        "type": "config"
+    },
+    "143ab97d-a734-4a60-89a0-921a92155a7f": {
+        "path": "cfg/bag/getItems1.json",
+        "type": "config"
+    },
+    "0448988f-de2f-4a7f-be6a-9e41ba7c3e34": {
+        "path": "cfg/bag/getItems2.json",
+        "type": "config"
+    },
+    "4e7d732d-6221-438d-9bad-65adcb5fd4ef": {
+        "path": "cfg/bag/getItems3.json",
+        "type": "config"
     }
 }
