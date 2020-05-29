@@ -3,9 +3,9 @@
         "id": "d7effde2-e601-48bb-8afa-daf7bcbd88b4",
         "name": "背景音乐",
         "type": "audio-bg",
-        "src": "42a5848c-512c-446e-a651-aac647451021",
+        "src": "34fbd074-2ba9-4ade-a757-e94506ef0597",
         "globalPlay": false,
-        "templateID": "2f9248d3-1e8b-4e1a-95d7-74cfdc62abd1",
+        "templateID": null,
         "zIndex": 2
     },
     {
