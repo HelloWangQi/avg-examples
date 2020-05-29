@@ -1,6 +1,6 @@
 [
 	{
-		"id": "43e744d4-2751-49c5-b721-ffe2f16e93e3",
+		"id": "ddb47645-472c-4c96-9029-20779abde5ae",
 		"templateID": null,
 		"name": "获得物品",
 		"type": "avg-bag-get-items",
@@ -11,8 +11,8 @@
 			"y": 0
 		},
 		"size": {
-			"width": 0,
-			"height": 0
+			"width": 442,
+			"height": 550
 		},
 		"scale": {
 			"x": 1,
@@ -22,51 +22,180 @@
 		"opacity": 255,
 		"color": "#ffffff",
 		"zIndex": 1,
+		"title": {
+			"id": "813e73b9-81c2-414b-9fcc-dc9442482dfc",
+			"active": true,
+			"comp": "avg-label",
+			"type": "tile",
+			"position": {
+				"x": 0,
+				"y": 230
+			},
+			"size": {
+				"width": 160,
+				"height": 55
+			},
+			"string": "获得物品",
+			"font": {
+				"size": 20,
+				"color": "#ffffff",
+				"family": "arial",
+				"bold": false,
+				"italic": false,
+				"underline": false,
+				"align": "center",
+				"line": 1
+			}
+		},
+		"bg": {
+			"id": "994538d0-168e-4a00-9b46-acf2c2fe0075",
+			"active": true,
+			"comp": "avg-image",
+			"type": "bg",
+			"position": {
+				"x": 0,
+				"y": 0
+			},
+			"size": {
+				"width": 442,
+				"height": 550
+			},
+			"texture": "78d2a00e-8b8b-4636-beae-f226f82dee32"
+		},
+		"jumpBtn": {
+			"id": "10f5a130-4421-4363-80ae-a9fd9fb92c84",
+			"active": true,
+			"comp": "avg-button",
+			"type": "jump-btn",
+			"position": {
+				"x": 0,
+				"y": -230
+			},
+			"size": {
+				"width": 184,
+				"height": 47
+			},
+			"textureNormal": "7e26068c-d470-4282-9265-937eff160aba",
+			"texturePress": "7e26068c-d470-4282-9265-937eff160aba"
+		},
 		"itemCount": 1,
-		"title": "获得物品",
-		"titleFont": {
-			"size": 20,
-			"color": "#ffffff",
-			"family": "arial",
-			"bold": false,
-			"italic": false,
-			"underline": false,
-			"align": "center",
-			"line": 1
-		},
-		"bg": null,
-		"itemNameFont": {
-			"size": 20,
-			"color": "#ffffff",
-			"family": "arial",
-			"bold": false,
-			"italic": false,
-			"underline": false,
-			"align": "center",
-			"line": 1
-		},
-		"itemDescFont": {
-			"size": 20,
-			"color": "#ffffff",
-			"family": "arial",
-			"bold": false,
-			"italic": false,
-			"underline": false,
-			"align": "center",
-			"line": 1
-		},
-		"itemCountFont": {
-			"size": 20,
-			"color": "#ffffff",
-			"family": "arial",
-			"bold": false,
-			"italic": false,
-			"underline": false,
-			"align": "center",
-			"line": 1
-		},
-		"itemCountBgColor": "#333",
-		"jumpBtnTextureNormal": null,
-		"jumpBtnTexturePress": null
+		"items": [
+			{
+				"id": "86c314d5-e95e-418e-8369-82c1b9fe7280",
+				"templateID": null,
+				"name": "",
+				"type": "",
+				"lockPos": false,
+				"lockSizeRatio": true,
+				"position": {
+					"x": 0,
+					"y": -20
+				},
+				"size": {
+					"width": 328,
+					"height": 370
+				},
+				"scale": {
+					"x": 1,
+					"y": 1
+				},
+				"active": true,
+				"opacity": 255,
+				"color": "#ffffff",
+				"zIndex": 1,
+				"icon": {
+					"id": "dc8a455a-57b3-4772-8366-6f874282c4ef",
+					"active": true,
+					"comp": "avg-image",
+					"type": "icon",
+					"position": {
+						"x": 0,
+						"y": 78
+					},
+					"size": {
+						"width": 318,
+						"height": 205
+					},
+					"texture": null
+				},
+				"itemName": {
+					"id": "a551eb75-5bb8-4537-aee2-f70dfbf2255e",
+					"active": true,
+					"comp": "avg-label",
+					"type": "name",
+					"position": {
+						"x": 0,
+						"y": -38
+					},
+					"size": {
+						"width": 100,
+						"height": 24
+					},
+					"string": "",
+					"font": {
+						"size": 24,
+						"color": "#ffffff",
+						"family": "arial",
+						"bold": false,
+						"italic": false,
+						"underline": false,
+						"align": "center",
+						"line": 1
+					}
+				},
+				"itemDescEnabled": true,
+				"itemDesc": {
+					"id": "f5aa354b-25b1-4a17-8727-fc1a80d05fd7",
+					"active": true,
+					"comp": "avg-label",
+					"type": "desc",
+					"position": {
+						"x": 0,
+						"y": -128
+					},
+					"size": {
+						"width": 317,
+						"height": 96
+					},
+					"string": "",
+					"font": {
+						"size": 20,
+						"color": "#ffffff",
+						"family": "arial",
+						"bold": false,
+						"italic": false,
+						"underline": false,
+						"align": "center",
+						"line": 1
+					}
+				},
+				"itemNum": {
+					"id": "65c81efc-68b5-48aa-a202-dfc0dcb58063",
+					"active": true,
+					"comp": "avg-item-num-label",
+					"type": "num",
+					"position": {
+						"x": 139,
+						"y": 162
+					},
+					"size": {
+						"width": 30,
+						"height": 30
+					},
+					"string": "",
+					"font": {
+						"size": 20,
+						"color": "#ffffff",
+						"family": "arial",
+						"bold": false,
+						"italic": false,
+						"underline": false,
+						"align": "center",
+						"line": 1
+					},
+					"bgColor": "#eebf39"
+				}
+			}
+		]
 	}
 ]

@@ -1,4 +1,25 @@
 {
 	"name": "物品",
-	"goods": []
+	"goods": [
+		{
+			"class": "item-normal",
+			"desc": "测试物品的简单描述1",
+			"displayData": [],
+			"displayType": "none",
+			"effectType": "none",
+			"iconBig": "899f1fc0-043f-4bd2-9222-85d9f1451f5e",
+			"iconSmall": "899f1fc0-043f-4bd2-9222-85d9f1451f5e",
+			"id": 1,
+			"name": "测试物品",
+			"ownByDefault": true,
+			"ownByDefaultCount": 1,
+			"type": "item",
+			"use": {
+				"consumable": true,
+				"count": 1,
+				"enabled": true
+			},
+			"uuid": "11d9995a-e8ae-45e7-9603-0f6c0cae899b"
+		}
+	]
 }
